@@ -27,13 +27,3 @@ pip install -r requirements.txt
 ## Reproducibility
 
 Re-run the notebook to refresh downloads. Raw files are never overwritten in place without logging; see notebook settings.
-
-## GitHub note
-
-Six federal ZIP files exceed GitHub's 100 MB file limit and are listed in `.gitignore`. They remain on your local machine under `data/raw/federal/`. Re-run **Phase 4** in the notebook on a fresh clone to download them again. All other data, logs, docs, and the notebook are included in this repo.
-
-Regenerate documentation after new downloads:
-
-```bash
-python scripts/generate_docs.py
-```
