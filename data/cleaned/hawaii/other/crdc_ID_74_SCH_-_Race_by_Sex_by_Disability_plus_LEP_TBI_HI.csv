@@ -1,0 +1,50 @@
+LEA_STATE,LEA_STATE_NAME,NCESLEAID,LEA_NAME,SCHID,SCHOOL_NAME,NCESSCH,JJ,DISABILITY_CATEGORY,AM_M_7,AS_M_7,BL_M_7,HI_M_7,MU_M_7,PI_M_7,WH_M_7,AM_F_7,AS_F_7,BL_F_7,HI_F_7,MU_F_7,PI_F_7,WH_F_7,TOTAL_STUDENTS_REPORTED,LEP_M,NLEP_M,LEP_F,NLEP_F,CF_M,HH_M,PPPS_M,RC39_M,RC79TO40_M,RC80_M,RF_M,SS_M,CF_F,HH_F,PPPS_F,RC39_F,RC79TO40_F,RC80_F,RF_F,SS_F
+HI,HAWAII,1500030,Hawaii Department of Education,6,Kahaluu Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,7,Kahuku High & Intermediate School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,9,Kailua High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,12,Kalaheo High School,150003000000,No,TBI,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,19,Maunawili Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,36,Prince Jonah Kalanianaole Elementary & Intermediate School,150003000000,No,TBI,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,47,Mountain View Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,50,Pahoa High & Intermediate School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,56,Henry Perrine Baldwin High School,150003000000,No,TBI,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,79,Waihee Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,100,Castle High School,150003000000,No,TBI,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,102,Mililani High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,103,Moanalua High School,150003000000,No,TBI,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,108,Leilehua High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,112,Pohakea Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,117,Nanakuli High & Intermediate School,150003000000,No,TBI,0,0,0,1,0,1,0,0,0,0,0,0,1,0,3,0,2,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,133,Ewa Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,134,James Campbell High School,150003000000,No,TBI,0,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,150,Admiral Arthur W Radford High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,159,Waipahu Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,161,Waipahu High School,150003000000,No,TBI,0,0,0,0,0,2,0,0,1,0,0,0,0,0,3,1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,164,King David Kalakaua Middle School,150003000000,No,TBI,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,166,Kapolei Elementary School,150003000000,No,TBI,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,168,Kaala Elementary School,150003000000,No,TBI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,173,Daniel K Inouye Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,192,Niu Valley Middle School,150003000000,No,TBI,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,193,President William McKinley High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,212,Kaimuki High School,150003000000,No,TBI,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,217,Queen Kaahumanu Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,218,William P Jarrett Middle School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,228,Henry J Kaiser High School,150003000000,No,TBI,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,230,Leihoku Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,234,Pahoa Elementary School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,1,0,2,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,235,Kealakehe Intermediate School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,236,Kahuku Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,239,Kaleiopuu Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,251,King Kekaulike High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,254,Kealakehe High School,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,259,Kapolei Middle School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,260,Keaau High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,261,Kapolei High School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,263,Kanu o ka Aina - New Century PCS,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,265,West Hawaii Explorations Academy,150003000000,No,TBI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,281,Volcano School of Arts & Sciences - A Community PCS,150003000000,No,TBI,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,282,Hawaii Academy of Arts & Science PCS,150003000000,No,TBI,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,291,Keoneula Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,293,Kona Pacific - PCS,150003000000,No,TBI,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,295,Hawaii Technology Academy - PCS,150003000000,No,TBI,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+HI,HAWAII,1500030,Hawaii Department of Education,300,Hookele Elementary School,150003000000,No,TBI,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0

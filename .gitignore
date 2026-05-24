@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# GitHub rejects files over 100 MB — re-download via notebook Phase 4
+data/raw/federal/other/School_District_Characteristics_2017-18.zip
+data/raw/federal/other/School_District_Characteristics_2020-21.zip
+data/raw/federal/other/School_District_Characteristics_2021-22.zip
+data/raw/federal/other/TL_2018_SD.zip
+data/raw/federal/other/TL_2021_SD.zip
+data/raw/federal/other/2017-18-crdc-data.zip

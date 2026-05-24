@@ -1,0 +1,293 @@
+LEA_STATE,LEA_STATE_NAME,LEAID,LEA_NAME,SCHID,SCH_NAME,COMBOKEY,JJ,SCH_SSCLASSES_IND,SCH_SSCLASSES_ALGG_M,SCH_SSCLASSES_ALGG_F,TOT_SSCLASSES_ALGG,SCH_SSCLASSES_OTHM_M,SCH_SSCLASSES_OTHM_F,TOT_SSCLASSES_OTHM,SCH_SSCLASSES_SCI_M,SCH_SSCLASSES_SCI_F,TOT_SSCLASSES_SCI,SCH_SSCLASSES_ENGL_M,SCH_SSCLASSES_ENGL_F,TOT_SSCLASSES_ENGL,SCH_SSCLASSES_OTHA_M,SCH_SSCLASSES_OTHA_F,TOT_SSCLASSES_OTHA
+HI,HAWAII,1500030,Hawaii Department of Education,1,Enchanted Lake Elementary School,150003000001,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,2,Hauula Elementary School,150003000002,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,3,Heeia Elementary School,150003000003,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,4,Kaaawa Elementary School,150003000004,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,5,Kaelepulu Elementary School,150003000005,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,6,Kahaluu Elementary School,150003000006,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,7,Kahuku High & Intermediate School,150003000007,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,8,Kailua Elementary School,150003000008,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,9,Kailua High School,150003000009,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,10,Kailua Intermediate School,150003000010,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,11,Kainalu Elementary School,150003000011,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,12,Kalaheo High School,150003000012,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,13,Kaneohe Elementary School,150003000013,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,14,Kapunahala Elementary School,150003000014,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,15,Keolu Elementary School,150003000015,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,16,Governor Samuel Wilder King Intermediate School,150003000016,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,17,Laie Elementary School,150003000017,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,18,Ka'ohao Public Charter School,150003000018,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,19,Maunawili Elementary School,150003000019,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,20,Mokapu Elementary School,150003000020,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,21,Reverend Benjamin Parker Elementary School,150003000021,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,22,Blanche Pope Elementary School,150003000022,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,23,Puohala Elementary School,150003000023,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,24,Sunset Beach Elementary School,150003000024,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,25,Waiahole Elementary School,150003000025,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,26,Waimanalo Elementary & Intermediate School,150003000026,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,27,Ernest Bowen DeSilva Elementary School,150003000027,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,28,Haaheo Elementary School,150003000028,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,29,Hilo High School,150003000029,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,30,Hilo Intermediate School,150003000030,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,31,Hilo Union Elementary School,150003000031,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,32,Holualoa Elementary School,150003000032,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,33,Honaunau Elementary School,150003000033,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,34,Honokaa High & Intermediate School,150003000034,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,35,Hookena Elementary School,150003000035,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,36,Prince Jonah Kalanianaole Elementary & Intermediate School,150003000036,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,37,Chiefess Kapiolani Elementary School,150003000037,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,38,Kau High & Pahala Elementary School,150003000038,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,39,Kaumana Elementary School,150003000039,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,40,Keaau Middle School,150003000040,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,41,Kealakehe Elementary School,150003000041,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,42,Keaukaha Elementary School,150003000042,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,43,Kohala High School,150003000043,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,44,Konawaena Elementary School,150003000044,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,45,Konawaena High School,150003000045,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,46,Laupahoehoe Community - PCS,150003000046,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,47,Mountain View Elementary School,150003000047,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,48,Naalehu Elementary School,150003000048,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,49,Paauilo Elementary & Intermediate School,150003000049,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,50,Pahoa High & Intermediate School,150003000050,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,51,Waiakea Elementary School,150003000051,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,52,Waiakea High School,150003000052,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,53,Waiakea Intermediate School,150003000053,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,54,Waiakeawaena Elementary School,150003000054,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,55,Waimea Elementary School,150003000055,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,56,Henry Perrine Baldwin High School,150003000056,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,57,Haiku Elementary School,150003000057,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,58,Hana High & Elementary School,150003000058,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,59,Iao Intermediate School,150003000059,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,60,Kahului Elementary School,150003000060,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,61,King Kamehameha III Elementary School,150003000061,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,62,Kaunakakai Elementary School,150003000062,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,64,Kihei Elementary School,150003000064,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,65,Kilohana Elementary School,150003000065,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,66,Kualapuu School - Public Conversion Charter,150003000066,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,67,Kula Elementary School,150003000067,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,68,Lahaina Intermediate School,150003000068,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,69,Lahainaluna High School,150003000069,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,70,Lanai High & Elementary School,150003000070,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,71,Lihikai Elementary School,150003000071,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,72,Makawao Elementary School,150003000072,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,73,Maui High School,150003000073,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,74,Maunaloa Elementary School,150003000074,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,75,Molokai High School,150003000075,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,76,Paia Elementary School,150003000076,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,77,Pukalani Elementary School,150003000077,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,79,Waihee Elementary School,150003000079,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,80,Wailuku Elementary School,150003000080,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,81,Eleele Elementary School,150003000081,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,82,Hanalei Elementary School,150003000082,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,83,Kalaheo Elementary School,150003000083,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,84,Kapaa Elementary School,150003000084,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,85,Kapaa High School,150003000085,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,86,Kauai High School,150003000086,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,88,Kekaha Elementary School,150003000088,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,89,Kilauea Elementary School,150003000089,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,90,Koloa Elementary School,150003000090,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,91,Niihau High & Elementary School,150003000091,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,92,Waimea Canyon Middle School,150003000092,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,93,Waimea High School,150003000093,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,94,Elsie H Wilcox Elementary School,150003000094,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,96,Hawaii School for the Deaf and Blind,150003000096,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,98,Olomana School,150003000098,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,99,Mililani Mauka Elementary School,150003000099,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,100,Castle High School,150003000100,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,101,Aikahi Elementary School,150003000101,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,102,Mililani High School,150003000102,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,103,Moanalua High School,150003000103,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,104,Moanalua Elementary School,150003000104,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,105,Mililani Waena Elementary School,150003000105,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,106,Mililani Uka Elementary School,150003000106,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,107,Makalapa Elementary School,150003000107,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,108,Leilehua High School,150003000108,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,109,Waiau Elementary School,150003000109,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,110,Waianae High School,150003000110,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,111,Waianae Elementary School,150003000111,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,112,Pohakea Elementary School,150003000112,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,113,Pearl City Highlands School,150003000113,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,114,Pearl City High School,150003000114,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,115,Pearl City Elementary School,150003000115,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,116,Palisades Elementary School,150003000116,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,117,Nanakuli High & Intermediate School,150003000117,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,118,Nanakuli Elementary School,150003000118,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,119,Nanaikapono Elementary School,150003000119,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,120,Momilani Elementary School,150003000120,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,121,Mauka Lani Elementary School,150003000121,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,122,Manana Elementary School,150003000122,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,123,Makakilo Elementary School,150003000123,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,124,Makaha Elementary School,150003000124,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,125,Maili Elementary School,150003000125,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,126,Lehua Elementary School,150003000126,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,127,Kaimiloa Elementary School,150003000127,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,128,Iroquois Point Elementary School,150003000128,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,129,Ilima Intermediate School,150003000129,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,130,Honowai Elementary School,150003000130,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,131,Highlands Intermediate School,150003000131,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,132,Ewa Beach Elementary School,150003000132,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,133,Ewa Elementary School,150003000133,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,134,James Campbell High School,150003000134,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,135,Barbers Point Elementary School,150003000135,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,136,August Ahrens Elementary School,150003000136,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,137,Major Sheldon Wheeler Middle School,150003000137,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,138,Major Sheldon Wheeler Elementary School,150003000138,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,139,Gustav H Webling Elementary School,150003000139,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,140,Waimalu Elementary School,150003000140,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,141,Waialua High & Intermediate School,150003000141,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,142,Waialua Elementary School,150003000142,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,143,Wahiawa Middle School,150003000143,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,144,Wahiawa Elementary School,150003000144,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,145,Sergeant Samuel K Solomon Elementary School,150003000145,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,146,Major General William R Shafter Elementary School,150003000146,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,147,Alvah A Scott Elementary School,150003000147,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,148,Salt Lake Elementary School,150003000148,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,149,Red Hill Elementary School,150003000149,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,150,Admiral Arthur W Radford High School,150003000150,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,151,Pearl Ridge Elementary School,150003000151,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,152,Pearl Harbor Kai Elementary School,150003000152,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,153,Pearl Harbor Elementary School,150003000153,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,154,Admiral Chester W Nimitz Elementary School,150003000154,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,155,Mokulele Elementary School,150003000155,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,156,Moanalua Middle School,150003000156,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,157,Ahuimanu Elementary School,150003000157,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,158,Waipahu Intermediate School,150003000158,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,159,Waipahu Elementary School,150003000159,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,160,Kalihi Kai Elementary School,150003000160,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,161,Waipahu High School,150003000161,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,162,Kalihi Elementary School,150003000162,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,163,Kalani High School,150003000163,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,164,King David Kalakaua Middle School,150003000164,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,165,Princess Victoria Kaiulani Elementary School,150003000165,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,166,Kapolei Elementary School,150003000166,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,167,Kipapa Elementary School,150003000167,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,168,Kaala Elementary School,150003000168,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,169,Iliahi Elementary School,150003000169,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,170,Lt Col Horrace Meek Hickam Elementary School,150003000170,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,171,Helemano Elementary School,150003000171,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,172,Haleiwa Elementary School,150003000172,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,173,Daniel K Inouye Elementary School,150003000173,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,174,Aliamanu Middle School,150003000174,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,175,Aliamanu Elementary School,150003000175,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,176,Aiea Intermediate School,150003000176,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,177,Aiea High School,150003000177,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,178,Aiea Elementary School,150003000178,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,179,Mayor John H Wilson Elementary School,150003000179,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,180,President George Washington Middle School,150003000180,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,182,Waikiki Elementary School,150003000182,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,183,Waialae Elementary - PCS,150003000183,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,184,Robert Louis Stevenson Middle School,150003000184,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,185,Royal Elementary School,150003000185,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,186,President Theodore Roosevelt High School,150003000186,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,187,Puuhale Elementary School,150003000187,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,188,Pauoa Elementary School,150003000188,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,189,Palolo Elementary School,150003000189,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,190,Nuuanu Elementary School,150003000190,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,191,Noelani Elementary School,150003000191,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,192,Niu Valley Middle School,150003000192,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,193,President William McKinley High School,150003000193,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,194,Manoa Elementary School,150003000194,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,195,King William Lunalilo Elementary School,150003000195,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,196,Maemae Elementary School,150003000196,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,197,President Abraham Lincoln Elementary School,150003000197,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,198,Linapuni Elementary School,150003000198,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,200,Princess Miriam K Likelike Elementary School,150003000200,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,201,King Liholiho Elementary School,150003000201,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,202,Lanakila Elementary School,150003000202,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,203,Prince Jonah Kuhio Elementary School,150003000203,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,204,Koko Head Elementary School,150003000204,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,205,Prince David Kawananakoa Middle School,150003000205,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,206,Kauluwela Elementary School,150003000206,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,207,Kapalama Elementary School,150003000207,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,208,Kamiloiki Elementary School,150003000208,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,209,Kalihi Waena Elementary School,150003000209,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,210,Kalihi Uka Elementary School,150003000210,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,211,Kaimuki Middle School,150003000211,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,212,Kaimuki High School,150003000212,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,213,President Thomas Jefferson Elementary School,150003000213,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,214,Hokulani Elementary School,150003000214,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,215,Kahala Elementary School,150003000215,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,216,Kaewai Elementary School,150003000216,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,217,Queen Kaahumanu Elementary School,150003000217,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,218,William P Jarrett Middle School,150003000218,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,219,Hahaione Elementary School,150003000219,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,220,Mayor Joseph J Fern Elementary School,150003000220,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,221,Governor Wallace Rider Farrington High School,150003000221,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,222,Governor Sanford B Dole Middle School,150003000222,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,223,Central Middle School,150003000223,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,225,Aliiolani Elementary School,150003000225,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,226,Ala Wai Elementary School,150003000226,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,227,Aina Haina Elementary School,150003000227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,228,Henry J Kaiser High School,150003000228,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,229,Waianae Intermediate School,150003000229,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,230,Leihoku Elementary School,150003000230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,231,Kanoelani Elementary School,150003000231,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,232,Kahakai Elementary School,150003000232,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,233,Samuel Enoka Kalama Intermediate School,150003000233,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,234,Pahoa Elementary School,150003000234,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,235,Kealakehe Intermediate School,150003000235,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,236,Kahuku Elementary School,150003000236,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,237,Princess Nahienaena Elementary School,150003000237,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,238,Lokelani Intermediate School,150003000238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,239,Kaleiopuu Elementary School,150003000239,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,240,Kamaile Academy PCS,150003000240,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,241,Maui Waena Intermediate School,150003000241,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,242,King Kaumualii Elementary School,150003000242,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,244,Keonepoko Elementary School,150003000244,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,246,Anuenue School,150003000246,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,247,Waikoloa Elementary and Middle School,150003000247,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,248,Holomua Elementary School,150003000248,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,249,Honokaa Elementary School,150003000249,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,250,Kohala Elementary School,150003000250,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,251,King Kekaulike High School,150003000251,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,252,Konawaena Middle School,150003000252,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,253,Kamalii Elementary School,150003000253,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,254,Kealakehe High School,150003000254,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,255,Kapaa Middle School,150003000255,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,256,Mililani Middle School,150003000256,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,257,Waikele Elementary School,150003000257,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,258,Keaau Elementary School,150003000258,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,259,Kapolei Middle School,150003000259,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,260,Keaau High School,150003000260,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,261,Kapolei High School,150003000261,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,262,Connections - New Century PCS,150003000262,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,263,Kanu o ka Aina - New Century PCS,150003000263,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,264,Na Wai Ola - PCS,150003000264,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,265,West Hawaii Explorations Academy,150003000265,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,266,Chiefess Kamakahelei Middle School,150003000266,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,267,Kohala Middle School,150003000267,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,268,Waimea Middle - PCCS,150003000268,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,269,Kula Aupuni Niihau A Kahelelani Aloha - NCPCS,150003000269,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,270,Halau Ku Mana - A New Century PCS,150003000270,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,271,Voyager - A Public Charter School,150003000271,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,273,University Laboratory School,150003000273,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,274,Myron B. Thompson Academy - A New Century PCS,150003000274,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,275,Hakipuu Learning Center,150003000275,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,276,Ke Kula o Samuel M Kamakau - A Laboratory PCS,150003000276,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,277,Innovations - PCS,150003000277,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,278,Ke Ana Laahana - PCS,150003000278,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,279,Kihei Charter School,150003000279,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,280,Ke Kula Niihau o Kekaha Learning Center - A Laboratory PCS,150003000280,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,281,Volcano School of Arts & Sciences - A Community PCS,150003000281,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,282,Hawaii Academy of Arts & Science PCS,150003000282,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,283,Ka Umeke Kaeo - PCS,150003000283,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,284,Ke Kula o Nawahiokalaniopuu Iki - Laboratory PCS,150003000284,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,285,Mililani Ike Elementary School,150003000285,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,286,Ka Waihona o ka Naauao - New Century PCS,150003000286,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,287,Ke Kula o Ehunuikaimalino,150003000287,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,288,Kua o ka La - NCPCS,150003000288,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,289,Kanuikapono Learning Center,150003000289,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,290,Molokai Middle School,150003000290,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,291,Keoneula Elementary School,150003000291,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,292,Pomaikai Elementary School,150003000292,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,293,Kona Pacific - PCS,150003000293,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,294,Kawaikini NCPCS,150003000294,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,295,Hawaii Technology Academy - PCS,150003000295,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,296,Ewa Makai Middle School,150003000296,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,297,Puu Kukui Elementary School,150003000297,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,298,SEEQS - Sch Examining Essential Questions of Sustainability,150003000298,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,299,Malama Honua Learning Center PCS,150003000299,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,300,Hookele Elementary School,150003000300,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,301,Ka'u Learning Academy - PCS,150003000301,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,302,Kapolei Charter School by Goodwill Hawaii,150003000302,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+HI,HAWAII,1500030,Hawaii Department of Education,303,Kamalani Academy,150003000303,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
