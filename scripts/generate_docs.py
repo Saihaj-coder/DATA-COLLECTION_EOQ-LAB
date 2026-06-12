@@ -18,6 +18,12 @@ def norm_path(p: str) -> str:
     return str(p).replace("\\", "/")
 
 
+def count_files_under(root: Path) -> int:
+    if not root.exists():
+        return 0
+    return sum(1 for p in root.rglob("*") if p.is_file())
+
+
 def category_file_counts(root: Path) -> dict[str, int]:
     counts = {cat: 0 for cat in CATEGORIES}
     if not root.exists():
@@ -134,7 +140,11 @@ def main() -> None:
     combined = pd.concat([hi_table, va_table], ignore_index=True)
 
     lines: list[str] = []
-    lines.append("# Data sources catalog (Hawaii & Virginia)\n")
+    fed_crdc = count_files_under(PROJECT / "data/raw/federal/crdc")
+    fed_edtech = count_files_under(PROJECT / "data/raw/federal/edtech")
+    fed_total_manifest = len(m[m.state == "federal"])
+
+    lines.append("# Data sources catalog (Hawaii, Virginia & Federal)\n")
     lines.append(
         "Generated from `logs/manifest.csv` (deduplicated by file path) plus "
         "`data/cleaned/` extracts.\n"
@@ -153,7 +163,13 @@ def main() -> None:
         f"| Virginia state downloads | `data/raw/virginia/` | {len(m[m.state == 'virginia'])} |"
     )
     lines.append(
-        f"| Federal national downloads | `data/raw/federal/` | {len(m[m.state == 'federal'])} |"
+        f"| Federal national downloads | `data/raw/federal/` | {fed_total_manifest} |"
+    )
+    lines.append(
+        f"| — CRDC public-use zips | `data/raw/federal/crdc/` | {fed_crdc} |"
+    )
+    lines.append(
+        f"| — Ed-tech / internet surveys | `data/raw/federal/edtech/` | {fed_edtech} |"
     )
     lines.append(
         f"| Hawaii cleaned extracts | `data/cleaned/hawaii/` | {len(cleaned_df[cleaned_df.state == 'hawaii'])} |"
@@ -181,7 +197,13 @@ def main() -> None:
         "| [NCES CCD](https://nces.ed.gov/ccd/) | National school directory (filtered to HI/VA) |"
     )
     lines.append(
-        "| [CRDC / data.ed.gov](https://data.ed.gov/) | Civil Rights Data Collection 2017-18 (filtered to HI/VA) |\n"
+        "| [CRDC / civilrightsdata.ed.gov](https://civilrightsdata.ed.gov/) | CRDC public-use zips (2015-16, 2017-18, 2020-21) |"
+    )
+    lines.append(
+        "| [CRDC / data.ed.gov](https://data.ed.gov/) | Individual CRDC spreadsheets; HI/VA cleaned extracts |"
+    )
+    lines.append(
+        "| [NCES FRSS](https://nces.ed.gov/surveys/frss/) | Fast Response Survey System — technology in schools |\n"
     )
 
     lines.append("## Raw vs cleaned\n")
@@ -264,22 +286,31 @@ def main() -> None:
         va_table.loc[va_table.category == "TOTAL", "cleaned_federal_extracts"].iloc[0]
     )
 
-    summary = f"""# EOQ Lab — Data Collection Summary (Hawaii & Virginia)
+    summary = f"""# EOQ Lab — Data Collection Summary
 
 **Prepared for:** Supervisor review  
 **Date:** {datetime.now().strftime("%B %d, %Y")}
 
 ## What was delivered
 
-This project collected publicly available U.S. public education data for **Hawaii** and **Virginia** using a reproducible Python workflow in `notebooks/collect_education_data.ipynb`. All downloads are logged in `logs/manifest.csv`.
+This project collected publicly available U.S. public education data in two phases using reproducible Jupyter notebooks. All downloads are logged in `logs/manifest.csv`.
 
 | Deliverable | Location |
 | --- | --- |
-| Collection notebook | `notebooks/collect_education_data.ipynb` |
+| Hawaii & Virginia notebook | `notebooks/collect_education_data.ipynb` |
+| National CRDC & ed-tech notebook | `notebooks/collect_federal_crdc_edtech.ipynb` |
 | Original downloads | `data/raw/` |
 | State-filtered federal extracts | `data/cleaned/` |
 | Download log & manifest | `logs/manifest.csv`, `logs/download_log.jsonl` |
 | Full source catalog | `docs/SOURCES.md` |
+
+### Phase 1 — Hawaii & Virginia
+
+State downloads from Hawaii DOE, Hawaii child-nutrition fiscal pages, and Virginia Open Data; baseline federal NCES/CRDC; HI/VA row extracts in `data/cleaned/`.
+
+### Phase 2 — National federal (CRDC & ed-tech)
+
+CRDC public-use zips (2015-16, 2020-21), individual CRDC spreadsheets from data.ed.gov, and NCES FRSS technology/internet surveys — all U.S. states, stored under `data/raw/federal/crdc/` and `data/raw/federal/edtech/`.
 
 ## How the data is organized
 
@@ -302,7 +333,7 @@ We used two complementary layers:
 | Virginia | {va_total_raw} | {va_total_clean} | {va_total_raw + va_total_clean} |
 | **Both states** | **{hi_total_raw + va_total_raw}** | **{hi_total_clean + va_total_clean}** | **{hi_total_raw + hi_total_clean + va_total_raw + va_total_clean}** |
 
-Plus **{len(m[m.state == 'federal'])}** federal national files in `data/raw/federal/` (source zips for NCES/CRDC and other U.S.-wide datasets).
+Plus **{fed_total_manifest}** federal national files in `data/raw/federal/` — including **{fed_crdc}** CRDC zip bundles and **{fed_edtech}** ed-tech survey files.
 
 ## Collection methods (brief)
 
@@ -314,18 +345,23 @@ Plus **{len(m[m.state == 'federal'])}** federal national files in `data/raw/fede
 | PDF catalog parsing | Hawaii publicly available reports list |
 | Federal API / catalog | NCES and CRDC national files |
 | Phase 6 processing | Improved file categorization; HI/VA row extraction from federal zips |
+| CRDC zip + API downloads | National civil-rights datasets (2015-16, 2020-21) |
+| NCES FRSS ed-tech surveys | Internet access, devices, computer science in schools |
 
 ## Known limitations
 
 - **Hawaii state test scores:** No automated exports from HIDOE dashboard sites (ARCH/Strive HI); test-score coverage comes mainly from CRDC cleaned files.
 - **Teachers category:** Limited direct state downloads; some teacher-related CRDC topics are filed under `other/`.
 - **Virginia:** Some doe.virginia.gov HTML pages returned HTTP 403; bulk coverage comes from the Open Data API.
+- **Federal Phase 3:** Some individual CRDC spreadsheet URLs on data.ed.gov timed out (502/504); the CRDC zip files remain the primary national deliverables.
 
 ## How to reproduce
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Open and run `notebooks/collect_education_data.ipynb` top to bottom.
-3. See `README.md` for folder layout.
+2. Run `notebooks/collect_education_data.ipynb` top to bottom.
+3. Run `notebooks/collect_federal_crdc_edtech.ipynb` top to bottom.
+4. Regenerate docs: `python scripts/generate_docs.py`
+5. See `README.md` for folder layout.
 
 ---
 

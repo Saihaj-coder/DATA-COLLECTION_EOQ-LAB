@@ -1,19 +1,28 @@
-# EOQ Lab — Data Collection Summary (Hawaii & Virginia)
+# EOQ Lab — Data Collection Summary
 
 **Prepared for:** Supervisor review  
-**Date:** May 23, 2026
+**Date:** June 12, 2026
 
 ## What was delivered
 
-This project collected publicly available U.S. public education data for **Hawaii** and **Virginia** using a reproducible Python workflow in `notebooks/collect_education_data.ipynb`. All downloads are logged in `logs/manifest.csv`.
+This project collected publicly available U.S. public education data in two phases using reproducible Jupyter notebooks. All downloads are logged in `logs/manifest.csv`.
 
 | Deliverable | Location |
 | --- | --- |
-| Collection notebook | `notebooks/collect_education_data.ipynb` |
+| Hawaii & Virginia notebook | `notebooks/collect_education_data.ipynb` |
+| National CRDC & ed-tech notebook | `notebooks/collect_federal_crdc_edtech.ipynb` |
 | Original downloads | `data/raw/` |
 | State-filtered federal extracts | `data/cleaned/` |
 | Download log & manifest | `logs/manifest.csv`, `logs/download_log.jsonl` |
 | Full source catalog | `docs/SOURCES.md` |
+
+### Phase 1 — Hawaii & Virginia
+
+State downloads from Hawaii DOE, Hawaii child-nutrition fiscal pages, and Virginia Open Data; baseline federal NCES/CRDC; HI/VA row extracts in `data/cleaned/`.
+
+### Phase 2 — National federal (CRDC & ed-tech)
+
+CRDC public-use zips (2015-16, 2020-21), individual CRDC spreadsheets from data.ed.gov, and NCES FRSS technology/internet surveys — all U.S. states, stored under `data/raw/federal/crdc/` and `data/raw/federal/edtech/`.
 
 ## How the data is organized
 
@@ -51,7 +60,7 @@ We used two complementary layers:
 | Virginia | 220 | 50 | 270 |
 | **Both states** | **298** | **100** | **398** |
 
-Plus **104** federal national files in `data/raw/federal/` (source zips for NCES/CRDC and other U.S.-wide datasets).
+Plus **351** federal national files in `data/raw/federal/` — including **2** CRDC zip bundles and **46** ed-tech survey files.
 
 ## Collection methods (brief)
 
@@ -63,18 +72,23 @@ Plus **104** federal national files in `data/raw/federal/` (source zips for NCES
 | PDF catalog parsing | Hawaii publicly available reports list |
 | Federal API / catalog | NCES and CRDC national files |
 | Phase 6 processing | Improved file categorization; HI/VA row extraction from federal zips |
+| CRDC zip + API downloads | National civil-rights datasets (2015-16, 2020-21) |
+| NCES FRSS ed-tech surveys | Internet access, devices, computer science in schools |
 
 ## Known limitations
 
 - **Hawaii state test scores:** No automated exports from HIDOE dashboard sites (ARCH/Strive HI); test-score coverage comes mainly from CRDC cleaned files.
 - **Teachers category:** Limited direct state downloads; some teacher-related CRDC topics are filed under `other/`.
 - **Virginia:** Some doe.virginia.gov HTML pages returned HTTP 403; bulk coverage comes from the Open Data API.
+- **Federal Phase 3:** Some individual CRDC spreadsheet URLs on data.ed.gov timed out (502/504); the CRDC zip files remain the primary national deliverables.
 
 ## How to reproduce
 
 1. Install dependencies: `pip install -r requirements.txt`
-2. Open and run `notebooks/collect_education_data.ipynb` top to bottom.
-3. See `README.md` for folder layout.
+2. Run `notebooks/collect_education_data.ipynb` top to bottom.
+3. Run `notebooks/collect_federal_crdc_edtech.ipynb` top to bottom.
+4. Regenerate docs: `python scripts/generate_docs.py`
+5. See `README.md` for folder layout.
 
 ---
 
