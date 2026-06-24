@@ -16,6 +16,7 @@ Thumbs.db
 *.swp
 
 # GitHub rejects files over 100 MB — re-download via notebook Phase 4
+data/raw/federal/crdc_extracted/2015-16/2015-16_Data_Files_and_Layouts_CRDC 2015-16 School Data.csv
 data/raw/federal/other/School_District_Characteristics_2017-18.zip
 data/raw/federal/other/School_District_Characteristics_2020-21.zip
 data/raw/federal/other/School_District_Characteristics_2021-22.zip

@@ -1,7 +1,7 @@
 # EOQ Lab — Data Collection Summary
 
 **Prepared for:** Supervisor review  
-**Date:** June 12, 2026
+**Date:** June 24, 2026
 
 ## What was delivered
 
@@ -60,7 +60,7 @@ We used two complementary layers:
 | Virginia | 220 | 50 | 270 |
 | **Both states** | **298** | **100** | **398** |
 
-Plus **351** federal national files in `data/raw/federal/` — including **2** CRDC zip bundles and **46** ed-tech survey files.
+Plus **466** federal national files in `data/raw/federal/` — including **2** CRDC zip bundles and **55** ed-tech survey files.
 
 ## Collection methods (brief)
 

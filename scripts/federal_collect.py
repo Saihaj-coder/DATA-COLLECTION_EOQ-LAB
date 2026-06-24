@@ -81,26 +81,139 @@ EDTECH_KNOWN_DOWNLOADS = [
         "format": "ZIP",
         "url": "https://nces.ed.gov/surveys/frss/download/data/f92data.zip",
         "description": "Ed-tech: Educational Technology in Public Schools, 2008 — survey data",
+        "category": "other",
     },
     {
         "dataset_title": "Educational Technology in Public School Districts, 2008",
         "format": "ZIP",
         "url": "https://nces.ed.gov/surveys/frss/download/data/f93data.zip",
         "description": "Ed-tech: Educational Technology in Public School Districts, 2008 — survey data",
+        "category": "other",
     },
     {
         "dataset_title": "Internet Access in U.S. Public Schools, 2003",
         "format": "ZIP",
         "url": "https://nces.ed.gov/surveys/frss/download/data/f86data.zip",
         "description": "Ed-tech: Internet Access in U.S. Public Schools, 2003 — survey data",
+        "category": "other",
     },
     {
         "dataset_title": "Teachers' Use of Educational Technology in U.S. Public Schools, 2009",
         "format": "ZIP",
         "url": "https://nces.ed.gov/surveys/frss/download/data/f95data.zip",
         "description": "Ed-tech: Teachers' Use of Educational Technology, 2009 — survey data",
+        "category": "other",
     },
 ]
+
+# Additional FRSS surveys (direct NCES URLs — not via flaky data.ed.gov API)
+FRSS_EXTENDED_DOWNLOADS = [
+    {
+        "dataset_title": "School Safety and Discipline, 2013-14 (FRSS 106)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f106data.zip",
+        "description": "Civil rights: FRSS 106 School Safety and Discipline 2013-14 — survey data",
+        "category": "discipline",
+    },
+    {
+        "dataset_title": "School Safety and Discipline, 2013-14 (FRSS 106) — documentation",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f106doc.zip",
+        "description": "Civil rights: FRSS 106 School Safety and Discipline 2013-14 — documentation",
+        "category": "discipline",
+    },
+    {
+        "dataset_title": "Internet Access in Public Schools, Fall 2000 (FRSS 79)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f79data.zip",
+        "description": "Ed-tech: FRSS 79 Internet Access in Public Schools, 2000 — survey data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Internet Access in Public Schools, Fall 1999 (FRSS 75)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f75data.zip",
+        "description": "Ed-tech: FRSS 75 Internet Access in Public Schools, 1999 — survey data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Internet Access in U.S. Public Schools, Fall 2002 (FRSS 83)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f83data.zip",
+        "description": "Ed-tech: FRSS 83 Internet Access in Public Schools, 2002 — survey data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Teachers' Use of Technology for School and Homework, 2018-19 (FRSS 109)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2020/data/2020088_ascii.zip",
+        "description": "Ed-tech: FRSS 109 Teachers' technology & homework gap, 2018-19 — ASCII data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Teachers' Use of Technology for School and Homework, 2018-19 (FRSS 109) — SAS",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2020/data/2020088_sas.zip",
+        "description": "Ed-tech: FRSS 109 Teachers' technology & homework gap, 2018-19 — SAS data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Teachers' Use of Technology for School and Homework, 2018-19 (FRSS 109) — documentation",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2020/data/2020088_documentation.zip",
+        "description": "Ed-tech: FRSS 109 Teachers' technology & homework gap, 2018-19 — documentation",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Use of Educational Technology for Instruction, 2019-20 (FRSS 110)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2022/data/2022011_FRSS_PUF_DAT.zip",
+        "description": "Ed-tech: FRSS 110 Educational technology for instruction, 2019-20 — data",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Use of Educational Technology for Instruction, 2019-20 (FRSS 110) — full package",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2022/data/2022011_FRSS_PUF_FULL.zip",
+        "description": "Ed-tech: FRSS 110 Educational technology for instruction, 2019-20 — full SAS + docs",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Use of Educational Technology for Instruction, 2019-20 (FRSS 110) — documentation",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/pubs2022/data/2022011_FRSS_PUF_DOC.zip",
+        "description": "Ed-tech: FRSS 110 Educational technology for instruction, 2019-20 — documentation",
+        "category": "other",
+    },
+    {
+        "dataset_title": "Alternative Schools and Programs, 2007-08 (FRSS 96)",
+        "format": "ZIP",
+        "url": "https://nces.ed.gov/surveys/frss/download/data/f96data.zip",
+        "description": "Civil rights: FRSS 96 alternative schools & at-risk students, 2007-08 — survey data",
+        "category": "discipline",
+    },
+]
+
+CRDC_DATA_EXTENSIONS = (".csv", ".xlsx", ".xls")
+
+SPP_BASE_URL = "https://nces.ed.gov/surveys/spp/"
+SPP_APP_JS_URL = "https://nces.ed.gov/surveys/spp/inc/js/app.js"
+
+# School Pulse Panel topic files (national + outlying-area variants)
+SPP_CIVIL_RIGHTS_STEMS = (
+    "Absenteeism",
+    "Behavior",
+    "CrimeSafety",
+    "SocialEmotional",
+    "MentalHealth",
+    "Concerns",
+    "TBI",
+)
+SPP_EDTECH_STEMS = (
+    "Technology",
+    "LearningMode",
+    "SupplyChain",
+)
 
 EDTECH_SEARCH_QUERIES = (
     "Educational Technology in Public Schools",
@@ -129,10 +242,19 @@ def ensure_federal_layout(project_root: Path) -> dict[str, Path]:
         "data_raw": data_raw,
         "federal_root": data_raw / "federal",
         "crdc_root": data_raw / "federal" / "crdc",
+        "crdc_extracted_root": data_raw / "federal" / "crdc_extracted",
         "edtech_root": data_raw / "federal" / "edtech",
+        "spp_root": data_raw / "federal" / "spp",
         "logs_dir": project_root / "logs",
     }
-    for folder in [paths["federal_root"], paths["crdc_root"], paths["edtech_root"], paths["logs_dir"]]:
+    for folder in [
+        paths["federal_root"],
+        paths["crdc_root"],
+        paths["crdc_extracted_root"],
+        paths["edtech_root"],
+        paths["spp_root"],
+        paths["logs_dir"],
+    ]:
         folder.mkdir(parents=True, exist_ok=True)
     for year in ["2015-16", "2017-18", "2020-21", "2021-22"]:
         (paths["crdc_root"] / year).mkdir(parents=True, exist_ok=True)
@@ -408,13 +530,13 @@ def discover_edtech_files() -> pd.DataFrame:
     rows = []
     seen = set()
 
-    for item in EDTECH_KNOWN_DOWNLOADS:
+    for item in [*EDTECH_KNOWN_DOWNLOADS, *FRSS_EXTENDED_DOWNLOADS]:
         url = item["url"]
         seen.add(url)
         rows.append(
             {
                 "source": "NCES/FRSS",
-                "category": "other",
+                "category": item.get("category", "other"),
                 "dataset_title": item["dataset_title"],
                 "format": item["format"],
                 "url": url,
@@ -491,3 +613,241 @@ def count_files(root: Path) -> int:
     if not root.exists():
         return 0
     return sum(1 for p in root.rglob("*") if p.is_file())
+
+
+def _crdc_year_from_zip(zip_path: Path) -> str:
+    for tag in ("2015-16", "2017-18", "2020-21", "2021-22"):
+        if tag in zip_path.name or tag in str(zip_path.parent):
+            return tag
+    return zip_path.parent.name
+
+
+def iter_crdc_public_zips(project_root: Path) -> list[tuple[str, Path]]:
+    """Find every CRDC public-use zip already on disk (crdc/ and federal/other/)."""
+    found: list[tuple[str, Path]] = []
+    seen: set[Path] = set()
+    crdc_root = project_root / "data" / "raw" / "federal" / "crdc"
+    other_root = project_root / "data" / "raw" / "federal" / "other"
+    for root in (crdc_root, other_root):
+        if not root.exists():
+            continue
+        for zip_path in sorted(root.rglob("*.zip")):
+            if "crdc" not in zip_path.name.lower():
+                continue
+            resolved = zip_path.resolve()
+            if resolved in seen:
+                continue
+            seen.add(resolved)
+            found.append((_crdc_year_from_zip(zip_path), zip_path))
+    return found
+
+
+def _flat_crdc_extract_name(year: str, member_name: str) -> str:
+    """Turn zip inner path into a stable flat filename."""
+    parts = [p for p in Path(member_name).parts if p not in (".", "..")]
+    file_name = safe_filename(parts[-1])
+    if len(parts) >= 2:
+        prefix = safe_filename(parts[-2].replace(" ", "_"))
+        if not file_name.startswith(prefix):
+            file_name = f"{prefix}_{file_name}"
+    return safe_filename(f"{year}_{file_name}")
+
+
+def extract_crdc_zips(
+    project_root: Path,
+    extract_root: Path,
+    download_log: Path,
+    *,
+    skip_if_exists: bool = True,
+) -> list[dict]:
+    """
+    Unpack topic CSV/XLSX files from CRDC public-use zips already downloaded.
+    Avoids flaky data.ed.gov per-state CSV downloads — same national data, local extract.
+    """
+    records: list[dict] = []
+    for year, zip_path in iter_crdc_public_zips(project_root):
+        year_dir = extract_root / year
+        year_dir.mkdir(parents=True, exist_ok=True)
+        try:
+            with zipfile.ZipFile(zip_path) as zf:
+                members = [
+                    n
+                    for n in zf.namelist()
+                    if n.lower().endswith(CRDC_DATA_EXTENSIONS) and not n.endswith("/")
+                ]
+                for member in members:
+                    dest_name = _flat_crdc_extract_name(year, member)
+                    dest_path = year_dir / dest_name
+                    description = (
+                        f"CRDC extracted ({year}): {Path(member).name} "
+                        f"from {zip_path.name}"
+                    )
+                    category = guess_category(member)
+
+                    if skip_if_exists and dest_path.exists() and dest_path.stat().st_size > 0:
+                        local_path = str(dest_path.relative_to(project_root))
+                        record = {
+                            "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+                            "status": "skipped_exists",
+                            "state": "federal",
+                            "category": category,
+                            "description": description,
+                            "url": f"file://{zip_path.resolve()}#{member}",
+                            "local_path": local_path,
+                            "bytes": dest_path.stat().st_size,
+                        }
+                        _append_log(download_log, record)
+                        records.append(record)
+                        continue
+
+                    dest_path.parent.mkdir(parents=True, exist_ok=True)
+                    with zf.open(member) as src, dest_path.open("wb") as out:
+                        while True:
+                            chunk = src.read(1024 * 1024)
+                            if not chunk:
+                                break
+                            out.write(chunk)
+                    local_path = str(dest_path.relative_to(project_root))
+                    record = {
+                        "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+                        "status": "extracted",
+                        "state": "federal",
+                        "category": category,
+                        "description": description,
+                        "url": f"file://{zip_path.resolve()}#{member}",
+                        "local_path": local_path,
+                        "bytes": dest_path.stat().st_size,
+                    }
+                    _append_log(download_log, record)
+                    records.append(record)
+        except (zipfile.BadZipFile, OSError) as err:
+            record = {
+                "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+                "status": "failed",
+                "state": "federal",
+                "category": "other",
+                "description": f"CRDC extract failed: {zip_path.name}",
+                "url": str(zip_path),
+                "local_path": "",
+                "bytes": 0,
+                "error": str(err),
+            }
+            _append_log(download_log, record)
+            records.append(record)
+    return records
+
+
+def discover_federal_expansion_downloads() -> pd.DataFrame:
+    """New FRSS + extended ed-tech files (direct NCES URLs only)."""
+    rows = []
+    for item in FRSS_EXTENDED_DOWNLOADS:
+        rows.append(
+            {
+                "source": "NCES/FRSS",
+                "category": item.get("category", "other"),
+                "dataset_title": item["dataset_title"],
+                "format": item["format"],
+                "url": item["url"],
+                "description": item["description"],
+            }
+        )
+    return filter_edtech_downloads(pd.DataFrame(rows))
+
+
+def download_from_catalog(
+    catalog: pd.DataFrame,
+    dest_root: Path,
+    download_log: Path,
+    project_root: Path,
+    *,
+    filename_col: str | None = None,
+) -> list[dict]:
+    """Download every row in a catalog DataFrame using download_to_path."""
+    records: list[dict] = []
+    for _, row in catalog.iterrows():
+        if filename_col and filename_col in row:
+            fname = safe_filename(str(row[filename_col]))
+        else:
+            fname = edtech_dest_filename(row)
+        dest_path = dest_root / fname
+        record = download_to_path(
+            row["url"],
+            dest_path,
+            description=row["description"],
+            category=str(row.get("category", "other")),
+            download_log=download_log,
+            project_root=project_root,
+        )
+        records.append(record)
+    return records
+
+
+def _spp_stem_category(stem: str) -> str | None:
+    """Map SPP file stem to discipline (civil rights) or other (ed-tech), or None to skip."""
+    base = stem.replace("_OA", "").replace("_oa", "")
+    if base in SPP_CIVIL_RIGHTS_STEMS or stem.lower() in {s.lower() for s in SPP_CIVIL_RIGHTS_STEMS}:
+        return "discipline"
+    if base in SPP_EDTECH_STEMS or stem.lower() in {s.lower() for s in SPP_EDTECH_STEMS}:
+        return "other"
+    return None
+
+
+def discover_spp_themed_files() -> pd.DataFrame:
+    """
+    Scrape NCES School Pulse Panel app.js for docs/release/*.xlsx links.
+    Keeps civil-rights and ed-tech topic files (national + outlying-area).
+    """
+    response = requests.get(SPP_APP_JS_URL, headers=DEFAULT_HEADERS, timeout=60)
+    response.raise_for_status()
+    paths = sorted(set(re.findall(r"docs/release/[^\s\"'<>]+\.xlsx", response.text, re.I)))
+    rows = []
+    seen: set[str] = set()
+    for rel in paths:
+        fname = Path(rel).name
+        stem = Path(rel).stem
+        category = _spp_stem_category(stem)
+        if category is None:
+            continue
+        url = f"{SPP_BASE_URL}{rel}"
+        if url in seen:
+            continue
+        seen.add(url)
+        theme = "civil rights" if category == "discipline" else "ed-tech"
+        rows.append(
+            {
+                "source": "NCES/SPP",
+                "category": category,
+                "dataset_title": f"School Pulse Panel — {stem}",
+                "format": "XLSX",
+                "url": url,
+                "description": f"SPP ({theme}): {stem} — national school survey estimates",
+                "dest_filename": safe_filename(fname),
+            }
+        )
+    return pd.DataFrame(rows)
+
+
+def download_crdc_public_zip(
+    year: str,
+    paths: dict[str, Path],
+    download_log: Path,
+    project_root: Path,
+    *,
+    skip_if_exists: bool = True,
+) -> dict | None:
+    """Download one CRDC public-use zip bundle by school year."""
+    entry = next((z for z in CRDC_PUBLIC_ZIPS if z["year"] == year), None)
+    if entry is None:
+        raise ValueError(f"Unknown CRDC year: {year}")
+    dest_dir = paths["crdc_root"] / year
+    dest_path = dest_dir / entry["filename"]
+    return download_to_path(
+        entry["url"],
+        dest_path,
+        description=f"CRDC public-use zip {year}",
+        category="discipline",
+        download_log=download_log,
+        project_root=project_root,
+        skip_if_exists=skip_if_exists,
+        timeout_seconds=3600,
+    )

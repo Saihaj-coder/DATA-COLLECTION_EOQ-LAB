@@ -1,0 +1,116 @@
+Order,Excel_Column_Finder,Field_Name,Field_Description,Module
+1,A,LEA_STATE,State Abbreviation,Identification
+2,B,LEA_STATE_NAME,State Name,Identification
+3,C,LEAID,7 Digit LEAID District Identification Code,Identification
+4,D,LEA_NAME,District Name,Identification
+5,E,LEA_ADDRESS,District Address,Identification
+6,F,LEA_CITY,District City,Identification
+7,G,LEA_ZIP,District Zip code,Identification
+8,H,CJJ,"Juvenile Justice Facility (LEA): ""Yes"" indicates LEA contains at least one JJ facility; ""No"" indicates LEA does not contain any JJ facilities",Identification
+9,I,LEA_ENR,Count of Students,LEA Characteristics
+10,J,LEA_ENR_NONLEAFAC,Students served in Non-LEA facilities,LEA Characteristics
+11,K,LEA_SCHOOLS,Count of Public Schools in the LEA,LEA Characteristics
+12,L,LEA_CRCOORD_SEX_IND,Civil Rights Coordinators Indicator: Sex (Title IX),LEA Characteristics
+13,M,LEA_CRCOORD_RAC_IND,"Civil Rights Coordinators Indicator: Race, color, or national origin (Title VI)",LEA Characteristics
+14,N,LEA_CRCOORD_DIS_IND,Civil Rights Coordinators Indicator: Disability (Section 504 and/or Title II),LEA Characteristics
+15,O,LEA_CRCOORD_SEX_FN,Civil Rights Coordinators Contact Information: Sex (Title IX) - First Name,LEA Characteristics
+16,P,LEA_CRCOORD_SEX_LN,Civil Rights Coordinators Contact Information: Sex (Title IX) - Last Name,LEA Characteristics
+17,Q,LEA_CRCOORD_SEX_PH,Civil Rights Coordinators Contact Information: Sex (Title IX) - Phone,LEA Characteristics
+18,R,LEA_CRCOORD_SEX_EM,Civil Rights Coordinators Contact Information: Sex (Title IX) - Email,LEA Characteristics
+19,S,LEA_CRCOORD_RAC_FN,"Civil Rights Coordinators Contact Information: Race, color, or national origin (Title VI) - First Name",LEA Characteristics
+20,T,LEA_CRCOORD_RAC_LN,"Civil Rights Coordinators Contact Information: Race, color, or national origin (Title VI) - Last Name",LEA Characteristics
+21,U,LEA_CRCOORD_RAC_PH,"Civil Rights Coordinators Contact Information: Race, color, or national origin (Title VI) - Phone",LEA Characteristics
+22,V,LEA_CRCOORD_RAC_EM,"Civil Rights Coordinators Contact Information: Race, color, or national origin (Title VI) - Email",LEA Characteristics
+23,W,LEA_CRCOORD_DIS_FN,Civil Rights Coordinators Contact Information: Disability (Section 504 and/or Title II) - First Name,LEA Characteristics
+24,X,LEA_CRCOORD_DIS_LN,Civil Rights Coordinators Contact Information: Disability (Section 504 and/or Title II) - Last Name,LEA Characteristics
+25,Y,LEA_CRCOORD_DIS_PH,Civil Rights Coordinators Contact Information: Disability (Section 504 and/or Title II)- Phone,LEA Characteristics
+26,Z,LEA_CRCOORD_DIS_EM,Civil Rights Coordinators Contact Information: Disability (Section 504 and/or Title II) - Email,LEA Characteristics
+27,AA,LEA_DESEGPLAN,Desegregation Order or Plan (LEA): Is the LEA covered by a desegregation order or plan?,LEA Characteristics
+28,AB,LEA_HBPOLICY_IND,Harassment or Bullying Policy Indicator (LEA),LEA Characteristics
+29,AC,LEA_HBPOLICYURL_IND,Harassment or Bullying Policy Web Link Indicator (LEA),LEA Characteristics
+30,AD,LEA_HBPOLICY_URL,Harassment or Bullying Policy Web Link (LEA): Web Link,LEA Characteristics
+31,AE,LEA_ECE_IND,Early Childhood Program Indicator (LEA): Does the LEA provide early childhood services to children birth through age 2?,LEA Characteristics
+32,AF,LEA_ECE_NONIDEA,Non-IDEA Early Childhood Program Indicator (LEA),LEA Characteristics
+33,AG,LEA_PS_IND,Preschool Program Provided by the LEA Indicator (LEA): Does the LEA provide preschool services or programs that serve children ages 3 through 5?,LEA Characteristics
+34,AH,LEA_PS_FULLDAYFREE,Preschool Daily Length and Cost (LEA): Full-day preschool (free; no charge to parent(s)/guardian),LEA Characteristics
+35,AI,LEA_PS_FULLDAYCOST,Preschool Daily Length and Cost (LEA): Full-day preschool (partial or full charge to parent(s)/guardian),LEA Characteristics
+36,AJ,LEA_PS_PARTDAYFREE,Preschool Daily Length and Cost (LEA): Part-day preschool (free; no charge to parent(s)/guardian),LEA Characteristics
+37,AK,LEA_PS_PARTDAYCOST,Preschool Daily Length and Cost (LEA): Part-day preschool (partial or full charge to parent(s)/guardian),LEA Characteristics
+38,AL,LEA_PSENR_NONIDEA_A3,Preschool Age for Non-IDEA Children (LEA): Children age 3 years,LEA Characteristics
+39,AM,LEA_PSENR_NONIDEA_A4,Preschool Age for Non-IDEA Children (LEA): Children age 4 years,LEA Characteristics
+40,AN,LEA_PSENR_NONIDEA_A5,Preschool Age for Non-IDEA Children (LEA): Children age 5 years,LEA Characteristics
+41,AO,LEA_PSENR_A2,Preschool Age of Children Served (LEA): Number of children 2 years,LEA Characteristics
+42,AP,LEA_PSENR_A3,Preschool Age of Children Served (LEA): Number of children 3 years,LEA Characteristics
+43,AQ,LEA_PSENR_A4,Preschool Age of Children Served (LEA): Number of children 4 years,LEA Characteristics
+44,AR,LEA_PSENR_A5,Preschool Age of Children Served (LEA): Number of children 5 years,LEA Characteristics
+45,AS,LEA_PSELIG_ALL,Preschool Eligibility - All Children (LEA): Does the LEA offer its preschool service(s) or program(s) to all children?,LEA Characteristics
+46,AT,LEA_PSELIG_IDEA,Preschool Eligibility - Student Groups (LEA): Children with disabilities (IDEA),LEA Characteristics
+47,AU,LEA_PSELIG_TITLEI,Preschool Eligibility - Student Groups (LEA): Children in Title I schools,LEA Characteristics
+48,AV,LEA_PSELIG_LOWINC,Preschool Eligibility - Student Groups (LEA): Children from low income families,LEA Characteristics
+49,AW,LEA_KG_IND,Kindergarten Program Indicator (LEA): Does the LEA provide one or more kindergarten programs that serve any students?,LEA Characteristics
+50,AX,LEA_KG_FULLDAYFREE,Kindergarten Daily Length and Cost (LEA): Full-day kindergarten (free; no charge to parent(s)/guardian),LEA Characteristics
+51,AY,LEA_KG_FULLDAYCOST,Kindergarten Daily Length and Cost (LEA): Full-day kindergarten (partial or full charge to parent(s)/guardian),LEA Characteristics
+52,AZ,LEA_KG_PARTDAYFREE,Kindergarten Daily Length and Cost (LEA): Part-day kindergarten (free; no charge to parent(s)/guardian),LEA Characteristics
+53,BA,LEA_KG_PARTDAYCOST,Kindergarten Daily Length and Cost (LEA): Part-day kindergarten (partial or full charge to parent(s)/guardian),LEA Characteristics
+54,BB,LEA_GED_IND,High School Equivalency Exam Preparation Program Provided by the LEA Indicator: Does the LEA provide a high school equivalency exam preparation program for students ages 16-19?,High School Equivalency (GED)
+55,BC,LEA_GEDPART_HI_M,Student participants in high school equivalency exam preparation Program (LEA):  Hispanic Male,High School Equivalency (GED)
+56,BD,LEA_GEDPART_HI_F,Student participants in high school equivalency exam preparation Program (LEA):  Hispanic Female,High School Equivalency (GED)
+57,BE,LEA_GEDPART_AM_M,Student participants in high school equivalency exam preparation Program (LEA):  American Indian/Alaska Native Male,High School Equivalency (GED)
+58,BF,LEA_GEDPART_AM_F,Student participants in high school equivalency exam preparation Program (LEA):  American Indian/Alaska Native Female,High School Equivalency (GED)
+59,BG,LEA_GEDPART_AS_M,Student participants in high school equivalency exam preparation Program (LEA):  Asian Male,High School Equivalency (GED)
+60,BH,LEA_GEDPART_AS_F,Student participants in high school equivalency exam preparation Program (LEA):  Asian Female,High School Equivalency (GED)
+61,BI,LEA_GEDPART_HP_M,Student participants in high school equivalency exam preparation Program (LEA):  Native Hawaiian/Pacific Islander Male,High School Equivalency (GED)
+62,BJ,LEA_GEDPART_HP_F,Student participants in high school equivalency exam preparation Program (LEA):  Native Hawaiian/Pacific Islander Female,High School Equivalency (GED)
+63,BK,LEA_GEDPART_BL_M,Student participants in high school equivalency exam preparation Program (LEA):  Black Male,High School Equivalency (GED)
+64,BL,LEA_GEDPART_BL_F,Student participants in high school equivalency exam preparation Program (LEA):  Black Female,High School Equivalency (GED)
+65,BM,LEA_GEDPART_WH_M,Student participants in high school equivalency exam preparation Program (LEA):  White Male,High School Equivalency (GED)
+66,BN,LEA_GEDPART_WH_F,Student participants in high school equivalency exam preparation Program (LEA):  White Female,High School Equivalency (GED)
+67,BO,LEA_GEDPART_TR_M,Student participants in high school equivalency exam preparation Program (LEA):  Two or More Races Male,High School Equivalency (GED)
+68,BP,LEA_GEDPART_TR_F,Student participants in high school equivalency exam preparation Program (LEA):  Two or More Races Female,High School Equivalency (GED)
+69,BQ,TOT_GEDPART_M,Student participants in high school equivalency exam preparation Program (LEA): Calculated Male Total,High School Equivalency (GED)
+70,BR,TOT_GEDPART_F,Student participants in high school equivalency exam preparation Program (LEA): Calculated Female Total,High School Equivalency (GED)
+71,BS,LEA_GEDPART_LEP_M,Student participants in high school equivalency exam preparation Program (LEA):  LEP Male,High School Equivalency (GED)
+72,BT,LEA_GEDPART_LEP_F,Student participants in high school equivalency exam preparation Program (LEA):  LEP Female,High School Equivalency (GED)
+73,BU,LEA_GEDPART_IDEA_M,Student participants in high school equivalency exam preparation Program (LEA):  IDEA Male,High School Equivalency (GED)
+74,BV,LEA_GEDPART_IDEA_F,Student participants in high school equivalency exam preparation Program (LEA):  IDEA Female,High School Equivalency (GED)
+75,BW,LEA_GEDCRED_HI_M,Students receiving a high school equivalency credential (LEA):  Hispanic Male,High School Equivalency (GED)
+76,BX,LEA_GEDCRED_HI_F,Students receiving a high school equivalency credential (LEA):  Hispanic Female,High School Equivalency (GED)
+77,BY,LEA_GEDCRED_AM_M,Students receiving a high school equivalency credential (LEA):  American Indian/Alaska Native Male,High School Equivalency (GED)
+78,BZ,LEA_GEDCRED_AM_F,Students receiving a high school equivalency credential (LEA):  American Indian/Alaska Native Female,High School Equivalency (GED)
+79,CA,LEA_GEDCRED_AS_M,Students receiving a high school equivalency credential (LEA):  Asian Male,High School Equivalency (GED)
+80,CB,LEA_GEDCRED_AS_F,Students receiving a high school equivalency credential (LEA):  Asian Female,High School Equivalency (GED)
+81,CC,LEA_GEDCRED_HP_M,Students receiving a high school equivalency credential (LEA):  Native Hawaiian/Pacific Islander Male,High School Equivalency (GED)
+82,CD,LEA_GEDCRED_HP_F,Students receiving a high school equivalency credential (LEA):  Native Hawaiian/Pacific Islander Female,High School Equivalency (GED)
+83,CE,LEA_GEDCRED_BL_M,Students receiving a high school equivalency credential (LEA):  Black Male,High School Equivalency (GED)
+84,CF,LEA_GEDCRED_BL_F,Students receiving a high school equivalency credential (LEA):  Black Female,High School Equivalency (GED)
+85,CG,LEA_GEDCRED_WH_M,Students receiving a high school equivalency credential (LEA):  White Male,High School Equivalency (GED)
+86,CH,LEA_GEDCRED_WH_F,Students receiving a high school equivalency credential (LEA):  White Female,High School Equivalency (GED)
+87,CI,LEA_GEDCRED_TR_M,Students receiving a high school equivalency credential (LEA):  Two or More Races Male,High School Equivalency (GED)
+88,CJ,LEA_GEDCRED_TR_F,Students receiving a high school equivalency credential (LEA):  Two or More Races Female,High School Equivalency (GED)
+89,CK,TOT_GEDCRED_M,Students receiving a high school equivalency credential (LEA): Calculated Male Total,High School Equivalency (GED)
+90,CL,TOT_GEDCRED_F,Students receiving a high school equivalency credential (LEA): Calculated Female Total,High School Equivalency (GED)
+91,CM,LEA_GEDCRED_LEP_M,Students receiving a high school equivalency credential (LEA):  LEP Male,High School Equivalency (GED)
+92,CN,LEA_GEDCRED_LEP_F,Students receiving a high school equivalency credential (LEA):  LEP Female,High School Equivalency (GED)
+93,CO,LEA_GEDCRED_IDEA_M,Students receiving a high school equivalency credential (LEA):  IDEA Male,High School Equivalency (GED)
+94,CP,LEA_GEDCRED_IDEA_F,Students receiving a high school equivalency credential (LEA):  IDEA Female,High School Equivalency (GED)
+95,CQ,LEA_DISTED_IND,Distance Education Enrollment Indicator (LEA): Does the LEA have any students enrolled in any distance educational courses?,Distance Education
+96,CR,LEA_DISTEDENR_HI_M,Distance Education Enrollment (LEA):  Hispanic Male ,Distance Education
+97,CS,LEA_DISTEDENR_HI_F,Distance Education Enrollment (LEA):  Hispanic Female ,Distance Education
+98,CT,LEA_DISTEDENR_AM_M,Distance Education Enrollment (LEA):  American Indian/Alaska Native Male ,Distance Education
+99,CU,LEA_DISTEDENR_AM_F,Distance Education Enrollment (LEA):  American Indian/Alaska Native Female ,Distance Education
+100,CV,LEA_DISTEDENR_AS_M,Distance Education Enrollment (LEA):  Asian Male ,Distance Education
+101,CW,LEA_DISTEDENR_AS_F,Distance Education Enrollment (LEA):  Asian Female ,Distance Education
+102,CX,LEA_DISTEDENR_HP_M,Distance Education Enrollment (LEA):  Native Hawaiian/Pacific Islander Male ,Distance Education
+103,CY,LEA_DISTEDENR_HP_F,Distance Education Enrollment (LEA):  Native Hawaiian/Pacific Islander Female ,Distance Education
+104,CZ,LEA_DISTEDENR_BL_M,Distance Education Enrollment (LEA):  Black Male ,Distance Education
+105,DA,LEA_DISTEDENR_BL_F,Distance Education Enrollment (LEA):  Black Female ,Distance Education
+106,DB,LEA_DISTEDENR_WH_M,Distance Education Enrollment (LEA):  White Male ,Distance Education
+107,DC,LEA_DISTEDENR_WH_F,Distance Education Enrollment (LEA):  White Female ,Distance Education
+108,DD,LEA_DISTEDENR_TR_M,Distance Education Enrollment (LEA):  Two or More Races Male ,Distance Education
+109,DE,LEA_DISTEDENR_TR_F,Distance Education Enrollment (LEA):  Two or More Races Female ,Distance Education
+110,DF,TOT_DISTEDENR_M,Distance Education Enrollment (LEA):  Calculated Male Total,Distance Education
+111,DG,TOT_DISTEDENR_F,Distance Education Enrollment (LEA):  Calculated Female Total,Distance Education
+112,DH,LEA_DISTEDENR_LEP_M,Distance Education Enrollment (LEA):  LEP Male ,Distance Education
+113,DI,LEA_DISTEDENR_LEP_F,Distance Education Enrollment (LEA):  LEP Female ,Distance Education
+114,DJ,LEA_DISTEDENR_IDEA_M,Distance Education Enrollment (LEA):  IDEA Male ,Distance Education
+115,DK,LEA_DISTEDENR_IDEA_F,Distance Education Enrollment (LEA):  IDEA Female ,Distance Education
