@@ -1,0 +1,4 @@
+state,source,dataset_id,dataset_title,description,category,url,dest_filename,format
+texas,Socrata,6dh5-cse4,Superintendent Salary Reports by District for School Year 2025-2026,Texas open data: Superintendent Salary Reports by District for School Year 2025-2026,financials,https://data.texas.gov/api/views/6dh5-cse4/rows.csv?accessType=DOWNLOAD,socrata_6dh5-cse4.csv,CSV
+texas,Socrata,nui6-x374,School Year 2024-2025 Statewide Accountability Ratings,Texas open data: School Year 2024-2025 Statewide Accountability Ratings,test_scores,https://data.texas.gov/api/views/nui6-x374/rows.csv?accessType=DOWNLOAD,socrata_nui6-x374.csv,CSV
+texas,Socrata,hzek-udky,"AskTED Data - May 12, 2026","Texas open data: AskTED Data - May 12, 2026",test_scores,https://data.texas.gov/api/views/hzek-udky/rows.csv?accessType=DOWNLOAD,socrata_hzek-udky.csv,CSV

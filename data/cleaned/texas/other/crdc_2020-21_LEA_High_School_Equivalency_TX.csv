@@ -1,0 +1,1209 @@
+LEA_STATE,LEA_STATE_NAME,LEAID,LEA_NAME,LEA_ADDRESS,LEA_CITY,LEA_ZIP,CJJ,LEA_HSE_IND,LEA_HSEPART_HI_M,LEA_HSEPART_HI_F,LEA_HSEPART_AM_M,LEA_HSEPART_AM_F,LEA_HSEPART_AS_M,LEA_HSEPART_AS_F,LEA_HSEPART_HP_M,LEA_HSEPART_HP_F,LEA_HSEPART_BL_M,LEA_HSEPART_BL_F,LEA_HSEPART_WH_M,LEA_HSEPART_WH_F,LEA_HSEPART_TR_M,LEA_HSEPART_TR_F,TOT_HSEPART_M,TOT_HSEPART_F,LEA_HSEPART_LEP_M,LEA_HSEPART_LEP_F,LEA_HSEPART_IDEA_M,LEA_HSEPART_IDEA_F
+TX,Texas,4800001,Crosbyton Cisd,204 S Harrison St,Crosbyton,79322,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800002,Spur Isd,800 N Williams,Spur,79370,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800003,Rocksprings Isd,201 N Hwy 377,Rocksprings,78880,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800004,Por Vida Academy,1135 Mission Rd,San Antonio,78210,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800005,Blackwell Cisd,610 N Alamo,Blackwell,79506,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800006,Aspermont Isd,528 E Seventh St,Aspermont,79502,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800007,Panther Creek Cisd,129 Pr 3421,Valera,76884,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800008,Dripping Springs Isd,510 W Mercer St,Dripping Springs,78620,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800009,Wimberley Isd,951 Fm 2325,Wimberley,78676,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800010,Hays Cisd,21003 Interstate 35,Kyle,78640,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800011,Alvarado Isd,102 S Bill Jackson Dr,Alvarado,76009,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800012,Chisum Isd,3250 S Church St,Paris,75462,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800014,George Gervin Academy,6944 Sunbelt Dr S,San Antonio,78218,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800016,Texans Can Academies,325 W 12th Ste 200,Dallas,75208,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800018,Ser-Ninos Charter School,5815 Alder Dr,Houston,77081,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800019,Aristoi Classical Academy,5610 Morton Rd,Katy,77493,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800020,George I Sanchez Charter,6001 Gulf Fwy Bldg B3,Houston,77023,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800022,Raul Yzaguirre Schools For Success,2950 Broadway,Houston,77017,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800024,Waco Charter School,615 N 25th St,Waco,76707,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800025,Dr M L Garza-Gonzalez Charter School,4129 Greenwood Dr,Corpus Christi,78416,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800029,Pegasus School Of Liberal Arts And Sciences,3800 Main St Ste E,Dallas,75226,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800030,Uplift Education,3000 Pegasus Park Dr,Dallas,75247,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800031,University Of Houston Charter School,3855 Holman St Melcher Gym 100,Houston,77204,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800032,Academy Of Accelerated Learning Inc,6711 Bellfort St,Houston,77087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800034,Cumberland Academy,1340 Shiloh Rd,Tyler,75703,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800035,Alief Montessori Community School,12013 6th St,Houston,77072,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800037,Burnham Wood Charter School District,785 Southwestern Drive,El Paso,79912,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800041,Advantage Academy,618 W Wheatland Rd,Duncanville,75116,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800042,Rapoport Academy Public School,1020 Elm Ave Bldg 100,Waco,76704,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800044,Wayside Schools,6405 S Ih 35,Austin,78744,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800048,Raven School,143 Forest Service Rd 233,New Waverly,77358,Yes,Yes,0,0,0,0,0,0,0,0,1,0,1,0,9,0,11,0,2,0,2,0
+TX,Texas,4800049,Excel Academy,1200 Congress St Ste 6500,Houston,77002,Yes,Yes,61,14,2,1,0,0,0,0,38,10,6,2,5,2,112,29,1,0,18,5
+TX,Texas,4800053,Inspire Academies,10325 Bandera Rd,San Antonio,78250,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800055,Life School,132 E Ovilla Rd Ste A,Red Oak,75154,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800058,Nyos Charter School,12301 N Lamar Blvd,Austin,78753,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800059,Positive Solutions Charter School,1325 N Flores Ste 100,San Antonio,78212,No,Yes,7,7,0,0,0,0,0,0,2,0,5,7,0,0,14,14,0,0,1,0
+TX,Texas,4800061,New Frontiers Public Schools Inc,901 Ne Loop 410,San Antonio,78209,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800062,Legacy Traditional Schools,1826 Basse Rd,San Antonio,78213,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800063,Southwest Preparatory School,1258 Austin Hwy,San Antonio,78209,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800064,Chaparral Star Academy,14046 Summit Dr,Austin,78728,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800065,Horizon Montessori Public Schools,2402 E Business Hwy 83,Weslaco,78596,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800066,Texas Empowerment Academy,6414 N. Hampton Dr.,Austin,78723,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800068,Treetops School International,12500 S Pipeline Rd,Euless,76040,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800069,Two Dimensions Preparatory Academy,12121 Veterans Memorial Dr 10,Houston,77067,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800070,Universal Academy,2616 N Macarthur Blvd,Irving,75062,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800071,University Of Texas University Charter School,2200 E 6th St,Austin,78702,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800072,Nova Academy,6459 Scyene Rd,Dallas,75227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800073,The Varnett Public School,5025 S Willow Dr,Houston,77035,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800074,Pineywoods Community Academy,602 S Raguet,Lufkin,75904,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800075,Richard Milburn Alter High School (Killeen),13003 Jones Maltsberger Rd,San Antonio,78247,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800076,Priority Charter Schools,275 Fm 2483,Morgans Point Resort,76513,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800077,Bexar County Academy,1485 Hillcrest Dr,San Antonio,78228,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800080,Heritage Academy,6013 Fountain Wood Street,San Antonio,78233,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800086,Brazos School For Inquiry & Creativity,410 Bethel Ln,Bryan,77802,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800089,Lumin Education,924 Wayne St,Dallas,75223,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800090,Academy Of Dallas,2324 S Vernon Ave,Dallas,75224,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800092,Trinity Basin Preparatory,2730 N Hwy 360,Grand Prairie,75050,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800093,Academy For Academic Excellence,1673 Terre Colony Court,Dallas,75212,Yes,Yes,0,0,0,0,0,0,0,0,18,3,1,1,-11,6,-11,10,1,0,9,1
+TX,Texas,4800095,A W Brown Leadership Academy,5701 Red Bird Ctr Dr,Dallas,75237,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800098,Jean Massieu Academy,823 N Center St,Arlington,76011,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800105,Waxahachie Faith Family Academy,1620 Falcon Dr,Desoto,75115,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800106,Triumph Public High Schools-El Paso,1599 George Dieter Dr,El Paso,79936,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800108,Odyssey Academy Inc,2412 61st St,Galveston,77551,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800109,East Texas Charter Schools,2402 Alpine Rd,Longview,75601,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800113,Amigos Por Vida-Friends For Life Pub Chtr Sch,5503 El Camino Del Rey,Houston,77081,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800115,Houston Heights High School,1125 Lawrence Dr,Houston,77008,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800118,Houston Gateway Academy Inc,3400 Evergreen Dr.,Houston,77087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800124,Calvin Nelms Charter Schools,20625 Clay Rd,Katy,77449,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800125,Southwest School,3333 Bering Dr Ste 200,Houston,77057,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800127,Comquest Academy,207 N Peach St,Tomball,77375,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800132,Katherine Anne Porter School,515 Fm 2325,Wimberley,78676,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800133,Triumph Public High Schools-Rio Grande Valley,200 N 17th St,Mcallen,78501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800139,Tekoa Academy Of Accelerated Studies Stem School,326 Thomas Blvd,Port Arthur,77640,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800141,Rise Academy,207 N Martin Luther King Blvd,Lubbock,79403,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800142,Triumph Public High Schools-Lubbock,4008 Ave R,Lubbock,79412,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800148,Midland Academy Charter School,500 N Baird,Midland,79701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800151,Texas Serenity Academy,8500 Sweetwater Lane,Houston,77037,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800156,Reg 16 Education Service Center,5800 Bell St,Amarillo,79109,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800158,Arlington Classics Academy,5206 S Bowen,Arlington,76017,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800159,Erath Excels Academy Inc,680 Peach Orchard Rd,Stephenville,76401,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800163,Texas College Preparatory Academies,1800 Lakeway Dr Ste 100,Lewisville,75057,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800171,Ranch Academy,3120 Vzcr 2318,Canton,75103,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800174,Triumph Public High Schools-Laredo,1230 Townlake,Laredo,78041,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800177,St Mary's Academy Charter School,507 N Filmore,Beeville,78102,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800179,Jubilee Academies,4434 Roland,San Antonio,78223,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800184,Gateway Charter Academy,6103 University Hills Blvd,Dallas,75241,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800186,Education Center International Academy,302 N Town E Blvd,Sunnyvale,75182,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800187,North Texas Collegiate Academy,4601 N 1 35,Denton,76207,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800190,Beatrice Mayes Institute Charter School,5807 Calhoun,Houston,77021,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800192,Accelerated Intermediate Academy,12825 Summit Ridge,Houston,77085,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800194,Texas Preparatory School,400 Uhland Rd,San Marcos,78666,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800195,Vanguard Academy,2510 S Veterans Blvd,Edinburg,78539,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800201,Nova Academy Southeast,2800 Prichard,Dallas,75227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800202,Winfree Academy Charter Schools,1555 Valwood Pkwy Ste 160,Carrollton,75006,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800203,A+ Academy,8225 Bruton Rd,Dallas,75217,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800204,Inspired Vision Academy,8225 Bruton Rd,Dallas,75217,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800205,El Paso Academy,11000 Argal Ct,El Paso,79935,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800207,Premier High Schools,1301 Waters Ridge Dr,Lewisville,75057,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800209,Yes Prep Public Schools Inc,5455 South Loop East,Houston,77033,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800210,Harmony Science Academy,9321 W Sam Houston Pwky S,Houston,77099,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800211,Idea Public Schools,2115 W Pike Blvd,Weslaco,78596,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800213,Panola Charter School,1110 Fm 10,Carthage,75633,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800214,Brazos River Charter School,Fm 200 And Fm 199,Nemo,76070,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800221,Ehrhart School,3380 Fannin St,Beaumont,77701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800227,Big Springs Charter School,10664 N Us Hwy 83,Leakey,78873,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800231,Fort Worth Academy Of Fine Arts,3901 S Hulen St,Fort Worth,76109,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800232,Cedars International Academy,8416 N Ih 35,Austin,78753,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800235,Orenda Charter School,2951 Williams Dr,Georgetown,78628,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800236,Evolution Academy Charter School,1101 S Sherman St,Richardson,75081,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800237,Golden Rule Charter School,135 W Wintergreen Rd,Desoto,75115,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800240,Promise Community School,4450 Harrisburg Blvd,Houston,77011,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800241,Harmony Science Academy (Austin),13415 Ranch Rd 620 N,Austin,78717,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800246,Lighthouse Public Schools,8138 Westshire Drive,San Antonio,78227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800248,St Anthony School,3732 Myrtle St,Dallas,75215,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800251,University Of Texas Elementary Charter School,2200 E 6th St,Austin,78702,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800252,Texas Sch For The Blind & Visually Impaired,1100 W 45th St,Austin,78756,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800253,Texas Sch For The Deaf,1102 S Congress Ave,Austin,78704,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800254,Westlake Academy Charter School,2600 J T Ottinger Rd,Westlake,76262,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800255,East Fort Worth Montessori Academy,501 Oakland Blvd,Fort Worth,76103,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800258,School Of Science And Technology,5300 Wurzbach Rd Ste 800,San Antonio,78238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800259,Trinity Charter School,8305 Cross Park Dr,Austin,78754,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800261,Harris County Dept Of Ed,6300 Irvington Blvd,Houston,77022,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800262,Meyerpark Elementary,13663 S Main St,Houston,77035,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800263,Draw Academy,7914 Westglen Dr,Houston,77063,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800264,Kipp Texas Public Schools,10711 Kipp Way,Houston,77099,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800265,Austin Discovery School,9303 Fm 969,Austin,78724,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800266,Harmony Science Acad (San Antonio),6812 Alamo Downs Pkwy,San Antonio,78238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800268,Brooks Academies Of Texas,4802 Vance Jackson Road,San Antonio,78230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800270,La Academia De Estrellas,4680 W Kiest Blvd,Dallas,75236,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800271,Richland Collegiate High School,12800 Abrams Rd,Dallas,75243,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800272,Harmony Science Acad (El Paso),11500 Pellicano Dr Ste B11,El Paso,79936,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800274,Harmony School Of Excellence,3203 N Sam Houston Pkwy W,Houston,77038,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800275,Step Charter School,11250 S Wilcrest,Houston,77099,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800278,Crosstimbers Academy,236 Harmony Rd,Weatherford,76087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800279,Corpus Christi Montessori School,822 Ayers St.,Corpus Christi,78404,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800283,The Rhodes School,11821 E Fwy Ste 400,Houston,77029,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800284,Ambassadors Preparatory Academy,5001 Ave U,Galveston,77551,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800286,La Fe Preparatory School,616 E Father Rahm Ave,El Paso,79901,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800287,Texas School Of The Arts,6025 Village Pkwy,Edgecliff Village Pkwy,76134,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800288,Cityscape Schools,Po Box 19179,Dallas,75219,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800289,Seashore Charter Schools,15437 S Padre Island Dr,Corpus Christi,78418,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4800292,Harmony Science Acad (Waco),12055 Forestgate Dr Ste 110,Dallas,75243,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801394,Vista Del Futuro Charter School,1671 Bob Hope Dr,El Paso,79936,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801395,Stephen F Austin State University Charter School,2428 Raguet St,Nacogdoches,75962,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801400,School Of Science And Technology Discovery,5300 Wurzbach Rd,San Antonio,78238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801404,Meadowland Charter District,121 Old San Antonio Rd,Boerne,78006,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801405,Harmony School Of Science - Houston,9321 W Sam Houston Pwky S,Houston,77099,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801407,Chapel Hill Academy,4640 Sycamore School Rd,Fort Worth,76133,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801409,Texas Leadership Public Schools,5687 Melrose Ave,San Angelo,76901,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801410,Bob Hope School,4545 Highway 73,Port Arthur,77642,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801412,Henry Ford Academy Alameda School For Art + Design,501 W Cesar E Chavez Blvd,San Antonio,78207,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801414,Promesa Public Schools,5800 E. Mlk Blvd.,Austin,78721,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801415,Manara Academy,8001 Jetstar Dr Ste 100,Irving,75063,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801416,Arrow Academy,Po Box 12207,College Station,77842,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801417,Compass Academy Charter School,5530 Billy Hext Rd,Odessa,79765,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801418,The Lawson Academy,5052 Scott St,Houston,77004,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801420,Leadership Prep School,8100 Teel Pkwy,Frisco,75034,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801421,Newman International Academy Of Arlington,2011 S Fielder Rd,Arlington,76013,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801422,Meridian World School Llc,2555 N Ih 35,Round Rock,78664,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801425,Ume Preparatory Academy,3838 Spur 408,Dallas,75236,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801427,Ut Tyler University Academy,3900 University Blvd,Tyler,75799,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801428,Legacy Preparatory,2727 Military Pkwy,Mesquite,75149,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801429,Imagine International Academy Of North Texas,2860 Virginia Pkway,Mckinney,75071,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801431,Austin Achieve Public Schools,5908 Manor Rd,Austin,78723,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801432,Texas Juvenile Justice Department,P.O. Box 12757,Austin,78711,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801433,Excellence In Leadership Academy,915 W Interstate Hwy 2,Mission,78572,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801434,The Pro-Vision Academy,4590 Wilmington St,Houston,77051,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801435,Eleanor Kolitz Hebrew Language Academy,11327 Dreamland Dr,San Antonio,78230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801436,Village Tech Schools,402 W Danieldale Rd,Duncanville,75137,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801438,Basis Texas,404 E Ramsey Ste 106,San Antonio,78216,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801439,El Paso Leadership Academy,1918 Texas Ave,El Paso,79901,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801440,International Leadership Of Texas (Iltexas),1651 N Glenville Dr Ste 216,Richardson,75081,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801441,Great Hearts Texas,12500 San Pedro Ave. Suite 500,San Antonio,78216,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801442,Montessori For All,5100 Pecan Brook,Austin,78724,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801443,Utpb Stem Academy,4901 E University,Odessa,79762,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801446,Beta Academy,9701 Almeda Genoa Rd,Houston,77075,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801447,Ki Charter Academy,120 Bert Brown Rd,San Marcos,78666,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801450,High Point Academy,7225 Crowley Rd,Fort Worth,76134,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801451,Pioneer Technology & Arts Academy,3200 Oates Dr,Mesquite,75150,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801452,Lone Star Language Academy,5301 Democracy Dr,Plano,75024,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801453,A+ Unlimited Potential,2410 Hamilton,Houston,77004,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801454,Sam Houston State University Charter School,22801 Aldine Westfield Rd,Spring,77373,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801456,Trivium Academy,2205 E Hebron Pkwy,Carrollton,75010,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801457,Compass Rose Academy,8005 Outer Cir Dr,San Antonio,78235,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801458,Goodwater Montessori School,710 Stadium Dr,Georgetown,78626,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801459,Legacy School Of Sport Sciences,2727 Spring Creek Dr,Spring,77373,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801460,Etoile Academy Charter School,6648 Hornwood Dr,Houston,77074,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801461,Valor Public Schools,220 Foremost Dr,Austin,78745,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801462,Bridgeway Preparatory Academy,1861 Valley View Lane Ste 100,Farmers Branch,75234,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801463,Yellowstone College Preparatory,3000 Trulley St Ste 200,Houston,77004,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801464,Lake Granbury Academy Charter School,1300 Crossland Rd,Granbury,76048,No,Yes,0,0,0,0,0,0,0,0,0,0,3,0,2,0,5,0,0,0,1,0
+TX,Texas,4801465,Reve Preparatory Charter School,12707 Cullen Blvd,Houston,77047,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801466,Bloom Academy Charter School,3420 Almeda Genoa Rd.,Houston,77047,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801467,Promesa Academy Charter School,603 Merida,San Antonio,78207,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801468,Betty M Condra School For Education Innovation,1500 14th St,Lubbock,79401,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801469,Houston Classical Charter School,6403 Addicks Clodine Rd,Houston,77083,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801471,The Gathering Place,5818 Nw Loop 410,San Antonio,78238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801472,San Antonio Preparatory Charter School,6127 Summer Fest Dr,San Antonio,78244,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4801473,University Of Texas At Austin H S,1616 Guadalupe Ste B 0134,Austin,78701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807350,College Station Isd,1812 Welsh Ave,College Station,77840,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807380,Abbott Isd,219 S First St,Abbott,76621,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807410,Abernathy Isd,505 7th St,Abernathy,79311,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807440,Abilene Isd,241 Pine,Abilene,79601,Yes,Yes,31,38,14,9,0,0,0,0,11,22,58,55,8,7,122,131,4,5,3,1
+TX,Texas,4807470,Academy Isd,704 E Main St,Little River,76554,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807500,Adrian Isd,301 E. Matador Dr.,Adrian,79001,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807530,Agua Dulce Isd,1 Longhorn Dr,Agua Dulce,78330,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807590,Alamo Heights Isd,7101 Broadway St,San Antonio,78209,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807650,Alba-Golden Isd,1373 Cr 2377,Alba,75410,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807680,Albany Isd,501 E S First St,Albany,76430,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807710,Aldine Isd,2520 W W Thorne Dr,Houston,77073,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807780,Aledo Isd,1008 Bailey Ranch Rd,Aledo,76008,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807800,Alice Isd,2 Coyote Trl,Alice,78332,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807830,Alief Isd,4250 Cook Rd,Houston,77072,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807890,Allen Isd,612 E Bethany Rd,Allen,75002,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807950,Alpine Isd,704 W Sul Ross Ave,Alpine,79830,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4807980,Alto Isd,244 County Rd 2429,Alto,75925,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808090,Alvin Isd,301 E House St,Alvin,77511,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808100,Alvord Isd,185 Mosley Ln,Alvord,76225,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808130,Amarillo Isd,7200 I 40 W,Amarillo,79106,No,Yes,28,16,1,0,1,0,0,0,4,5,6,7,2,2,42,30,1,3,5,2
+TX,Texas,4808160,Amherst Isd,100 N Main,Amherst,79312,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808190,Anahuac Isd,804 Mikhael Ricks Dr,Anahuac,77514,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808230,Anderson-Shiro Cisd,458 Fm 149 W,Anderson,77830,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808280,Andrews Isd,405 Nw 3rd St,Andrews,79714,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808310,Angleton Isd,1900 N Downing Rd,Angleton,77515,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808340,Anna Isd,501 S Sherley Ave,Anna,75409,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808400,Anson Isd,1431 Commercial Ave,Anson,79501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808430,Anthony Isd,840 Sixth St,Anthony,79821,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808460,Anton Isd,100 E Ellwood Blvd,Anton,79313,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808490,Apple Springs Isd,9120 Fm 2501,Apple Springs,75926,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808520,Aquilla Isd,404 N Richards,Aquilla,76622,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808550,Aransas County Isd,619 N Live Oak St,Rockport,78382,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808580,Aransas Pass Isd,2300 Mcmullen Lane Ste 600,Aransas Pass,78336,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808610,Archer City Isd,600 S Ash,Archer City,76351,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808670,Argyle Isd,800 Eagle Dr,Argyle,76226,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808700,Arlington Isd,1203 W Pioneer Pkwy,Arlington,76013,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808730,Arp Isd,101 Toney Dr,Arp,75750,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808870,Athens Isd,104 Hawn St,Athens,75751,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808880,Atlanta Isd,106 W Main St,Atlanta,75551,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808910,Aubrey Isd,415 Tisdell Ln,Aubrey,76227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4808940,Austin Isd,4000 S Ih 35 Frontage Rd,Austin,78704,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809000,Austwell-Tivoli Isd,207 Redfish St,Tivoli,77990,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809030,Avalon Isd,104 F M 55,Avalon,76623,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809060,Avery Isd,150 San Antonio St,Avery,75554,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809090,Avinger Isd,245 Connor St,Avinger,75630,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809150,Axtell Isd,308 Ottawa,Axtell,76624,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809200,Azle Isd,300 Roe St,Azle,76020,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809280,Baird Isd,600 W 7th St,Baird,79504,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809300,Ballinger Isd,802 Conda Ave,Ballinger,76821,No,Yes,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+TX,Texas,4809330,Balmorhea Isd,1st And El Paso St,Balmorhea,79718,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809360,Bandera Isd,815 Pecan St,Bandera,78003,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809390,Bangs Isd,200 E Hall,Bangs,76823,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809410,Banquete Isd,4339 Fourth St,Banquete,78339,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809450,Barbers Hill Isd,9600 Eagle Dr,Mont Belvieu,77580,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809540,Bartlett Isd,404 N Robinson,Bartlett,76511,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809570,Bastrop Isd,906 Farm St,Bastrop,78602,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809630,Bay City Isd,520 7th St,Bay City,77414,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809670,Beaumont Isd,3395 Harrison Ave,Beaumont,77706,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809690,Beckville Isd,4398 Sh 149,Beckville,75631,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809720,Beeville Isd,201 N Saint Marys St,Beeville,78102,No,Yes,32,20,0,0,0,0,0,0,0,1,6,0,0,0,38,21,0,1,0,0
+TX,Texas,4809750,Bellevue Isd,500 Seventh St,Bellevue,76228,No,Yes,0,0,0,0,0,0,0,0,0,1,4,4,1,1,5,6,0,0,0,0
+TX,Texas,4809780,Bells Isd,1550 Ole Ambrose Rd,Bells,75414,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809810,Bellville Isd,518 S Mathews,Bellville,77418,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809860,Belton Isd,400 N Wall,Belton,76513,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809870,Ben Bolt-Palito Blanco Isd,172 Badger Ln,Ben Bolt,78342,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4809980,Benjamin Isd,300 Hays St,Benjamin,79505,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810140,Big Sandy Isd,401 Wildcat Dr,Big Sandy,75755,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810170,Big Sandy Isd,9180 Fm 1276,Dallardsville,77332,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810200,Big Spring Isd,708 E 11th Pl,Big Spring,79720,No,Yes,87,73,1,2,0,0,0,0,12,12,25,22,2,0,127,109,7,1,20,7
+TX,Texas,4810230,Birdville Isd,6125 E Belknap St,Haltom City,76117,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810260,Bishop Cisd,719 E Sixth St,Bishop,78343,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810320,Blanco Isd,814 Eleventh St,Blanco,78606,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810350,Bland Isd,2556 Lake Ave,Farmersville,75442,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810380,Blanket Isd,901 Ave H,Blanket,76432,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810440,Bloomburg Isd,211 W Cypress St,Bloomburg,75556,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810470,Blooming Grove Isd,212 W Grady St,Blooming Grove,76626,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810500,Bloomington Isd,131 N Williams,Placedo,77977,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810590,Blue Ridge Isd,318 W School St,Blue Ridge,75424,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810620,Bluff Dale Isd,430 Fm 2481,Bluff Dale,76433,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810650,Blum Isd,310 S Ave F,Blum,76627,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810710,Boerne Isd,235 Johns Rd.,Boerne,78006,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810740,Boles Isd,9777 F M 2101,Quinlan,75474,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810780,Boling Isd,301 Texas Ave,Boling,77420,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810800,Bonham Isd,1005 Chestnut St,Bonham,75418,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810830,Booker Isd,600 S Main,Booker,79005,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810860,Borden County Isd,240 W Kincaid,Gail,79738,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810890,Borger Isd,200 E 9th St,Borger,79007,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810910,Bosqueville Isd,7636 Rock Creek Rd,Waco,76708,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810950,Bovina Isd,500 Halsell St,Bovina,79009,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4810990,Bowie Isd,404 E Williams,Bowie,76230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811010,Boyd Isd,600 Knox Ave,Boyd,76023,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811040,Boys Ranch Isd,163 River Rd,Boys Ranch,79010,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811070,Brackett Isd,201 N. Ann,Brackettville,78832,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811110,Brady Isd,1003 W 11th St,Brady,76825,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811190,Brazosport Isd,301 W Brazoswood Dr,Clute,77531,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811220,Breckenridge Isd,208 N Miller,Breckenridge,76424,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811250,Bremond Isd,601 W Collins St,Bremond,76629,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811280,Brenham Isd,711 E Mansfield,Brenham,77833,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811310,Bridge City Isd,1031 W Roundbunch Rd,Bridge City,77611,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811340,Bridgeport Isd,2107 15th St,Bridgeport,76426,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811400,Fort Elliott Cisd,501 E Wilson,Briscoe,79011,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811430,Broaddus Isd,1 Bulldog Plaza,Broaddus,75929,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811460,Brock Isd,410 Eagle Spirit Ln,Brock,76087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811490,Bronte Isd,210 S Jefferson,Bronte,76933,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811520,Brookeland Isd,Loop 149,Brookeland,75931,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811550,Brookesmith Isd,13400 Fm 586 S,Brookesmith,76827,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811580,Brooks County Isd,200 E Allen St,Falfurrias,78355,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811610,Brownfield Isd,601 Tahoka Rd,Brownfield,79316,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811640,Brownsboro Isd,14134 State Hwy 31 E,Brownsboro,75756,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811680,Brownsville Isd,1900 Price Rd,Brownsville,78521,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811700,Brownwood Isd,2707 Southside Dr,Brownwood,76801,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811730,Bruceville-Eddy Isd,1 Eagle Dr,Eddy,76524,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811790,Bryan Isd,801 S Ennis St,Bryan,77803,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811820,Bryson Isd,300 N Mccloud St,Bryson,76427,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811850,Buckholts Isd,203 S 10th,Buckholts,76518,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811910,Buena Vista Isd,State Hwy 11 W,Imperial,79743,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4811990,Buffalo Isd,708 Cedar Creek Rd,Buffalo,75831,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812060,Bullard Isd,1426 B S Houston,Bullard,75757,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812090,Buna Isd,1022 Texas State Hwy 62,Buna,77612,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812120,Burkburnett Isd,100 N Ave D,Burkburnett,76354,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812150,Burkeville Isd,231 Cr 2099,Burkeville,75932,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812180,Burleson Isd,1160 S W Wilshire Blvd,Burleson,76028,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812220,Burnet Cisd,208 E Brier Ln,Burnet,78611,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812240,Burton Isd,701 N Railroad St,Burton,77835,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812360,Bynum Isd,704 Toliver St,Bynum,76631,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812390,Caddo Mills Isd,100 Fox Ln,Caddo Mills,75135,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812420,Calallen Isd,4205 Wildcat Dr,Corpus Christi,78410,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812460,Caldwell Isd,203 N Gray St,Caldwell,77836,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812480,Calhoun County Isd,525 N Commerce St,Port Lavaca,77979,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812510,Callisburg Isd,148 Dozier St,Callisburg,76240,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812540,Calvert Isd,310 Hickory St,Calvert,77837,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812640,Cameron Isd,304 E 12th,Cameron,76520,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812660,Campbell Isd,480 N Patterson St,Campbell,75422,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812700,Canadian Isd,800 Hillside Ave,Canadian,79014,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812750,Canton Isd,1045 S Buffalo,Canton,75103,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812780,Canutillo Isd,7965 Artcraft,El Paso,79932,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812810,Canyon Isd,3301 N 23rd St,Canyon,79015,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812870,Carlisle Isd,8960 Fm 13 W,Henderson,75654,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4812990,Carrizo Springs Cisd,300 N 7th St,Carrizo Springs,78834,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813020,Carroll Isd,2400 N Carroll Ave,Southlake,76092,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813050,Carrollton-Farmers Branch Isd,1445 N Perry Rd,Carrollton,75006,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813110,Carthage Isd,1600 W Panola,Carthage,75633,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813170,Castleberry Isd,5228 Ohio Garden Rd,Fort Worth,76114,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813200,Cayuga Isd,17750 N Us Hwy 287,Tennessee Colony,75861,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813230,Cedar Hill Isd,285 Uptown Blvd 300,Cedar Hill,75104,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813260,Celeste Isd,207 S 5th St,Celeste,75423,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813290,Celina Isd,205 S Colorado,Celina,75009,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813320,Center Isd,107 Pr 605,Center,75935,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813350,Center Point Isd,215 China St,Center Point,78010,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813380,Centerville Isd,10327 N State Hwy 94,Groveton,75845,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813410,Centerville Isd,813 S Commerce,Centerville,75833,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813440,Central Heights Isd,10317 Us Hwy 259 N,Nacogdoches,75965,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813500,Central Isd,7622 Us Hwy 69 N,Pollok,75969,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813530,Lumberton Isd,121 S Main,Lumberton,77657,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813590,Channelview Isd,828 Sheldon Rd,Channelview,77530,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813620,Channing Isd,900 Greenwood Ave,Channing,79018,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813650,Chapel Hill Isd,11134 Cr 2249,Tyler,75707,No,Yes,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+TX,Texas,4813680,Chapel Hill Isd,1069 Cr 4660,Mount Pleasant,75455,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813710,Charlotte Isd,102 E Hindes,Charlotte,78011,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813740,Cherokee Isd,305 S Indian Ave,Cherokee,76832,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813770,Chester Isd,273 Yellowjacket Dr,Chester,75936,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813800,Chico Isd,Po Box 95,Chico,76431,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813860,Childress Isd,308 3rd St Nw,Childress,79201,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813890,Chillicothe Isd,1610 S 6th St,Chillicothe,79225,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813920,Chilton Isd,905 Durango Ave,Chilton,76632,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813960,China Spring Isd,12166 Yankie Rd,China Spring,76633,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4813980,Chireno Isd,901 Main St,Chireno,75937,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814010,Christoval Isd,20065 Third St,Christoval,76935,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814070,Cisco Isd,1503 Leggett,Cisco,76437,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814130,City View Isd,1600 A City View Dr,Wichita Falls,76306,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814160,Clarendon Isd,416 S Allen,Clarendon,79226,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814190,Clarksville Isd,1500 West Main Street,Clarksville,75426,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814250,Claude Isd,500 W 5 St,Claude,79019,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814280,Clear Creek Isd,2425 E Main St,League City,77573,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814310,Cleburne Isd,505 N Ridgeway Ste 100,Cleburne,76033,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814370,Cleveland Isd,316 E Dallas St,Cleveland,77327,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814400,Clifton Isd,1102 Key Ave,Clifton,76634,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814430,Clint Isd,14521 Horizon Blvd,El Paso,79928,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814450,Clyde Cisd,526 Shalimar Dr,Clyde,79510,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814490,Coahoma Isd,600 N Main,Coahoma,79511,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814520,Coldspring-Oakhurst Cisd,14210 Hwy 150 W,Coldspring,77331,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814550,Coleman Isd,2302 S Commercial Ave,Coleman,76834,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814580,Collinsville Isd,503 Reeves,Collinsville,76233,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814600,Colmesneil Isd,610 W Elder,Colmesneil,75938,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814640,Colorado Isd,534 E 11th St,Colorado City,79512,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814670,Columbia-Brazoria Isd,520 S 16th St,West Columbia,77486,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814700,Columbus Isd,105 Cardinal Ln,Columbus,78934,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814730,Comal Isd,1404 Ih 35 N,New Braunfels,78130,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814760,Comanche Isd,200 E Highland,Comanche,76442,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814790,Comfort Isd,327 High St,Comfort,78013,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814820,Commerce Isd,3315 Washington St,Commerce,75428,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814850,Community Isd,611 N Fm 1138,Nevada,75173,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814880,Como-Pickton Cisd,13017 Tx Hwy 11 E,Como,75431,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814920,Comstock Isd,101 Sanderson St,Comstock,78837,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4814970,Connally Isd,200 Cadet Way,Waco,76705,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815000,Conroe Isd,3205 W Davis,Conroe,77304,Yes,Yes,5,3,0,0,0,0,0,0,7,5,24,22,0,0,36,30,0,0,0,0
+TX,Texas,4815120,Coolidge Isd,1002 Kirven St,Coolidge,76635,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815150,Cooper Isd,350 W Mckinney,Cooper,75432,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815180,Lubbock-Cooper Isd,13807 Indiana Ave,Lubbock,79423,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815210,Coppell Isd,200 S Denton Tap Rd,Coppell,75019,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815240,Copperas Cove Isd,408 S Main St,Copperas Cove,76522,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815270,Corpus Christi Isd,801 Leopard St,Corpus Christi,78401,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815300,Corrigan-Camden Isd,504 S Home St,Corrigan,75939,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815330,Corsicana Isd,2200 W 4th Ave,Corsicana,75110,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815360,Cotton Center Isd,2345 Fm 179,Cotton Center,79021,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815400,Cotulla Isd,310 N Main St,Cotulla,78014,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815420,Coupland Isd,620 S Commerce,Coupland,78615,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815480,Covington Isd,501 N Main St,Covington,76636,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815510,Crandall Isd,400 W Lewis St,Crandall,75114,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815540,Crane Isd,511 W 8th St,Crane,79731,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815570,Cranfills Gap Isd,505 S 2nd St,Cranfills Gap,76637,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815600,Crawford Isd,200 Pirate Dr,Crawford,76638,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815690,Crockett County Consolidated Csd,797 Ave D,Ozona,76943,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815720,Crockett Isd,1400 W Austin St,Crockett,75835,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815750,Crosby Isd,14670 Fm 2100,Crosby,77532,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815810,Cross Plains Isd,700 N Main,Cross Plains,76443,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815840,Cross Roads Isd,14434 Fm 59,Malakoff,75148,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815870,Crowell Isd,400 E Logan,Crowell,79227,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815910,Crowley Isd,512 Peach St,Crowley,76036,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815930,Crystal City Isd,613 W Zavala St,Crystal City,78839,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815960,Cuero Isd,960 E Broadway,Cuero,77954,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4815990,Culberson County-Allamoore Isd,200 W 7th St,Van Horn,79855,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816020,Cumby Isd,303 Sayle St,Cumby,75433,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816080,Cushing Isd,1088 W Bearkat Dr,Cushing,75760,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816110,Cypress-Fairbanks Isd,10300 Jones Rd,Houston,77065,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816140,D'hanis Isd,6751 Cr 5216,D'hanis,78850,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816180,Daingerfield-Lone Star Isd,200 Tiger Dr,Daingerfield,75638,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816200,Dalhart Isd,701 E 10th,Dalhart,79022,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816230,Dallas Isd,9400 N Central Expy,Dallas,75231,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816260,Damon Isd,"1211 Mulcahy, Po Box 429",Damon,77430,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816290,Danbury Isd,5611 Panther Drive,Danbury,77534,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816320,Darrouzett Isd,102 W Kansas,Darrouzett,79024,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816350,Dawson Isd,600 Brownfield Hwy 137,Welch,79377,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816380,Dawson Isd,199 N School Ave,Dawson,76639,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816410,Dayton Isd,100 Cherry Creek Rd,Dayton,77535,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816440,De Leon Isd,425 S Texas St,De Leon,76444,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816500,Decatur Isd,307 S Cates,Decatur,76234,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816530,Deer Park Isd,2800 Texas Ave,Deer Park,77536,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816570,Dekalb Isd,101 W Maple St,Dekalb,75559,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816620,Del Valle Isd,5301 Ross Rd,Del Valle,78617,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816650,Dell City Isd,110 N Main St,Dell City,79837,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816710,Denison Isd,1201 S Rusk Ave,Denison,75020,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816740,Denton Isd,1307 N Locust St,Denton,76201,Yes,Yes,21,25,1,0,1,1,0,0,12,13,30,24,3,0,68,63,7,7,20,14
+TX,Texas,4816770,Denver City Isd,501 Mustang Ave,Denver City,79323,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816860,Desoto Isd,200 E Belt Line Rd,Desoto,75115,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816890,Detroit Isd,110 E Garner Ave,Detroit,75436,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816920,Devers Isd,201 S Chism St,Devers,77538,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816950,Devine Isd,605 W Hondo,Devine,78016,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4816980,Dew Isd,606 Cr 481,Teague,75860,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817010,Deweyville Isd,43200 State Hwy 87 S,Orange,77632,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817040,Diboll Isd,215 N Temple Blvd,Diboll,75941,No,Yes,0,1,0,0,0,0,0,0,0,0,1,2,0,0,1,3,0,0,0,0
+TX,Texas,4817070,Dickinson Isd,2218 E Fm 517,Dickinson,77539,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817100,Dilley Isd,245 W Fm 117,Dilley,78017,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817130,Dime Box Isd,1079 Stephen F Austin Blvd,Dime Box,77853,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817160,Dimmitt Isd,608 West Halsell,Dimmitt,79027,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817190,Divide Isd,120 Divide School Rd,Mountain Home,78058,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817280,Dodd City Isd,602 N Main St,Dodd City,75438,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817390,Donna Isd,116 N 10th St,Donna,78537,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817400,Doss Consolidated Csd,11431 Ranch Rd 648,Doss,78618,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817460,Douglass Isd,20712 S Fm 225,Douglass,75943,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817550,Driscoll Isd,315 W Dragon St,Driscoll,78351,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817580,Dublin Isd,420 N Post Oak,Dublin,76446,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817610,Dumas Isd,421 W 4th St,Dumas,79029,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817640,Duncanville Isd,710 S Cedar Ridge Dr,Duncanville,75137,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817700,Eagle Mt-Saginaw Isd,1200 Old Decatur Rd,Fort Worth,76179,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817730,Eagle Pass Isd,587 Madison St,Eagle Pass,78852,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817760,Eanes Isd,601 Camp Craft Rd,Austin,78746,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817790,Early Isd,101 Turtle Creek,Early,76802,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817830,East Bernard Isd,723 College St,East Bernard,77435,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817850,East Central Isd,6634 New Sulphur Springs Rd,San Antonio,78263,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817880,East Chambers Isd,216 Champions Loop,Winnie,77665,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4817960,Eastland Isd,209 Ste B Main St,Eastland,76448,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818000,Ector County Isd,802 N Sam Houston,Odessa,79760,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818030,Ector Isd,301 S Main,Ector,75439,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818060,Edcouch-Elsa Isd,Po Box 127,Edcouch,78538,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818070,Eden Cisd,113 W Bryan,Eden,76837,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818120,Edgewood Isd,804 E Pine,Edgewood,75117,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818150,Edgewood Isd,5358 W Commerce St,San Antonio,78237,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818180,Edinburg Cisd,411 N 8th St,Edinburg,78541,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818210,Edna Isd,601 N Wells,Edna,77957,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818280,El Campo Isd,700 W Norris St,El Campo,77437,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818300,El Paso Isd,1014 N. Stanton St.,El Paso,79902,Yes,Yes,12,1,0,0,0,0,0,0,1,0,0,0,0,0,13,1,0,0,1,0
+TX,Texas,4818330,Electra Isd,400 E Roosevelt Ave,Electra,76360,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818360,Elgin Isd,1002 N Ave C,Elgin,78621,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818390,Elkhart Isd,301 E Parker St,Elkhart,75839,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818480,Elysian Fields Isd,2099 Fm 451,Waskom,75692,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818540,Ennis Isd,303 W Knox,Ennis,75119,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818600,Era Isd,108 Hargrove St,Era,76238,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818660,Etoile Isd,16039 Fm Rd 226,Etoile,75944,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818690,Eula Isd,6040 F M 603,Clyde,79510,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818720,Eustace Isd,320 S Fm 316,Eustace,75124,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818750,Evadale Isd,908 Fm 105,Evadale,77615,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818780,Evant Isd,339 Memory Ln,Evant,76525,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818810,Everman Isd,1520 E Everman Pkwy,Fort Worth,76140,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818840,Excelsior Isd,11270 State Hwy 7 W,Center,75935,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818890,Ezzell Isd,20500 Fm 531,Hallettsville,77964,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818900,Fabens Isd,Po Box 697,Fabens,79838,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4818940,Fairfield Isd,615 Post Oak Rd,Fairfield,75840,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819020,Falls City Isd,700 N Nelson St,Falls City,78113,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819050,Fannindel Isd,601 W Main St,Ladonia,75449,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819080,Farmersville Isd,501 A Hwy 78 N,Farmersville,75442,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819110,Farwell Isd,805 Ave. G,Farwell,79325,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819140,Fayetteville Isd,618 Rusk St,Fayetteville,78940,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819170,Ferris Isd,301 E 5th St,Ferris,75125,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819280,Flatonia Isd,400 E 4th,Flatonia,78941,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819320,Florence Isd,306 College Ave,Florence,76527,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819350,Floresville Isd,1200 5th St,Floresville,78114,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819380,Flour Bluff Isd,2505 Waldron Rd,Corpus Christi,78418,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819440,Floydada Isd,226 W California St,Floydada,79235,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819500,Follett Isd,205 E Ivanhoe Highway15,Follett,79034,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819530,Forestburg Isd,16346 Fm 455,Forestburg,76239,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819560,Forney Isd,600 S Bois D Arc St,Forney,75126,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819620,Forsan Isd,411 W 6th,Forsan,79733,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819650,Fort Bend Isd,16431 Lexington Blvd,Sugar Land,77479,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819700,Fort Worth Isd,100 N University Dr,Fort Worth,76107,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819740,Franklin Isd,1216 W Fm 1644,Franklin,77856,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819770,Frankston Isd,100 W Perry St,Frankston,75763,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819820,Freer Isd,905 S Norton,Freer,78357,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819830,Frenship Isd,501 7th St,Wolfforth,79382,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819840,Fredericksburg Isd,234 Friendship Ln,Fredericksburg,78624,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819950,Friendswood Isd,302 Laurel Dr,Friendswood,77546,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4819980,Friona Isd,909 E 11th St,Friona,79035,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820010,Frisco Isd,5515 Ohio Dr,Frisco,75035,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820040,Frost Isd,208 N Wyrick,Frost,76641,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820070,Fruitvale Isd,244 Vzcr 1910,Fruitvale,75127,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820100,Ft Davis Isd,401 W Webster Ave,Ft Davis,79734,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820130,Ft Hancock Isd,100 School Dr,Ft Hancock,79839,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820160,Ft Sam Houston Isd,4005 Winans Rd,San Antonio,78234,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820190,Fort Stockton Isd,101 W Division St,Fort Stockton,79735,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820220,Gainesville Isd,800 S Morris St,Gainesville,76240,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820250,Galena Park Isd,14705 Woodforest Blvd,Houston,77015,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820280,Galveston Isd,3904 Ave T,Galveston,77550,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820310,Ganado Isd,210 S Sixth St,Ganado,77962,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820340,Garland Isd,501 S Jupiter,Garland,75042,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820370,Garner Isd,2222 Garner School Rd,Weatherford,76088,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820400,Garrison Isd,459 N Us Hwy 59,Garrison,75946,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820460,Gary Isd,132 Bobcat Trail,Gary,75643,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820500,Gatesville Isd,311 S Lovers Ln,Gatesville,76528,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820520,Gause Isd,400 College,Gause,77857,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820550,George West Isd,913 Houston St,George West,78022,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820600,Georgetown Isd,507 E University Ave,Georgetown,78626,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820610,Gholson Isd,137 Hamilton Dr,Waco,76705,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820640,Giddings Isd,2337 N Main,Giddings,78942,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820700,Gilmer Isd,245 N Bradford St,Gilmer,75644,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820760,Gladewater Isd,200 E Broadway,Gladewater,75647,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820790,Glasscock County Isd,308 W Chambers,Garden City,79739,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820850,Glen Rose Isd,1102 Stadium Dr,Glen Rose,76043,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820960,Godley Isd,313 N Pearson,Godley,76044,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4820970,Gold Burg Isd,468 Prater Rd,Bowie,76230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821000,Goldthwaite Isd,1509 Hannah Valley Rd,Goldthwaite,76844,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821030,Goliad Isd,161 N Welch,Goliad,77963,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821060,Gonzales Isd,1615 St. Louis Street,Gonzales,78629,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821090,Goodrich Isd,234 Katie Simpson,Goodrich,77335,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821150,Goose Creek Cisd,4544 Interstate 10 E,Baytown,77521,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821180,Gordon Isd,112 116 Rusk Sts,Gordon,76453,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821270,Gorman Isd,114 W Lexington,Gorman,76454,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821300,Grady Isd,3011 State Hwy 176,Lenorah,79749,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821330,Graford Isd,400 W Division,Graford,76449,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821360,Graham Isd,400 3rd St,Graham,76450,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821390,Granbury Isd,217 N Jones,Granbury,76048,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821420,Grand Prairie Isd,2602 S Belt Line Rd,Grand Prairie,75052,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821450,Grand Saline Isd,400 Stadium Dr,Grand Saline,75140,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821480,Grandfalls-Royalty Isd,115 Ave C,Grandfalls,79742,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821540,Grandview Isd,701 S Fifth St,Grandview,76050,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821560,Grandview-Hopkins Isd,11676 Fm 293,Groom,79039,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821590,Granger Isd,300 N Colorado St,Granger,76530,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821600,Grape Creek Isd,8207 U S Hwy 87 N,San Angelo,76901,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821630,Grapeland Isd,116 W Myrtle,Grapeland,75844,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821660,Grapevine-Colleyville Isd,3051 Ira E Woods Ave,Grapevine,76051,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821720,Greenville Isd,4004 Moulton,Greenville,75401,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821750,Greenwood Isd,2700 Fm 1379,Midland,79706,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821780,Gregory-Portland Isd,608 College St,Portland,78374,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821810,Groesbeck Isd,1202 N Ellis,Groesbeck,76642,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821840,Groom Isd,304 W 3rd,Groom,79039,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821900,Groveton Isd,207 N Main St,Groveton,75845,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821930,Gruver Isd,601 Garrett St,Gruver,79040,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821960,Gunter Isd,213 N Preston Rd,Gunter,75058,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4821990,Gustine Isd,503 W Main St,Gustine,76455,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822020,Guthrie Csd,301 Jaguar Ln,Guthrie,79236,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822050,Hale Center Isd,103 W Cleveland,Hale Center,79041,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822120,Hallettsville Isd,302 N Ridge St 368,Hallettsville,77964,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822140,Hallsburg Isd,2313 Hallsburg Rd,Waco,76705,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822170,Hallsville Isd,311 Willow St,Hallsville,75650,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822230,Hamilton Isd,400 S College,Hamilton,76531,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822260,Hamlin Collegiate Isd,250 Sw Ave F,Hamlin,79520,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822320,Hamshire-Fannett Isd,12702 Second St,Hamshire,77622,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822350,Happy Isd,500 Nw Third,Happy,79042,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822380,Hardin Isd,12195 Hwy 146 North,Hardin,77561,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822410,Hardin-Jefferson Isd,520 W Herring,Sour Lake,77659,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822470,Harlandale Isd,102 Genevieve St,San Antonio,78214,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822500,Harleton Isd,17000 Sh 154,Harleton,75651,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822530,Harlingen Cisd,407 N 77 Sunshine Strip,Harlingen,78550,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822560,Harmony Isd,9788 State Hwy 154 W,Big Sandy,75755,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822590,Harper Isd,P.O. Box 68,Harper,78631,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822620,Harrold Isd,18106 Stewart St,Harrold,76364,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822650,Hart Isd,710 Second St,Hart,79043,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822680,Hartley Isd,901 Johnson,Hartley,79044,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822710,Harts Bluff Isd,3506 Fm 1402,Mount Pleasant,75455,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822740,Haskell Cisd,605 N Ave E,Haskell,79521,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822770,Hawkins Isd,179 Hawk Dr,Hawkins,75765,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822800,Hawley Isd,210 Ave E,Hawley,79525,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822830,Hearne Isd,900 Wheelock St,Hearne,77859,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822850,Hedley Isd,301 Jones St.,Hedley,79237,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822890,Hemphill Isd,1000 Milam St,Hemphill,75948,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822920,Hempstead Isd,P. O. Box 1007,Hempstead,77445,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822970,Henderson Isd,300 Crosby Dr,Henderson,75652,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4822980,Henrietta Isd,1801 E Crafton,Henrietta,76365,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823010,Hereford Isd,601 N 25 Mile Ave,Hereford,79045,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823040,Hermleigh Isd,8010 Business 84h,Hermleigh,79526,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823070,Hico Isd,901 Cedar,Hico,76457,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823100,Hidalgo Isd,324 E Flora St,Hidalgo,78557,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823160,High Island Isd,2113 6th St,High Island,77623,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823190,Highland Isd,6625 Fm 608,Roscoe,79545,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823250,Highland Park Isd,7015 Westchester Dr,Dallas,75205,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823280,Hillsboro Isd,121 E Franklin St,Hillsboro,76645,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823310,Hitchcock Isd,7801 Neville Road,Hitchcock,77563,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823370,Holland Isd,105 S Rose Ln,Holland,76534,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823400,Holliday Isd,751 College Ave,Holliday,76366,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823430,Hondo Isd,2604 Ave E,Hondo,78861,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823460,Honey Grove Isd,1206 N 17th St,Honey Grove,75446,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823490,Hooks Isd,100 E 5th St,Hooks,75561,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823640,Houston Isd,4400 W 18th St,Houston,77092,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823670,Howe Isd,105 W Tutt St,Howe,75459,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823700,Hubbard Isd,3347 Hwy 259 S,Dekalb,75559,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823730,Hubbard Isd,1803 Nw 4th St,Hubbard,76648,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823760,Huckabay Isd,200 County Rd 421,Stephenville,76401,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823790,Hudson Isd,6735 Ted Trout Drive,Lufkin,75904,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823820,Huffman Isd,24302 F M 2100,Huffman,77336,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823850,Hughes Springs Isd,871 Taylor St,Hughes Springs,75656,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823880,Hull-Daisetta Isd,117 N Main Hwy 770,Daisetta,77533,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823910,Humble Isd,10203 Birchridge Dr,Humble,77338,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4823970,Hunt Isd,115 School Ln Sw,Hunt,78024,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824000,Huntington Isd,908 Main St,Huntington,75949,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824030,Huntsville Isd,441 Fm 2821 E,Huntsville,77320,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824060,Hurst-Euless-Bedford Isd,1849a Central Dr,Bedford,76022,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824100,Hutto Isd,200 College St,Hutto,78634,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824120,Idalou Isd,601 S Walnut,Idalou,79329,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824150,Industrial Isd,167 Fifth St,Vanderbilt,77991,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824180,Ingleside Isd,2664 San Angelo,Ingleside,78362,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824210,Ingram Isd,510 College St,Ingram,78025,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824240,Iola Isd,7282 Ft Worth St,Iola,77861,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824260,Iowa Park Cisd,328 E Hwy,Iowa Park,76367,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824300,Ira Isd,6190 W Fm 1606,Ira,79527,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824330,Iraan-Sheffield Isd,100 S Farr St,Iraan,79744,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824360,Iredell Isd,501 E Mcclain,Iredell,76649,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824420,Irving Isd,2621 W Airport Fwy,Irving,75062,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824450,Italy Isd,300 S College,Italy,76651,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824480,Itasca Isd,123 N College,Itasca,76055,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824530,Jacksboro Isd,750 W Belknap,Jacksboro,76458,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824590,Jacksonville Isd,800 College Ave,Jacksonville,75766,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824600,Jarrell Isd,108 E Ave F,Jarrell,76537,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824630,Jasper Isd,128 Park St,Jasper,75951,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824660,Jayton-Girard Isd,700 Madison,Jayton,79528,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824730,Jefferson Isd,1600 Mlk,Jefferson,75657,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824750,Jim Hogg County Isd,210 W Lucille,Hebbronville,78361,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824780,Jim Ned Cisd,441 Graham Street,Tuscola,79562,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824810,Joaquin Isd,11109 Us Hwy 84 E,Joaquin,75954,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824840,Johnson City Isd,505 N Nugent,Johnson City,78636,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824900,Jonesboro Isd,14909 E State Hwy 36,Jonesboro,76538,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824930,Joshua Isd,310 E 18th St,Joshua,76058,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824960,Jourdanton Isd,200 Zanderson Ave,Jourdanton,78026,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4824990,Judson Isd,8012 Shin Oak,San Antonio,78233,No,Yes,2,0,0,0,0,0,0,0,1,1,0,2,0,0,3,3,0,0,0,0
+TX,Texas,4825020,Junction Isd,1700 College St,Junction,76849,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825110,Karnack Isd,655 Fason,Karnack,75661,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825140,Karnes City Isd,404 N Hwy 123,Karnes City,78118,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825170,Katy Isd,6301 S Stadium Ln,Katy,77494,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825200,Kaufman Isd,1000 S Houston St,Kaufman,75142,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825230,Keene Isd,3625 Hwy 67 E Bldg C,Keene,76059,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825260,Keller Isd,350 Keller Pkwy,Keller,76248,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825290,Kelton Isd,Intersection Of F M 596 And 2697,Wheeler,79096,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825320,Kemp Isd,905 S Main St,Kemp,75143,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825410,Kenedy County Wide Csd,150 E La Parra St,Sarita,78385,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825440,Kenedy Isd,401 F M 719,Kenedy,78119,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825470,Kennard Isd,304 Hwy Seven E,Kennard,75847,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825500,Kennedale Isd,120 W Kennedale Pkwy,Kennedale,76060,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825530,Kerens Isd,200 Bobcat Ln,Kerens,75144,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825560,Kermit Isd,601 S Poplar,Kermit,79745,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825590,Kerrville Isd,1009 Barnett St,Kerrville,78028,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825620,Kilgore Isd,301 N Kilgore St,Kilgore,75662,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825660,Killeen Isd,200 N W S Young Dr,Killeen,76543,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825680,Kingsville Isd,207 N Third St,Kingsville,78363,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825710,Kirbyville Cisd,206 E Main St,Kirbyville,75956,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825740,Klein Isd,7200 Spring Cypress Rd,Klein,77379,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825790,Klondike Isd,2911 Co Rd H,Lamesa,79331,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825800,Knippa Isd,100 Kessler Ln,Knippa,78870,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825870,Knox City-O'brien Cisd,606 E Main St,Knox City,79529,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825890,Kopperl Isd,175 Cr 1240,Kopperl,76652,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825920,Kountze Isd,160 W Vaughn St,Kountze,77625,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825950,Kress Isd,200 E 5th,Kress,79052,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4825980,Krum Isd,1200 Bobcat Blvd,Krum,76249,No,Yes,9,10,3,0,0,0,0,0,0,0,32,36,5,3,49,49,2,1,6,2
+TX,Texas,4826040,La Feria Isd,203 E Oleander,La Feria,78559,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826070,La Gloria Isd,182 E County Rd 401,Falurrias,78355,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826100,La Grange Isd,560 N Monroe,La Grange,78945,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826130,La Joya Isd,201 E Expy 83,La Joya,78560,No,Yes,8,16,2,1,0,0,0,0,0,0,6,15,0,0,16,32,5,9,0,0
+TX,Texas,4826190,La Porte Isd,1002 San Jacinto St,La Porte,77571,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826220,Lapoynor Isd,13155 Hwy 175 E,Larue,75770,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826250,La Pryor Isd,311 E Hwy 57,La Pryor,78872,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826280,La Vega Isd,400 E Loop 340,Waco,76705,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826310,La Vernia Isd,13600 Us Hwy 87 W,La Vernia,78121,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826340,La Villa Isd,500 E 9th St,La Villa,78562,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826370,Lackland Isd,2460 Kenly Ave Bldg 8265,San Antonio,78236,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826400,Lago Vista Isd,8039 Bar K Ranch Rd,Lago Vista,78645,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826430,Lake Dallas Isd,104 Swisher Rd,Lake Dallas,75065,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826470,Lake Travis Isd,3322 Ranch Rd 620 S,Austin,78738,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826490,Lake Worth Isd,6805 Telephone Rd,Lake Worth,76135,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826580,Lamar Cisd,3911 Ave I,Rosenberg,77471,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826610,Lamesa Isd,212 N Houston,Lamesa,79331,No,Yes,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0
+TX,Texas,4826640,Lampasas Isd,207 W 8th St,Lampasas,76550,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826670,Lancaster Isd,422 S Centre Ave,Lancaster,75146,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826700,Laneville Isd,7415 Fm 1798 W,Laneville,75667,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826790,Laredo Isd,1702 Houston St,Laredo,78040,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826850,Lasara Isd,6160 E Sixth St,Lasara,78561,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826910,Latexo Isd,298 Fm 2663,Latexo,75849,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4826970,Lazbuddie Isd,675 Fm 1172,Lazbuddie,79053,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827000,Leakey Isd,429 Hwy 83 N,Leakey,78873,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827030,Leander Isd,204 W S St,Leander,78641,Yes,Yes,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0
+TX,Texas,4827060,Leary Isd,9500 W. New Boston Road,"Texarkana, Texas",75501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827090,Lefors Isd,209 E 5th St,Lefors,79054,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827120,Leggett Isd,254 E Fm 942,Livingston,77351,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827180,Leon Isd,12168 Hwy 79 W,Jewett,75846,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827210,Leonard Isd,1 Tiger Alley,Leonard,75452,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827240,Levelland Isd,704 11th St,Levelland,79336,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827270,Leveretts Chapel Isd,8956 State Hwy 42 N,Overton,75684,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827300,Lewisville Isd,1565a W Main St,Lewisville,75067,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827330,Lexington Isd,8403 N Hwy 77,Lexington,78947,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827390,Liberty-Eylau Isd,2901 Leopard Dr,Texarkana,75501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827420,Liberty Hill Isd,301 Forrest St,Liberty Hill,78642,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827450,Liberty Isd,1600 Grand Ave,Liberty,77575,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827510,Lindale Isd,505 Pierce St,Lindale,75771,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827540,Linden-Kildare Cisd,205 Kildare Rd,Linden,75563,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827570,Lindsay Isd,495 Sixth St,Lindsay,76250,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827600,Lingleville Isd,21261 N Fm 219,Lingleville,76461,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827630,Lipan Isd,211 N Kickapoo,Lipan,76462,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827690,Little Cypress-Mauriceville Cisd,6586 Fm 1130,Orange,77632,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827720,Little Elm Isd,300 Lobo Ln,Little Elm,75068,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827750,Littlefield Isd,1207 E 14th St,Littlefield,79339,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827780,Livingston Isd,1412 S Houston,Livingston,77351,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827810,Llano Isd,1400 Oatman St,Llano,78643,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827870,Lockhart Isd,419 Bois D Arc St,Lockhart,78644,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827890,Lockney Isd,601 W Poplar,Lockney,79241,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827930,Lohn Isd,1112 Fm 504,Lohn,76852,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827960,Lometa Isd,100 N 8th St,Lometa,76853,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4827990,London Isd,1306 Fm 43,Corpus Christi,78415,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828020,Lone Oak Isd,8162 Hwy 69 S,Lone Oak,75453,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828110,Longview Isd,1301 E Young St,Longview,75602,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828140,Loop Isd,1441 Fm Hwy 303,Loop,79342,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828170,Loraine Isd,800 S Lightfoot,Loraine,79532,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828200,Lorena Isd,308 N Frontage Rd,Lorena,76655,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828230,Lorenzo Isd,1003 4th St,Lorenzo,79343,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828290,Los Fresnos Cisd,600 Mesquite Ln,Los Fresnos,78566,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828350,Louise Isd,408 Second St,Louise,77455,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828380,Lovejoy Isd,259 Country Club Rd,Allen,75002,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828410,Lovelady Isd,11839 Tx St Hwy 19 S,Lovelady,75851,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828500,Lubbock Isd,1628 19th St,Lubbock,79401,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828530,Lueders-Avoca Isd,334 Vandeventer St,Lueders,79533,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828550,Lufkin Isd,101 Cotton Sq,Lufkin,75904,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828590,Luling Isd,212 E Bowie St,Luling,78648,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828620,Lyford Cisd,8240 Simon Gomez Blvd,Lyford,78569,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828650,Lytle Isd,15437 Cottage St,Lytle,78052,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828680,Mabank Isd,310 E Market St,Mabank,75147,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828710,Madisonville Cisd,718 Bacon St,Madisonville,77864,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828740,Magnolia Isd,31141 Nichols Sawmill Rd,Magnolia,77355,No,Yes,2,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0
+TX,Texas,4828780,Malakoff Isd,1308 Fm 3062,Malakoff,75148,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828800,Malone Isd,202 W Hackberry St,Malone,76660,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828830,Malta Isd,6178 W Us Hwy 82,New Boston,75570,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828890,Manor Isd,10335 Hwy 290 E,Manor,78653,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828920,Mansfield Isd,605 E Broad St,Mansfield,76063,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4828980,Marathon Isd,109 Ne 5th St,Marathon,79842,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829010,Marble Falls Isd,1800 Colt Cir,Marble Falls,78654,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829040,Marfa Isd,400 W Lincoln St,Marfa,79843,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829100,Marion Isd,Po Box 189,Marion,78124,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829130,Marlin Isd,678 Success Dr #b,Marlin,76661,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829160,Marshall Isd,1305 E. Pinecrest Dr,Marshall,75670,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829190,Mart Isd,1100 J L Davis Ave,Mart,76664,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829220,Martins Mill Isd,301 F M 1861,Martin's Mill,75754,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829250,Martinsville Isd,12952 State Hwy 7 E,Nacogdoches,75961,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829280,Mason Isd,200 Ft Mckavitt,Mason,76856,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829370,Matagorda Isd,717 Wightman St,Matagorda,77457,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829400,Mathis Isd,Po Box 1179,Mathis,78368,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829460,Maud Isd,389 Houston Dr,Maud,75567,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829520,May Isd,3400 Cr 411 E,May,76857,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829580,Maypearl Isd,309 Main St,Maypearl,76064,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829670,Mcallen Isd,2000 N 23rd St,Mcallen,78501,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829700,Mccamey Isd,112 E 11th St,Mccamey,79752,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829760,Mcdade Isd,156 Marlin St,Mcdade,78650,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829820,Mcgregor Isd,525 Bluebonnet Pkwy,Mcgregor,76657,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829850,Mckinney Isd,1 Duvall St,Mckinney,75069,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829880,Mclean Isd,600 Rowe St,Mclean,79057,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829910,Mcleod Isd,19395 Farm Rd 125,Mcleod,75565,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4829940,Mcmullen County Isd,901 River St,Tilden,78072,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830000,Meadow Isd,604 4th St,Meadow,79345,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830030,Medina Isd,One Bobcat Ln,Medina,78055,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830060,Medina Valley Isd,8449 F M 471 S,Castroville,78009,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830120,Melissa Isd,1904 Cooper,Melissa,75454,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830180,Memphis Isd,1501 High St,Memphis,79245,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830210,Menard Isd,221 E San Saba,Menard,76859,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830250,Mercedes Isd,206 W 6th St,Mercedes,78570,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830300,Meridian Isd,201 2nd St,Meridian,76665,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830340,Merkel Isd,1512 S 5th,Merkel,79536,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830360,Irion County Isd,302 N Third St,Mertzon,76941,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830390,Mesquite Isd,3819 Towne Crossing Boulevard,Mesquite,75150,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830420,Mexia Isd,616 N Red River St,Mexia,76667,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830450,Meyersville Isd,1897 Meyersville Rd,Meyersville,77974,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830480,Miami Isd,800 Warrior Way,Miami,79059,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830570,Midland Isd,615 W Missouri Ave,Midland,79701,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830600,Midlothian Isd,100 Walter Stephenson Rd,Midlothian,76065,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830640,Midway Isd,13885 Woodway Dr,Woodway,76712,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830660,Midway Isd,12142 State Hwy 148 S,Henrietta,76365,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830690,Milano Isd,500 N Fifth St,Milano,76556,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830720,Mildred Isd,5475 S Hwy 287,Corsicana,75109,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830750,Miles Isd,1001 Robinson,Miles,76861,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830780,Milford Isd,205 3rd Ave,Milford,76670,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830810,Miller Grove Isd,7819 Fm 275 S,Cumby,75433,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830870,Millsap Isd,201 E Brazos St,Millsap,76066,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830930,Mineola Isd,1695 W Loop 564,Mineola,75773,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4830950,Mineral Wells Isd,906 S W 5th Ave,Mineral Wells,76067,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831040,Mission Cisd,1201 Bryce Dr,Mission,78572,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831170,Monahans-Wickett-Pyote Isd,606 S Betty Ave,Monahans,79756,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831200,Montague Isd,8020 Hwy 175,Montague,76251,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831230,Monte Alto Isd,25149 1st St,Monte Alto,78538,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831260,Montgomery Isd,20774 Eva St,Montgomery,77356,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831290,Moody Isd,12084a S Lone Star Pkwy,Moody,76557,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831320,Moran Isd,900 Main Ave,Moran,76464,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831380,Morgan Isd,1306 Charles St,Morgan,76671,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831410,Morgan Mill Isd,295 E Fm 1188,Morgan Mill,76465,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831470,Morton Isd,500 Champion Dr,Morton,79346,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831500,Motley County Isd,1600 Bundy,Matador,79244,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831560,Moulton Isd,500 N Pecan St,Moulton,77975,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831620,Mount Calm Isd,200 N Coates E,Mount Calm,76673,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831650,Mount Enterprise Isd,301 Nw 3rd St,Mount Enterprise,75681,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831760,Mount Pleasant Isd,2230 N Edwards Ave,Mount Pleasant,75456,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831770,Mount Vernon Isd,501 Texas Hwy 37,Mount Vernon,75457,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831860,Muenster Isd,113 E 7th St,Muenster,76252,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831890,Muleshoe Isd,514 W Ave G,Muleshoe,79347,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831920,Mullin Isd,403 W Bulldog Dr,Mullin,76864,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831950,Mumford Isd,9755 F M 50,Mumford,77807,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4831970,Munday Cisd,811 W D,Munday,76371,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832010,Murchison Isd,9661 E Bankhead St,Murchison,75778,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832090,Nacogdoches Isd,4632 Ne Stallings Drive,Nacogdoches,75965,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832130,Natalia Isd,805 Pearson St,Natalia,78059,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832160,Navarro Isd,6450 N State Hwy 123,Seguin,78155,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832190,Navasota Isd,705 E Washington Ave,Navasota,77868,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832220,Nazareth Isd,101 S First St,Nazareth,79063,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832250,Neches Isd,1509 Acr 346,Palestine,75803,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832280,Nederland Isd,220 N 17th St,Nederland,77627,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832310,Needville Isd,16319 Hwy 36,Needville,77461,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832340,New Boston Isd,201 Rice St,New Boston,75570,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832370,New Braunfels Isd,1000 N Walnut,New Braunfels,78130,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832400,New Caney Isd,21580 Loop 494,New Caney,77357,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832430,New Deal Isd,Po Box 280,New Deal,79350,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832460,New Diana Isd,1373 Us Hwy 259 S,Diana,75640,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832490,New Home Isd,225 N Main St,New Home,79381,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832610,New Summerfield Isd,13307 Hwy 110 S,New Summerfield,75780,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832640,New Waverly Isd,355 Front St,New Waverly,77358,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832700,Newcastle Isd,Po Box 129,Newcastle,76372,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832730,Newton Isd,720 Rusk St,Newton,75966,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832740,Nixon-Smiley Cisd,800 Rancho Rd,Nixon,78140,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832790,Nocona Isd,220 Clay,Nocona,76255,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832880,Nordheim Isd,500 North Broadway,Nordheim,78141,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832910,Normangee Isd,116 Spur 3,Normangee,77871,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832940,North East Isd,8961 Tesoro Dr,San Antonio,78217,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4832970,North Hopkins Isd,1994 Fm 71 W,Sulphur Springs,75482,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833010,North Lamar Isd,3130 N Main,Paris,75460,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833030,North Zulch Isd,11390 Fifth St Admn,North Zulch,77872,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833090,Northside Isd,18040 Hwy 283 N,Vernon,76384,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833120,Northside Isd,5900 Evers Rd,San Antonio,78238,No,Yes,5,5,0,0,1,0,0,0,0,1,2,0,0,0,8,6,0,0,0,0
+TX,Texas,4833180,Northwest Isd,2001 Texan Dr,Justin,76247,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833240,Nueces Canyon Cisd,200 Taylor St,Barksdale,78828,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833270,Nursery Isd,13254 Nursery Dr,Victoria,77904,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833340,Oakwood Isd,631 N Holly St,Oakwood,75855,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833360,Odem-Edroy Isd,1 Owl Square,Odem,78370,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833390,O'donnell Isd,400 Small St,O'donnell,79351,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833420,Oglesby Isd,125 College Ave,Oglesby,76561,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833570,Olfen Isd,1122 Private Rd 2562,Rowena,76875,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833630,Olney Isd,809 W Hamilton,Olney,76374,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833660,Olton Isd,701 6th St,Olton,79064,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833690,Onalaska Isd,134 N Fm 356,Onalaska,77360,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833720,Orange Grove Isd,504 S Dibrell,Orange Grove,78372,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833780,Orangefield Isd,9974 Fm 105,Orangefield,77639,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833840,Ore City Isd,100 Rebel Rd,Ore City,75683,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833870,Overton Isd,501 E Henderston St,Overton,75684,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833900,Paducah Isd,810 Goodwin Room 462,Paducah,79248,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833960,Paint Creek Isd,4485 Fm 600,Haskell,79521,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4833980,Paint Rock Isd,698 S Sims St,Paint Rock,76866,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834020,Palacios Isd,1209 12th St,Palacios,77465,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834050,Palestine Isd,1007 E Park Ave,Palestine,75801,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834110,Palmer Isd,303 Bulldog Way,Palmer,75152,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834140,Palo Pinto Isd,821 Oak St,Palo Pinto,76484,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834170,Pampa Isd,1233 N Hobart,Pampa,79065,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834230,Panhandle Isd,1001 Elsie St,Panhandle,79068,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834260,Paradise Isd,338 Schoolhouse Rd,Paradise,76073,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834290,Paris Isd,1920 Clarksville,Paris,75460,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834320,Pasadena Isd,1515 Cherrybrook,Pasadena,77502,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834380,Patton Springs Isd,1261 E Fm 193,Afton,79220,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834410,Pawnee Isd,6229 Fm 798,Pawnee,78145,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834440,Pearland Isd,1928 N Main,Pearland,77581,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834470,Pearsall Isd,318 Berry Ranch Rd,Pearsall,78061,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834500,Peaster Isd,3602 Harwell Lake Rd,Weatherford,76088,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834550,Pecos-Barstow-Toyah Isd,1301 S Eddy St,Pecos,79772,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834560,Penelope Isd,309 Ave D,Penelope,76676,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834630,Perrin-Whitt Cisd,216 N Benson,Perrin,76486,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834650,Perryton Isd,821 Sw 17th Ave,Perryton,79070,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834680,Petersburg Isd,1411 W 4th,Petersburg,79250,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834710,Petrolia Cisd,701 S Prairie,Petrolia,76377,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834770,Pettus Isd,500 N May,Pettus,78146,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834800,Pewitt Cisd,1330 Us Hwy 67 W,Omaha,75571,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834830,Pflugerville Isd,1401 W Pecan St,Pflugerville,78660,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834860,Pharr-San Juan-Alamo Isd,601 E Kelly,Pharr,78577,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834920,Pilot Point Isd,829 S Harrison St,Pilot Point,76258,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4834980,Pine Tree Isd,1701 Pine Tree Rd,Longview,75604,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835010,Pittsburg Isd,402 Broach St,Pittsburg,75686,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835040,Plains Isd,811 Cowboy Way,Plains,79355,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835070,Plainview Isd,2417 Yonkers St,Plainview,79072,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835100,Plano Isd,2700 W 15th,Plano,75075,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835130,Pleasant Grove Isd,8500 N Kings Hwy,Texarkana,75503,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835190,Pleasanton Isd,831 Stadium Dr,Pleasanton,78064,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835250,Point Isabel Isd,101 Port Rd,Port Isabel,78578,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835310,Ponder Isd,400 W Bailey,Ponder,76259,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835340,Poolville Isd,16025 Fm 920,Poolville,76487,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835370,Port Aransas Isd,100 S Station St,Port Aransas,78373,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835400,Port Arthur Isd,4801 9th Ave,Port Arthur,77642,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835430,Port Neches-Groves Isd,620 Ave C,Port Neches,77651,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835490,Post Isd,501 S Ave K,Post,79356,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835520,Poteet Isd,1100 School Dr,Poteet,78065,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835550,Poth Isd,510 Titcomb St,Poth,78147,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835560,Highland Park Isd,15300 Amarillo Blvd E,Amarillo,79108,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835570,Bushland Isd,P.O. Box 60,Bushland,79012,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835580,Pottsboro Isd,105 Cardinal Ln,Pottsboro,75076,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835700,Prairie Lea Isd,6910 Hwy 80,Prairie Lea,78661,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835730,Prairie Valley Isd,12920 Fm 103,Nocona,76255,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835740,Prairiland Isd,466 Fm 196 S,Pattonville,75468,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835760,Premont Isd,439 S W 4th,Premont,78375,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835800,Presidio Isd,701 E Market St,Presidio,79845,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835820,Priddy Isd,1375 Sh 16n,Priddy,76870,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835850,Princeton Isd,321 Panther Pkwy,Princeton,75407,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835890,Pringle-Morse Cisd,100 S Fifth St,Morse,79062,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4835910,Progreso Isd,600 N Business Fm 1015,Progreso,78579,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836000,Prosper Isd,605 E 7th St,Prosper,75078,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836180,Quanah Isd,801 Elbert,Quanah,79252,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836210,Queen City Isd,1015 Houston St,Queen City,75572,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836240,Quinlan Isd,401 E Richmond,Quinlan,75474,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836300,Quitman Isd,600 N Winnsboro,Quitman,75783,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836360,Rains Isd,1759 W Us Hwy 69,Emory,75440,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836390,Ralls Isd,1082 4th St,Ralls,79357,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836420,Ramirez Csd,18 Miles S Of Benavides On Hwy 339,Realitos,78376,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836450,Randolph Field Isd,Bldg 1225 Perimeter Rd,Randolph A F B,78148,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836480,Ranger Isd,1842 Loop 254 E,Ranger,76470,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836510,Rankin Isd,1201 Upton St,Rankin,79778,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836540,Raymondville Isd,419 Fm 3168,Raymondville,78580,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836570,Reagan County Isd,1111 E Twelfth St,Big Lake,76932,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836630,Red Lick Isd,3511 N Fm 2148,Texarkana,75503,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836660,Red Oak Isd,109 W Red Oak Rd,Red Oak,75154,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836750,Redwater Isd,202 Red River Rd N,Redwater,75573,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836780,Refugio Isd,212 W Vance St,Refugio,78377,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836930,Ricardo Isd,138 W Cr 2160,Kingsville,78363,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836960,Rice Isd,1302 Sw Mckinney St,Rice,75155,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836970,Rice Cisd,1094 Raider Dr,Altair,77412,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4836990,Richards Isd,9477 Panther Dr,Richards,77873,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837020,Richardson Isd,400 S Greenville Ave,Richardson,75081,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837080,Richland Springs Isd,700 W Coyote Trl,Richland Springs,76871,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837110,Riesel Isd,600 Frederick,Riesel,76682,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837140,Rio Grande City Cisd,1 S Fort Ringgold,Rio Grande City,78582,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837150,South Texas Isd,100 Med High Dr,Mercedes,78570,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837170,Rio Hondo Isd,215 W Colorado,Rio Hondo,78583,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837200,Rio Vista Isd,100 Capps St,Rio Vista,76093,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837230,Rising Star Isd,907 N Main,Rising Star,76471,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837260,River Road Isd,9500 U S 287 N,Amarillo,79108,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837320,Riviera Isd,203 Seahawk Dr,Riviera,78379,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837380,Robert Lee Isd,1323 Hamilton St,Robert Lee,76945,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837410,Robinson Isd,500 W Lyndale,Robinson,76706,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837440,Robstown Isd,801 N 1st St,Robstown,78380,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837470,Roby Cisd,141 S College St,Roby,79543,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837500,Rochelle Isd,5902 Lafayette,Rochelle,76872,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837590,Rockdale Isd,520 W Davilla,Rockdale,76567,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837650,Rockwall Isd,1050 Williams,Rockwall,75087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837710,Rogers Isd,1 Eagle Dr,Rogers,76569,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837740,Roma Isd,608 N Garcia St,Roma,78584,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837800,Roosevelt Isd,1406 County Rd 3300,Lubbock,79403,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837830,Ropes Isd,304 Ranch,Ropesville,79358,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837860,Roscoe Collegiate Isd,1101 W 7th St,Roscoe,79545,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4837900,Rosebud-Lott Isd,1789 Us Hwy 77,Lott,76656,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838040,Rotan Isd,102 N Mckinley Ave,Rotan,79546,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838080,Round Rock Isd,1311 Round Rock Ave,Round Rock,78681,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838100,Round Top-Carmine Isd,378 Centennial,Carmine,78932,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838190,Royal Isd,3714 Fm 359,Pattison,77466,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838220,Royse City Isd,810 Old Greenville Rd,Royse City,75189,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838280,Rule Isd,1100 Union Ave,Rule,79547,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838310,Runge Isd,600 Reiffert Street,Runge,78151,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838360,Rusk Isd,203 E 7th St,Rusk,75785,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838400,S And S Cisd,Po Box 837,Sadler,76264,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838430,Sabinal Isd,409 W Cullins,Sabinal,78881,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838460,Sabine Isd,5424 Fm 1252 W,Gladewater,75647,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838490,Sabine Pass Isd,5641 S Gulfway Dr,Sabine Pass,77655,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838520,Saint Jo Isd,P O Drawer L,Saint Jo,76265,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838580,Salado Isd,601 N Main St,Salado,76571,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838610,Saltillo Isd,150 County Rd 3534,Saltillo,75478,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838640,Sam Rayburn Isd,9363 E Fm 273,Ivanhoe,75447,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838700,San Angelo Isd,1621 University Ave,San Angelo,76904,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838730,San Antonio Isd,514 W. Quincy St.,San Antonio,78212,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838760,San Augustine Isd,1002 Barrett St,San Augustine,75972,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838790,San Benito Cisd,240 N Crockett St,San Benito,78586,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838820,San Diego Isd,609 W Labbe Ave,San Diego,78384,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838850,San Elizario Isd,1050 Chicken Ranch Rd,San Elizario,79849,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838900,San Felipe-Del Rio Cisd,315 Griner St,Del Rio,78842,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838910,San Isidro Isd,5175 Fm 1017,San Isidro,78588,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4838970,San Marcos Cisd,631 Mill St,San Marcos,78666,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839000,San Perlita Isd,22987 Trojan Dr,San Perlita,78590,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839030,San Saba Isd,808 W Wallace,San Saba,76877,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839060,San Vicente Isd,195 Escuela Vista Dr,Big Bend Natl Park,79834,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839120,Sands Cisd,201 First St,Ackerly,79713,No,Yes,5,10,0,1,1,0,0,0,0,0,6,4,0,0,12,15,0,0,0,0
+TX,Texas,4839150,Sanford-Fritch Isd,540 Eagle Blvd,Fritch,79036,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839180,Sanger Isd,601 Elm St,Sanger,76266,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839210,Santa Anna Isd,701 Bowie St,Santa Anna,76878,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839270,Santa Fe Isd,4133 Warpath,Santa Fe,77510,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839300,Santa Gertrudis Isd,803 Santa Rosa,Kingsville,78363,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839330,Santa Maria Isd,11119 Military Hwy 281,Santa Maria,78592,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839360,Santa Rosa Isd,102 Jesus R. Cruz St.,Santa Rosa,78593,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839390,Santo Isd,406 Fm Rd 2201,Santo,76472,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839450,Savoy Isd,302 W Hayes,Savoy,75479,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839480,Schertz-Cibolo-U City Isd,1060 Elbel Rd,Schertz,78154,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839510,Schleicher Isd,205 W Fields Ave,Eldorado,76936,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839540,Schulenburg Isd,521 Shorthorn Dr,Schulenburg,78956,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839570,Scurry-Rosser Isd,10705 S State Hwy 34,Scurry,75158,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839600,Seagraves Isd,1801 Ave K,Seagraves,79359,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839630,Sealy Isd,939 Tiger Ln,Sealy,77474,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839690,Seguin Isd,1221 E Kingsbury,Seguin,78155,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839750,Seminole Isd,207 S W 6th St,Seminole,79360,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839780,Seymour Isd,409 W Idaho St,Seymour,76380,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839870,Shallowater Isd,1100 Ave K,Shallowater,79363,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839900,Shamrock Isd,100 S Illinois St,Shamrock,79079,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839930,Sharyland Isd,1200 N Shary Rd,Mission,78572,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839960,Shelbyville Isd,5322 St Hwy 87 S,Shelbyville,75973,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4839990,Sheldon Isd,11411 C E King Pkwy,Houston,77044,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840020,Shepherd Isd,1401 S Byrd Ave,Shepherd,77371,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840080,Sherman Isd,2701 N Loy Lake Rd,Sherman,75090,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840110,Shiner Isd,505 Texas Ave,Shiner,77984,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840170,Sidney Isd,4100 Hwy 1689,Sidney,76474,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840200,Sierra Blanca Isd,500 Sierra Blanca Ave,Sierra Blanca,79851,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840230,Silsbee Isd,415 Hwy 327 W,Silsbee,77656,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840290,Silverton Isd,700 Loretta St,Silverton,79257,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840320,Simms Isd,7497 Us Hwy 67 W,Simms,75574,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840350,Sinton Isd,322 S Archer,Sinton,78387,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840380,Sivells Bend Isd,1053 Cr 403,Gainesville,76240,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840410,Skidmore-Tynan Isd,224 W Main St,Skidmore,78389,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840440,Slaton Isd,140 E Panhandle,Slaton,79364,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840470,Slidell Isd,1 Greyhound Ln,Slidell,76267,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840500,Slocum Isd,5765 E State Hwy 294,Elkhart,75839,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840550,Smithville Isd,901 Ne 6th Street,Smithville,78957,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840590,Smyer Isd,401 Lincoln,Smyer,79367,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840620,Snook Isd,10110 Fm 2155,Somerville,77879,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840650,Snyder Isd,2901 37th St,Snyder,79549,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840680,South San Antonio Isd,1450 Gillette Blvd.,San Antonio,78224,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840710,Socorro Isd,12440 Rojas Dr,El Paso,79928,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840740,Somerset Isd,7791 6th St,Somerset,78069,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840770,Somerville Isd,625 8th St,Somerville,77879,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840800,Sonora Isd,807 S Concho Ave,Sonora,76950,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840890,Southland Isd,190 Eighth St,Southland,79364,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840920,Southside Isd,1460 Martinez Losoya Rd,San Antonio,78221,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4840950,Southwest Isd,11914 Dragon Ln,San Antonio,78252,No,Yes,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+TX,Texas,4841010,Spearman Isd,403 E 11th Ave,Spearman,79081,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841070,Splendora Isd,23419 Fm 2090,Splendora,77372,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841100,Spring Branch Isd,955 Campbell Rd,Houston,77024,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841130,Spring Creek Isd,9849 Fm 2171,Skellytown,79080,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841190,Spring Hill Isd,3101 Spring Hill Rd,Longview,75605,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841220,Spring Isd,16717 Ella Blvd,Houston,77090,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841250,Springlake-Earth Isd,472 Fm 302,Earth,79031,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841280,Springtown Isd,301 E Fifth St,Springtown,76082,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841340,Spurger Isd,12212 Fm92,Spurger,77660,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841350,Stafford Msd,1633 Staffordshire Rd,Stafford,77477,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841400,Stamford Isd,507 S Orient St,Stamford,79553,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841430,Stanton Isd,200 N College,Stanton,79782,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841520,Stephenville Isd,2655 W Overhill,Stephenville,76401,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841550,Sterling City Isd,700 7th St,Sterling City,76951,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841580,Plemons-Stinnett-Phillips Cisd,603 S Main,Stinnett,79083,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841610,Stockdale Isd,503 S 4th St,Stockdale,78160,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841670,Stratford Isd,503 N 8th St,Stratford,79084,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841700,Strawn Isd,224 E Walnut,Strawn,76475,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841760,Sudan Isd,107 W Hwy 303,Sudan,79371,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841790,Sulphur Bluff Isd,1027 Cr 3550,Sulphur Bluff,75481,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841820,Sulphur Springs Isd,631 Connally St,Sulphur Springs,75482,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841850,Sundown Isd,701 School St,Sundown,79372,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841880,Sunnyvale Isd,417 E Tripp Rd,Sunnyvale,75182,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841910,Sunray Isd,400 E 7th St,Sunray,79086,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4841970,Sweeny Isd,1310 N Elm St,Sweeny,77480,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842000,Sweet Home Isd,7508 Fm 531,Sweet Home,77987,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842030,Sweetwater Isd,207 Musgrove St,Sweetwater,79556,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842060,Taft Isd,400 College St,Taft,78390,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842090,Tahoka Isd,2129 Main St,Tahoka,79373,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842120,Rivercrest Isd,4100 Us Hwy 271 S,Bogata,75417,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842210,Tarkington Isd,2770 Fm 163,Cleveland,77327,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842240,Tatum Isd,510 Crystal Farms Rd,Tatum,75691,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842280,Taylor Isd,3101 N Main St Ste 104,Taylor,76574,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842300,Teague Isd,420 N 10th,Teague,75860,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842330,Temple Isd,401 Santa Fe Way,Temple,76501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842360,Tenaha Isd,138 College St,Tenaha,75974,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842390,Terlingua Csd,550 Roadrunner Cir,Terlingua,79852,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842420,Terrell County Isd,302 N Second St,Sanderson,79848,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842450,Terrell Isd,700 N Catherine St,Terrell,75160,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842480,Texarkana Isd,4241 Summerhill Rd,Texarkana,75503,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842510,Texas City Isd,1700 9th Ave N,Texas City,77590,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842540,Texhoma Isd,402 Denver St,Texhoma,73960,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842570,Texline Isd,Po Box 60,Texline,79087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842630,Thorndale Isd,300 N Main St,Thorndale,76577,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842660,Thrall Isd,201 S Bounds,Thrall,76578,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842690,Three Rivers Isd,351 S School Rd,Three Rivers,78071,No,Yes,3,3,0,0,0,0,0,0,0,0,1,0,0,1,4,4,1,0,3,2
+TX,Texas,4842720,Three Way Isd,247 Cr 207,Stephenville,76401,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842780,Throckmorton Collegiate Isd,210 College St,Throckmorton,76483,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842810,Tidehaven Isd,47 Cr 427 Doman Rd,El Maton,77440,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842840,Timpson Isd,836 Bear Dr,Timpson,75975,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842870,Tioga Isd,P.O. Box 159,Tioga,76271,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842900,Tolar Isd,305 S Oak,Tolar,76476,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842930,Tom Bean Isd,100 E Garner,Tom Bean,75489,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842960,Tomball Isd,310 S Cherry St,Tomball,77375,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4842990,Tornillo Isd,19200 Cobb Ave,Tornillo,79853,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843110,Trent Isd,12821 E Interstate 20,Trent,79561,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843140,Trenton Isd,702 S Ballentine,Trenton,75490,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843170,Trinidad Isd,105 W Eaton,Trinidad,75163,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843200,Trinity Isd,101 W Jefferson,Trinity,75862,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843230,Troup Isd,201 N Carolina,Troup,75789,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843260,Troy Isd,1 Trojan Rd,Troy,76579,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843290,Westwood Isd,4524 W Oak,Palestine,75801,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843320,Tulia Isd,702 Nw 8th St,Tulia,79088,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843350,Tuloso-Midway Isd,9760 La Branch,Corpus Christi,78460,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843400,Turkey-Quitaque Isd,11826 Hwy 86,Turkey,79261,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843470,Tyler Isd,1319 Earl Campbell Pkwy,Tyler,75701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843530,Union Grove Isd,11220 Union Grove Rd,Gladewater,75647,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843560,Union Hill Isd,2197 Fm 2088,Gilmer,75644,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843650,United Isd,201 Lindenwood Dr,Laredo,78045,Yes,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843680,Utopia Isd,258 School St,Utopia,78884,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843720,Uvalde Cisd,1000 N Getty,Uvalde,78801,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843740,Valentine Isd,209 E Kentucky,Valentine,79854,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843760,Valley Mills Isd,One Eagle Way,Valley Mills,76689,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843800,Valley View Isd,9701 S Jackson Rd,Pharr,78577,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843860,Valley View Isd,106 Newton,Valley View,76272,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843890,Van Alstyne Isd,1096 N Waco,Van Alstyne,75495,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843920,Van Isd,549 E Texas St,Van,75790,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843950,Van Vleck Isd,142 S 4th St,Van Vleck,77482,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4843980,Vega Isd,200 Longhorn Dr,Vega,79092,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844010,Venus Isd,100 Student Dr,Venus,76084,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844040,Veribest Isd,10062 F M Hwy 380,Veribest,76886,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844110,Vernon Isd,1713 Wilbarger St,Vernon,76384,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844150,Victoria Isd,102 Profit Dr,Victoria,77901,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844160,Vidor Isd,120 E Bolivar St,Vidor,77662,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844250,Vysehrad Isd,595 County Rd 182,Hallettsville,77964,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844280,Waco Isd,501 Franklin Ave,Waco,76701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844310,Waelder Isd,201 Us Hwy 90 W,Waelder,78959,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844370,Walcott Isd,4275 Hwy 214,Hereford,79045,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844410,Wall Isd,8065 Loop 570,Wall,76957,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844430,Waller Isd,2214 Waller St,Waller,77484,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844470,Brazos Isd,227 Educator Ln,Wallis,77485,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844490,Walnut Bend Isd,47 C R 198,Gainesville,76240,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844520,Walnut Springs Isd,184 Ave A,Walnut Springs,76690,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844580,Warren Isd,375 Fm 3290 S,Warren,77664,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844670,Waskom Isd,365 School Ave,Waskom,75692,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844710,Water Valley Isd,18000 Wildcat Dr,Water Valley,76958,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844730,Waxahachie Isd,411 N Gibson St,Waxahachie,75165,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844800,Weatherford Isd,1100 Longhorn Dr,Weatherford,76086,No,Yes,5,4,0,0,0,0,0,0,0,0,10,4,0,0,15,8,0,0,2,0
+TX,Texas,4844810,Webb Cisd,619 Ave F,Bruni,78344,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844820,Weimar Isd,506 W Main,Weimar,78962,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844890,Wellington Isd,609 15th St,Wellington,79095,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844910,Wellman-Union Cisd,501 Terry Ave,Wellman,79378,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844940,Wells Isd,160 Rusk Ave,Wells,75976,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4844960,Weslaco Isd,319 W 4th St,Weslaco,78596,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845000,West Hardin County Cisd,39227 Highway 105,Saratoga,77585,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845040,West Isd,406 W Shook St,West,76691,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845090,West Orange-Cove Cisd,902 W Park,Orange,77630,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845120,West Oso Isd,5050 Rockford Dr,Corpus Christi,78416,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845150,West Rusk County Consolidated Isd,10705 S Main,New London,75682,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845180,West Sabine Isd,101 Timberland Hwy W,Pineland,75968,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845210,Westbrook Isd,102 Bertner,Westbrook,79565,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845240,Westhoff Isd,244 Lynch St,Westhoff,77994,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845330,Westphalia Isd,124 County Road 3000,Westphalia,76656,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845380,Wharton Isd,2100 N Fulton St,Wharton,77488,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845420,Wheeler Isd,1 Mustang Dr,Wheeler,79096,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845450,White Deer Isd,601 Omohundro,White Deer,79097,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845480,White Oak Isd,200 S White Oak Rd,White Oak,75693,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845540,White Settlement Isd,401 S Cherry Ln,White Settlement,76108,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845570,Whiteface Cisd,401 Antelope Blvd,Whiteface,79379,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845600,Whitehouse Isd,104 Hwy 110 N,Whitehouse,75791,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845630,Whitesboro Isd,115 Fourth St,Whitesboro,76273,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845670,Whitewright Isd,P.O.Box 888,Whitewright,75491,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845690,Whitharral Isd,201 2nd Street,Whitharral,79380,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845720,Whitney Isd,305 S San Jacinto St,Whitney,76692,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845780,Wichita Falls Isd,1104 Broad St,Wichita Falls,76301,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845840,Wildorado Isd,1523 S Locust,Wildorado,79098,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845900,Willis Isd,612 N Campbell St,Willis,77378,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845950,Wills Point Isd,338 W N Commerce St,Wills Point,75169,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4845990,Wilson Isd,1411 Green Ave,Wilson,79381,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846080,Windthorst Isd,100 St Marys,Windthorst,76389,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846170,Wink-Loving Isd,200 N Rosey Dodd Ave,Wink,79789,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846200,Winnsboro Isd,505 S Chestnut St Bldg C,Winnsboro,75494,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846230,Winona Isd,611 Wildcat Dr,Winona,75792,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846260,Winters Isd,603 N Heights St,Winters,79567,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846320,Woden Isd,5263 Fm 226,Nacogdoches,75961,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846350,Wolfe City Isd,505 W Hanna St,Wolfe City,75496,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846380,Woodsboro Isd,408 S Kasten,Woodsboro,78393,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846410,Woodson Isd,207 E Hill,Woodson,76491,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846440,Woodville Isd,505 N Charlton St,Woodville,75979,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846470,Wortham Isd,201 S 4th St,Wortham,76693,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846500,Wylie Isd,6251 Buffalo Gap Rd,Abilene,79606,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846530,Wylie Isd,951 S Ballard,Wylie,75098,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846590,Yantis Isd,105 W Oak St,Yantis,75497,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846620,Yoakum Isd,315 E Gonzales St,Yoakum,77995,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846650,Yorktown Isd,331 W Main,Yorktown,78164,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846680,Ysleta Isd,9600 Sims Dr,El Paso,79925,No,-11,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846710,Zapata County Isd,1302 Glenn St,Zapata,78076,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846740,Zavalla Isd,431 E Main St,Zavalla,75980,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4846770,Zephyr Isd,11625 Cr 281,Zephyr,76890,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+TX,Texas,4899130,Benavides Isd,106 W School St,Benavides,78341,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9

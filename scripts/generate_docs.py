@@ -13,6 +13,14 @@ SOURCES_OUT = PROJECT / "docs/SOURCES.md"
 SUMMARY_OUT = PROJECT / "docs/SUPERVISOR_SUMMARY.md"
 CATEGORIES = ["test_scores", "enrollment", "financials", "teachers", "discipline", "other"]
 
+# slug, display name, postal abbreviation
+STATES = [
+    ("hawaii", "Hawaii", "HI"),
+    ("virginia", "Virginia", "VA"),
+    ("colorado", "Colorado", "CO"),
+    ("texas", "Texas", "TX"),
+]
+
 
 def norm_path(p: str) -> str:
     return str(p).replace("\\", "/")
@@ -80,43 +88,52 @@ def md_table(df: pd.DataFrame, columns: list[str]) -> str:
     return "\n".join(lines)
 
 
+def cleaned_file_description(name: str, abbr: str) -> tuple[str, str]:
+    if name.startswith("nces_public_schools_"):
+        return (
+            f"NCES CCD public school universe ({abbr} rows only, 2018-19)",
+            "https://nces.ed.gov/ccd/pubschuniv.asp",
+        )
+    if name.startswith("nces_district_finance_"):
+        return (
+            f"NCES CCD district finance F-33 ({abbr} rows only, 2018)",
+            "https://nces.ed.gov/ccd/f33agency.asp",
+        )
+    if name.startswith("crdc_"):
+        topic = name.replace("crdc_", "").replace(f"_{abbr}.csv", "").replace("_", " ")
+        return (
+            f"CRDC extract: {topic} ({abbr} rows only)",
+            "https://civilrightsdata.ed.gov/",
+        )
+    return (f"State-filtered extract ({abbr})", "")
+
+
 def load_cleaned_inventory() -> pd.DataFrame:
     cleaned_rows = []
-    for state in ["hawaii", "virginia"]:
-        root = PROJECT / "data/cleaned" / state
-        abbr = "HI" if state == "hawaii" else "VA"
+    for slug, _, abbr in STATES:
+        root = PROJECT / "data/cleaned" / slug
         for p in sorted(root.rglob("*")):
             if not p.is_file():
                 continue
-            name = p.name
-            cat = p.parent.name
-            rel = norm_path(p.relative_to(PROJECT))
-            mtime = datetime.fromtimestamp(p.stat().st_mtime, tz=timezone.utc).strftime(
-                "%Y-%m-%d"
-            )
-            if name.startswith("nces_"):
-                desc = f"NCES public school directory ({abbr} rows only, 2018-19)"
-                url = "https://nces.ed.gov/ccd/files.asp"
-            elif name.startswith("crdc_"):
-                topic = name.replace("crdc_", "").replace(f"_{abbr}.csv", "").replace(
-                    "_", " "
-                )
-                desc = f"CRDC 2017-18: {topic} ({abbr} rows only)"
-                url = "https://ocrdata.ed.gov/estimations/2017-18"
-            else:
-                desc = f"State-filtered extract ({abbr})"
-                url = ""
+            desc, url = cleaned_file_description(p.name, abbr)
             cleaned_rows.append(
                 {
-                    "state": state,
-                    "category": cat,
+                    "state": slug,
+                    "category": p.parent.name,
                     "description": desc,
                     "url": url,
-                    "local_path": rel,
-                    "date_downloaded": mtime,
+                    "local_path": norm_path(p.relative_to(PROJECT)),
+                    "date_downloaded": datetime.fromtimestamp(
+                        p.stat().st_mtime, tz=timezone.utc
+                    ).strftime("%Y-%m-%d"),
                 }
             )
     return pd.DataFrame(cleaned_rows)
+
+
+def state_totals(table: pd.DataFrame) -> tuple[int, int]:
+    row = table.loc[table.category == "TOTAL"].iloc[0]
+    return int(row.raw_state_downloads), int(row.cleaned_federal_extracts)
 
 
 def main() -> None:
@@ -129,90 +146,62 @@ def main() -> None:
 
     cleaned_df = load_cleaned_inventory()
 
-    hi_table = build_combined_summary(
-        PROJECT / "data/raw/hawaii", PROJECT / "data/cleaned/hawaii"
-    )
-    va_table = build_combined_summary(
-        PROJECT / "data/raw/virginia", PROJECT / "data/cleaned/virginia"
-    )
-    hi_table.insert(0, "state", "Hawaii")
-    va_table.insert(0, "state", "Virginia")
-    combined = pd.concat([hi_table, va_table], ignore_index=True)
+    state_tables: list[pd.DataFrame] = []
+    totals_by_state: dict[str, tuple[int, int]] = {}
+    for slug, label, _ in STATES:
+        table = build_combined_summary(
+            PROJECT / "data/raw" / slug, PROJECT / "data/cleaned" / slug
+        )
+        table.insert(0, "state", label)
+        state_tables.append(table)
+        totals_by_state[slug] = state_totals(table)
+    combined = pd.concat(state_tables, ignore_index=True)
 
-    lines: list[str] = []
     fed_crdc = count_files_under(PROJECT / "data/raw/federal/crdc")
     fed_edtech = count_files_under(PROJECT / "data/raw/federal/edtech")
+    fed_files_on_disk = count_files_under(PROJECT / "data/raw/federal")
     fed_total_manifest = len(m[m.state == "federal"])
 
-    lines.append("# Data sources catalog (Hawaii, Virginia & Federal)\n")
+    lines: list[str] = []
+    lines.append("# Data sources catalog (Hawaii, Virginia, Colorado, Texas & Federal)\n")
     lines.append(
         "Generated from `logs/manifest.csv` (deduplicated by file path) plus "
         "`data/cleaned/` extracts.\n"
     )
-    lines.append(
-        "Regenerate after new downloads: `python scripts/generate_docs.py`\n"
-    )
+    lines.append("Regenerate after new downloads: `python scripts/generate_docs.py`\n")
 
     lines.append("## Collection overview\n")
     lines.append("| Item | Location | Count |")
     lines.append("| --- | --- | ---: |")
-    lines.append(
-        f"| Hawaii state downloads | `data/raw/hawaii/` | {len(m[m.state == 'hawaii'])} |"
-    )
-    lines.append(
-        f"| Virginia state downloads | `data/raw/virginia/` | {len(m[m.state == 'virginia'])} |"
-    )
-    lines.append(
-        f"| Federal national downloads | `data/raw/federal/` | {fed_total_manifest} |"
-    )
-    lines.append(
-        f"| — CRDC public-use zips | `data/raw/federal/crdc/` | {fed_crdc} |"
-    )
-    lines.append(
-        f"| — Ed-tech / internet surveys | `data/raw/federal/edtech/` | {fed_edtech} |"
-    )
-    lines.append(
-        f"| Hawaii cleaned extracts | `data/cleaned/hawaii/` | {len(cleaned_df[cleaned_df.state == 'hawaii'])} |"
-    )
-    lines.append(
-        f"| Virginia cleaned extracts | `data/cleaned/virginia/` | {len(cleaned_df[cleaned_df.state == 'virginia'])} |"
-    )
-    lines.append(
-        f"| **Total cataloged files** | | **{len(m) + len(cleaned_df)}** |\n"
-    )
+    for slug, label, _ in STATES:
+        raw_n = count_files_under(PROJECT / "data/raw" / slug)
+        clean_n = len(cleaned_df[cleaned_df.state == slug])
+        lines.append(f"| {label} state downloads | `data/raw/{slug}/` | {raw_n} |")
+        lines.append(f"| {label} cleaned extracts | `data/cleaned/{slug}/` | {clean_n} |")
+    lines.append(f"| Federal national downloads (manifest) | `data/raw/federal/` | {fed_total_manifest} |")
+    lines.append(f"| — CRDC public-use zips | `data/raw/federal/crdc/` | {fed_crdc} |")
+    lines.append(f"| — Ed-tech / internet surveys | `data/raw/federal/edtech/` | {fed_edtech} |")
+    lines.append(f"| Federal files on disk | `data/raw/federal/` | {fed_files_on_disk} |")
+    lines.append(f"| **Total cataloged entries** | | **{len(m) + len(cleaned_df)}** |\n")
 
     lines.append("## Primary portals used\n")
     lines.append("| Portal | Used for |")
     lines.append("| --- | --- |")
-    lines.append(
-        "| [Hawaii DOE / hawaiipublicschools.org](https://hawaiipublicschools.org/) | Hawaii enrollment, reports, PDF catalog |"
-    )
-    lines.append(
-        "| [hcnp.hawaii.gov/fiscal](https://hcnp.hawaii.gov/fiscal/) | Hawaii child nutrition / fiscal reports |"
-    )
-    lines.append(
-        "| [Virginia Open Data (data.virginia.gov)](https://data.virginia.gov/) | Bulk Virginia VDOE datasets (CKAN API) |"
-    )
-    lines.append(
-        "| [NCES CCD](https://nces.ed.gov/ccd/) | National school directory (filtered to HI/VA) |"
-    )
-    lines.append(
-        "| [CRDC / civilrightsdata.ed.gov](https://civilrightsdata.ed.gov/) | CRDC public-use zips (2015-16, 2017-18, 2020-21) |"
-    )
-    lines.append(
-        "| [CRDC / data.ed.gov](https://data.ed.gov/) | Individual CRDC spreadsheets; HI/VA cleaned extracts |"
-    )
-    lines.append(
-        "| [NCES FRSS](https://nces.ed.gov/surveys/frss/) | Fast Response Survey System — technology in schools |\n"
-    )
+    lines.append("| [Hawaii DOE](https://hawaiipublicschools.org/) | Hawaii enrollment, reports |")
+    lines.append("| [Virginia Open Data](https://data.virginia.gov/) | VDOE datasets (CKAN API) |")
+    lines.append("| [Colorado Open Data](https://data.colorado.gov/) | CDE datasets (Socrata API) |")
+    lines.append("| [CDE](https://www.cde.state.co.us/) | Colorado accountability & assessment files |")
+    lines.append("| [Texas Open Data](https://data.texas.gov/) | TEA datasets (Socrata API) |")
+    lines.append("| [TEA](https://tea.texas.gov/) | PEIMS, STAAR, ArcGIS open data |")
+    lines.append("| [NCES CCD](https://nces.ed.gov/ccd/) | School universe & district finance (filtered per state) |")
+    lines.append("| [CRDC](https://civilrightsdata.ed.gov/) | Civil rights data (filtered per state) |")
+    lines.append("| [NCES FRSS](https://nces.ed.gov/surveys/frss/) | Technology & facilities surveys |\n")
 
     lines.append("## Raw vs cleaned\n")
+    lines.append("- **`data/raw/{state}/`** — files downloaded from state portals.")
     lines.append(
-        "- **`data/raw/`** — original files downloaded from state or federal websites."
-    )
-    lines.append(
-        "- **`data/cleaned/`** — Hawaii- or Virginia-only rows extracted from federal "
-        "NCES and CRDC national files (not copies of the raw state downloads).\n"
+        "- **`data/cleaned/{state}/`** — state-only rows cut from **national** NCES and CRDC "
+        "files (additional datasets, not filtered-down copies of raw state files).\n"
     )
 
     lines.append("## Files by category (summary)\n")
@@ -230,61 +219,42 @@ def main() -> None:
     )
     lines.append("")
 
-    catalog_cols = [
-        "state",
-        "category",
-        "description",
-        "url",
-        "local_path",
-        "date_downloaded",
-    ]
+    catalog_cols = ["state", "category", "description", "url", "local_path", "date_downloaded"]
 
     def append_catalog_section(title: str, df: pd.DataFrame) -> None:
         lines.append(f"## {title}\n")
         if df.empty:
             lines.append("_No files._\n")
             return
-        out = df[catalog_cols].copy()
-        lines.append(md_table(out, catalog_cols))
+        lines.append(md_table(df[catalog_cols].copy(), catalog_cols))
         lines.append("")
 
-    for state_key, title in [
-        ("hawaii", "Hawaii — state downloads (`data/raw/hawaii/`)"),
-        ("virginia", "Virginia — state downloads (`data/raw/virginia/`)"),
-        ("federal", "Federal — national downloads (`data/raw/federal/`)"),
-    ]:
-        sub = m[m.state == state_key].sort_values(["category", "local_path"])
-        append_catalog_section(title, sub)
+    for slug, label, _ in STATES:
+        sub = m[m.state == slug].sort_values(["category", "local_path"])
+        append_catalog_section(f"{label} — state downloads (`data/raw/{slug}/`)", sub)
 
-    for state_key, title in [
-        ("hawaii", "Hawaii — cleaned extracts (`data/cleaned/hawaii/`)"),
-        ("virginia", "Virginia — cleaned extracts (`data/cleaned/virginia/`)"),
-    ]:
-        sub = cleaned_df[cleaned_df.state == state_key].sort_values(
-            ["category", "local_path"]
-        )
-        append_catalog_section(title, sub)
+    append_catalog_section("Federal — national downloads (`data/raw/federal/`)", m[m.state == "federal"])
+
+    for slug, label, _ in STATES:
+        sub = cleaned_df[cleaned_df.state == slug].sort_values(["category", "local_path"])
+        append_catalog_section(f"{label} — cleaned extracts (`data/cleaned/{slug}/`)", sub)
 
     lines.append("---\n")
     lines.append(
         f"_Catalog generated {datetime.now().strftime('%Y-%m-%d')}. "
         "Machine-readable log: `logs/manifest.csv`._\n"
     )
-
     SOURCES_OUT.write_text("\n".join(lines), encoding="utf-8")
 
-    hi_total_raw = int(
-        hi_table.loc[hi_table.category == "TOTAL", "raw_state_downloads"].iloc[0]
-    )
-    hi_total_clean = int(
-        hi_table.loc[hi_table.category == "TOTAL", "cleaned_federal_extracts"].iloc[0]
-    )
-    va_total_raw = int(
-        va_table.loc[va_table.category == "TOTAL", "raw_state_downloads"].iloc[0]
-    )
-    va_total_clean = int(
-        va_table.loc[va_table.category == "TOTAL", "cleaned_federal_extracts"].iloc[0]
-    )
+    total_rows = []
+    grand_raw = grand_clean = 0
+    for slug, label, _ in STATES:
+        raw_n, clean_n = totals_by_state[slug]
+        grand_raw += raw_n
+        grand_clean += clean_n
+        total_rows.append(
+            f"| {label} | {raw_n} | {clean_n} | {raw_n + clean_n} |"
+        )
 
     summary = f"""# EOQ Lab — Data Collection Summary
 
@@ -293,33 +263,25 @@ def main() -> None:
 
 ## What was delivered
 
-This project collected publicly available U.S. public education data in two phases using reproducible Jupyter notebooks. All downloads are logged in `logs/manifest.csv`.
+Public U.S. K–12 education data for **four states** (Hawaii, Virginia, Colorado, Texas) plus **national federal** sources, collected via reproducible Jupyter notebooks. All downloads are logged in `logs/manifest.csv`.
 
 | Deliverable | Location |
 | --- | --- |
 | Hawaii & Virginia notebook | `notebooks/collect_education_data.ipynb` |
 | National CRDC & ed-tech notebook | `notebooks/collect_federal_crdc_edtech.ipynb` |
+| Broad national K–12 notebook | `notebooks/collect_federal_broad_k12.ipynb` |
+| Colorado & Texas notebook | `notebooks/collect_state_colorado_texas.ipynb` |
 | Original downloads | `data/raw/` |
 | State-filtered federal extracts | `data/cleaned/` |
 | Download log & manifest | `logs/manifest.csv`, `logs/download_log.jsonl` |
 | Full source catalog | `docs/SOURCES.md` |
 
-### Phase 1 — Hawaii & Virginia
-
-State downloads from Hawaii DOE, Hawaii child-nutrition fiscal pages, and Virginia Open Data; baseline federal NCES/CRDC; HI/VA row extracts in `data/cleaned/`.
-
-### Phase 2 — National federal (CRDC & ed-tech)
-
-CRDC public-use zips (2015-16, 2020-21), individual CRDC spreadsheets from data.ed.gov, and NCES FRSS technology/internet surveys — all U.S. states, stored under `data/raw/federal/crdc/` and `data/raw/federal/edtech/`.
-
 ## How the data is organized
 
-We used two complementary layers:
+1. **Raw state downloads** (`data/raw/{{state}}/`) — files from state DOE portals, open-data APIs, and web scraping.
+2. **Cleaned state extracts** (`data/cleaned/{{state}}/`) — state-only rows from national NCES (schools, F-33 finance) and CRDC topic files.
 
-1. **Raw state downloads** (`data/raw/hawaii/`, `data/raw/virginia/`) — files pulled directly from Hawaii DOE, Hawaii child-nutrition fiscal pages, and Virginia's Open Data portal.
-2. **Cleaned state extracts** (`data/cleaned/hawaii/`, `data/cleaned/virginia/`) — Hawaii-only or Virginia-only rows cut from **national** NCES school directory and CRDC 2017-18 files. These are *additional* datasets, not filtered-down versions of the raw state files.
-
-**Important:** If Hawaii raw shows 78 files and cleaned shows 50, that does **not** mean 28 files were dropped. All 78 raw files remain in place; the 50 cleaned files come from separate federal sources.
+Raw and cleaned counts are **additive**, not overlapping.
 
 ## Files by category
 
@@ -329,39 +291,33 @@ We used two complementary layers:
 
 | State | Raw (state downloads) | Cleaned (federal extracts) | Combined datasets |
 | --- | ---: | ---: | ---: |
-| Hawaii | {hi_total_raw} | {hi_total_clean} | {hi_total_raw + hi_total_clean} |
-| Virginia | {va_total_raw} | {va_total_clean} | {va_total_raw + va_total_clean} |
-| **Both states** | **{hi_total_raw + va_total_raw}** | **{hi_total_clean + va_total_clean}** | **{hi_total_raw + hi_total_clean + va_total_raw + va_total_clean}** |
+{chr(10).join(total_rows)}
+| **All four states** | **{grand_raw}** | **{grand_clean}** | **{grand_raw + grand_clean}** |
 
-Plus **{fed_total_manifest}** federal national files in `data/raw/federal/` — including **{fed_crdc}** CRDC zip bundles and **{fed_edtech}** ed-tech survey files.
+Plus **{fed_files_on_disk}** federal files on disk under `data/raw/federal/` ({fed_crdc} CRDC zips, {fed_edtech} ed-tech survey files).
 
-## Collection methods (brief)
+## Collection methods
 
-| Method | What it collected |
+| Method | States / scope |
 | --- | --- |
-| Direct URL download | Known Hawaii DOE file links |
-| Virginia CKAN API | ~220 VDOE datasets from data.virginia.gov |
-| Web page link scraping | Additional Hawaii HIDOE and hcnf.hawaii.gov links |
-| PDF catalog parsing | Hawaii publicly available reports list |
-| Federal API / catalog | NCES and CRDC national files |
-| Phase 6 processing | Improved file categorization; HI/VA row extraction from federal zips |
-| CRDC zip + API downloads | National civil-rights datasets (2015-16, 2020-21) |
-| NCES FRSS ed-tech surveys | Internet access, devices, computer science in schools |
+| Direct URL download | HI, CO, TX hand-picked files |
+| Virginia CKAN API | VA (~220 datasets) |
+| Socrata open data API | CO, TX (exportable CSV datasets) |
+| BeautifulSoup HTML harvest | HI, CO (CDE), TX (TEA) |
+| ArcGIS Online `/data` URLs | TX geography & CTE layers |
+| NCES + CRDC federal filter | HI, VA, CO, TX → `data/cleaned/` |
 
 ## Known limitations
 
-- **Hawaii state test scores:** No automated exports from HIDOE dashboard sites (ARCH/Strive HI); test-score coverage comes mainly from CRDC cleaned files.
-- **Teachers category:** Limited direct state downloads; some teacher-related CRDC topics are filed under `other/`.
-- **Virginia:** Some doe.virginia.gov HTML pages returned HTTP 403; bulk coverage comes from the Open Data API.
-- **Federal Phase 3:** Some individual CRDC spreadsheet URLs on data.ed.gov timed out (502/504); the CRDC zip files remain the primary national deliverables.
+- **Hawaii test scores:** Limited HIDOE exports; CRDC cleaned files fill gaps.
+- **Colorado:** Thin state financials/teachers; one large Socrata crime dataset (~594 MB) is gitignored (re-download via notebook).
+- **Texas:** Strong PEIMS/assessments; discipline data not yet harvested from TEA pages.
+- **Federal:** Some data.ed.gov URLs time out; CRDC zips are the primary national source.
+- **Vintage:** NCES school universe is 2018-19; F-33 district finance is 2018.
 
 ## How to reproduce
 
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run `notebooks/collect_education_data.ipynb` top to bottom.
-3. Run `notebooks/collect_federal_crdc_edtech.ipynb` top to bottom.
-4. Regenerate docs: `python scripts/generate_docs.py`
-5. See `README.md` for folder layout.
+See `README.md`. Install `requirements.txt`, run notebooks in order, then `python scripts/generate_docs.py`.
 
 ---
 

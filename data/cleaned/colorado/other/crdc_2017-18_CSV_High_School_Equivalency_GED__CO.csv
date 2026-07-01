@@ -1,0 +1,187 @@
+LEA_STATE,LEA_STATE_NAME,LEAID,LEA_NAME,LEA_ADDRESS,LEA_CITY,LEA_ZIP,CJJ,LEA_HSE_IND,LEA_HSEPART_HI_M,LEA_HSEPART_HI_F,LEA_HSEPART_AM_M,LEA_HSEPART_AM_F,LEA_HSEPART_AS_M,LEA_HSEPART_AS_F,LEA_HSEPART_HP_M,LEA_HSEPART_HP_F,LEA_HSEPART_BL_M,LEA_HSEPART_BL_F,LEA_HSEPART_WH_M,LEA_HSEPART_WH_F,LEA_HSEPART_TR_M,LEA_HSEPART_TR_F,TOT_HSEPART_M,TOT_HSEPART_F,LEA_HSEPART_LEP_M,LEA_HSEPART_LEP_F,LEA_HSEPART_IDEA_M,LEA_HSEPART_IDEA_F
+CO,COLORADO,0800001,Cheyenne County School District No. Re-5,P O BOX 577,CHEYENNE WELLS,80810,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800004,DENVER 1,1700 SOUTH HOLLY STREET,DENVER,80222,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800016,Yuma 1 School District,PO BOX 327,YUMA,80759,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800017,Wray RD-2 School District,30222 COUNTY ROAD 35,WRAY,80758,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800018,Idalia RJ-3 School District,P O BOX 40,IDALIA,80735,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800019,Liberty J-4 School District,P O BOX 112,JOES,80822,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800020,State Charter School Institute,1580 LOGAN STREET SUITE 210,DENVER,80203,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800023,COLORADO SCHOOL FOR THE DEAF AND BLIND,33 N INSTITUTE ST,COLORADO SPRINGS,80903,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800282,COLORADO DIGITAL BOCES,4035 TUTT BLVD,COLORADO SPRINGS,80922,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0800286,DIVISION OF YOUTH SERVICES,4255 S. Knox Court,DENVER,80236,No,Yes,4,0,0,0,0,0,0,0,5,0,4,1,0,1,13,2,0,0,3,0
+CO,COLORADO,0800292,COLORADO RIVER BOCES,460 STONE QUARRY ROAD,PARACHUTE,81635,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0801920,Academy School District No. 20,1110 CHAPEL HILLS DRIVE,COLORADO SPRINGS,80920,No,Yes,7,2,0,0,1,0,0,0,2,0,10,7,1,1,21,10,2,0,1,0
+CO,COLORADO,0801950,School District N. 14 in the county of Adams & State of Colo,5291 EAST 60TH AVENUE,COMMERCE CITY,80022,No,Yes,26,22,0,0,0,0,0,0,0,0,4,2,1,0,31,24,12,10,6,2
+CO,COLORADO,0801980,Agate School District No. 300,PO BOX 118,AGATE,80101,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802010,Aguilar Reorganized School District No. 6,P O BOX 567,AGUILAR,81020,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802040,Akron School District No. R-1,P O BOX 429,AKRON,80720,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802070,Alamosa School District No. Re-11J,209 VICTORIA AVENUE,ALAMOSA,81101,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802130,South Conejos School District No. Re10,P O BOX 398,Antonito,81120,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802190,Archuleta County School District No. 50 Jt,P O BOX 1498,PAGOSA SPRINGS,81147,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802220,Arickaree School District No. R-2,12155 COUNTY ROAD NN,ANTON,80801,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802260,Arriba-Flagler Consolidated School District No. 20,P O BOX 218,FLAGLER,80815,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802280,Aspen School District No. 1 in the county of Pitkin and Sta,0235 HIGH SCHOOL ROAD,ASPEN,81611,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802310,Weld County School District No. Re-9,P O BOX 1390,AULT,80610,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802340,Aurora Joint District No. 28 of the counties of Adams and A,15701 E. 1ST AVE. SUITE 206,AURORA,80011,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802370,Platte Canyon School District No. 1 of  the county of Park,P O BOX 1069,BAILEY,80421,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802400,Bayfield School District No. 10Jt-R,24 CLOVER DRIVE,BAYFIELD,81122,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802430,Bennett School District No. 29J,615 7TH STREET,BENNETT,80102,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802460,Bethune School District No. R- 5,P. O. BOX 127,BETHUNE,80805,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802490,Boulder Valley School District No. Re2,P O BOX 9011 6500 ARAPAHOE RD,BOULDER,80301,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802520,Branson Reorganized School District No. 82,PO BOX 128,BRANSON,81027,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802550,School District No. Re-10 in the county of Weld and State of,P O BOX 129,BRIGGSDALE,80611,No,Yes,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+CO,COLORADO,0802580,School District 27J,18551 EAST 160TH AVENUE,BRIGHTON,80601,Yes,Yes,6,2,0,0,0,0,0,0,0,0,5,2,0,0,11,4,0,1,1,1
+CO,COLORADO,0802610,School District No. Re-2 Brush,527 INDUSTRIAL PARK ROAD,BRUSH,80723,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802640,Buena Vista School District No. R-31,P O BOX 2027,BUENA VISTA,81211,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802670,Burlington Public School District No. RE-6J,2600 Rose Ave.,BURLINGTON,80807,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802700,Byers School District No. 32J,444 EAST FRONT STREET,BYERS,80103,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802730,Calhan District No. RJ1,800 BULLDOG DRIVE,CALHAN,80808,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802760,Campo School District No. Re-6,P O BOX 70,CAMPO,81029,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802790,Fremont Re-1,101 NORTH 14TH STREET,CANON CITY,81212,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802850,Center Consolidated School District No. 26 Jt. of the count,550 S. SYLVESTER AVENUE,CENTER,81125,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802880,Cheraw School District No. 31 in the county of Otero and S,P.O. BOX 160,CHERAW,81030,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802910,Cherry Creek School District No. 5 in the County of Arapaho,4700 SOUTH YOSEMITE STREET,GREENWOOD VILLAGE,80111,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0802940,Cheyenne Mountain School District No. 12 in the county of E,1775 LACLEDE STREET,COLORADO SPRINGS,80905,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803000,Clear Creek School District No. Re-1,P O BOX 3399,IDAHO SPRINGS,80452,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803030,Plateau Valley School District No. 50 in the county of Mesa,56600 HIGHWAY 330,COLLBRAN,81624,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803060,COLORADO SPRINGS SCHOOL DISTRICT NO.11 IN THE COUNTY OF EL PASO,1115 NORTH EL PASO STREET,COLORADO SPRINGS,80903,Yes,Yes,6,1,0,1,0,0,0,0,3,1,16,11,0,0,25,14,25,14,0,0
+CO,COLORADO,0803090,Montezuma-Cortez School District No. Re-1,PO DRAWER R,CORTEZ,81321,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803120,Fremont RE-3,PO BOX 385,COTOPAXI,81223,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803150,Creede School District,P O BOX 429,CREEDE,81130,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803180,Cripple Creek-Victor School District No. Re-1,P O BOX 897,CRIPPLE CREEK,80813,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803210,Crowley County School District No. Re-1-J,1001 MAIN STREET,ORDWAY,81063,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803240,De Beque Joint District No. 49 of the counties of Mesa and,P O BOX 70,DE BEQUE,81630,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803270,Deer Trail School District No. 26J,P O BOX 129,DEER TRAIL,80105,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803300,Del Norte Consolidated School District No. C-7,770 11TH STREET,DEL NORTE,81132,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803330,Delta County Joint District No. 50,145 West 4th Street,DELTA,81416,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803360,School District No. 1 in the county of Denver and State of C,1860 LINCOLN ST,DENVER,80203,Yes,Yes,46,39,2,0,2,0,0,0,20,20,19,13,2,4,91,76,17,8,0,0
+CO,COLORADO,0803390,Dolores School District No. Re-4A,P.O. BOX 727,DOLORES,81323,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803420,Dolores County School District RE-2J,P O DRAWER 459,DOVE CREEK,81324,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803450,Douglas County School District No. Re 1,701 PRAIRIE HAWK DRIVE,CASTLE ROCK,80108,No,Yes,3,0,0,0,0,0,0,0,0,0,3,2,1,0,7,2,2,0,2,0
+CO,COLORADO,0803480,Durango School District 9-R,201 East 12th Street,Durango,81301,Yes,Yes,0,1,0,1,0,0,0,0,0,0,5,0,1,0,6,2,0,0,0,0
+CO,COLORADO,0803510,Kiowa County School District No. Re-1,210 WEST 10TH,EADS,81036,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803540,Eagle County School District No. Re 50,P O BOX 740,EAGLE,81631,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803600,Weld County School District No. Re-2,211 1ST ST,EATON,80615,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803630,Edison Joint District No. 54 of the counties of El Paso and,14550 EDISON ROAD,YODER,80864,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803690,Elbert School District No. 200,P O BOX 38,ELBERT,80106,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803720,Elizabeth School District,P O BOX 610,ELIZABETH,80107,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803750,Ellicott School District No. 22,322 SOUTH ELLICOTT HIGHWAY,ELLICOTT,80808,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803780,Englewood School District No. 1 in the county of Arapahoe,4101 SOUTH BANNOCK STREET,ENGLEWOOD,80110,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803810,Estes Park School District R-3,1605 BRODIE AVENUE,ESTES PARK,80517,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803840,Park County School District No. Re-2,P.O. BOX 189,FAIRPLAY,80440,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803870,Falcon School District No. 49 in the county of El Paso and,10850 EAST WOODMEN ROAD,PEYTON,80831,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803930,School District No. Re-3 Frenchman,506 NORTH FREMONTAVE,FLEMING,80728,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803960,Fremont Re-2,403 WEST 5TH STREET,FLORENCE,81226,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0803990,Poudre School District R-1,2407 LAPORTE AVENUE,Fort Collins,80521,Yes,Yes,3,2,1,0,0,0,0,0,1,0,8,5,1,1,14,8,0,0,0,0
+CO,COLORADO,0804020,Weld County Reorganized School District No. Re-8,200 South Fulton Ave,FORT LUPTON,80621,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804050,Morgan County School District Re-3,715 W. PLATTE AVENUE,FORT MORGAN,80701,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804080,Fountain School District No. 8 in the county of El Paso an,10665 JIMMY CAMP ROAD,FOUNTAIN,80817,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804110,Fowler School District No. R4J,P O BOX 218,FOWLER,81039,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804140,Sierra Grande School District No. R-30,17523 HIGHWAY 160,BLANCA,81123,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804200,Weld County Reorganized School District No. Re-1,P O BOX 157,GILCREST,80623,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804230,Gilpin County School District No. Re-1,10595 HIGHWAY 119,BLACK HAWK,80422,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804260,Roaring Fork School District No. Re-1,400 Sopris Avenue,Carbondale,81623,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804290,Granada School District No. Re-1,P O BOX 259,GRANADA,81041,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804320,East Grand School District No. 2,P O BOX 125,GRANBY,80446,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804350,Mesa County Valley School District No. 51,2115 GRAND AVENUE,GRAND JUNCTION,81501,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804380,Garfield County School District No. 16,P O BOX 68,PARACHUTE,81635,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804410,Greeley-Evans School District 6,1025  9TH AVENUE,GREELEY,80631,Yes,Yes,54,28,0,0,7,1,0,0,0,1,14,8,0,1,75,39,17,9,7,1
+CO,COLORADO,0804440,School District No. Re-12 in the county of Weld and State of,P O BOX 220,GROVER,80729,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804470,Gunnison Watershed School District Re1J,800 NORTH BOULEVARD,GUNNISON,81230,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804500,Hanover School District No. 28 in the county of El Paso an,7930 Indian Village Heights,Fountain,80817,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804530,Harrison School District No. 2 in the county of El Paso an,1060 HARRISON ROAD,COLORADO SPRINGS,80905,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804560,Haxtun School District No. Re-2J,201 WEST POWELL STREET,HAXTUN,80731,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804590,Hayden School District No. Re 1,P O BOX 70,HAYDEN,81639,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804620,Hinsdale County School District No. Re-1,P O BOX 39,LAKE CITY,81235,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804650,Hoehne Reorganized School District No. 3,P O BOX 91,HOEHNE,81046,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804680,Holly School District No. Re-3,P O BOX 608,HOLLY,81047,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804710,Holyoke School District No. Re-1J,435 SOUTH MORLAN,HOLYOKE,80734,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804740,Genoa-Hugo School District No. C-113,P O BOX 247,HUGO,80821,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804770,Ignacio School District No. 11Jt,P O BOX 460,IGNACIO,81137,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804800,Jefferson County School District No. R-1,P O BOX 4001,GOLDEN,80401,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804830,Weld County School District No. Re-5J,110 SO CENTENNIAL DR SUITE A,MILLIKEN,80543,No,Yes,3,0,0,0,0,0,0,0,0,0,3,0,0,1,6,1,1,0,1,0
+CO,COLORADO,0804860,Julesburg School District No. Re1,102 WEST 6TH STREET,JULESBURG,80737,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804890,Karval School District No. Re 23,P.O. BOX 5,KARVAL,80823,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804920,Weld County School District RE-3J,PO BOX 269,KEENESBURG,80643,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804950,Weld County School District No. Re-7,P O BOX 485,KERSEY,80644,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0804980,Kim Reorganized School District No. 88,PO BOX 100,KIM,81049,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805010,School District No. C-2 in the county of Elbert and State of,P O BOX 128,KIOWA,80117,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805040,Kit Carson School District No. R-1,P O BOX 185,KIT CARSON,80825,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805070,West Grand School District No. 1,P O BOX 515,KREMMLING,80459,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805100,North Conejos School District No. Re1J,P O BOX 72,LA JARA,81140,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805130,East Otero School District No. R1,301 RATON AVENUE,LA JUNTA,81050,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805160,La Veta School District Re-2,PO BOX 85,LA VETA,81055,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805190,Lake County School District No. R-1,328 W. 5th Street,LEADVILLE,80461,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805220,Lamar School District No. Re-2,210 W PEARL,LAMAR,81052,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805250,Las Animas School District No. Re-1,1021 2ND STREET,LAS ANIMAS,81054,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805280,Limon School District No. Re 4J,P O BOX 249,LIMON,80828,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805310,Littleton School District No. 6 in the county of Arapahoe,5776 SOUTH CROCKER STREET,LITTLETON,80120,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805340,Lone Star School District No. 101,44940 COUNTY ROAD 54,OTIS,80743,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805370,St. Vrain Valley School District No. Re1J,395 SOUTH PRATT PARKWAY,LONGMONT,80501,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805400,Thompson School District R-2J,800 SOUTH TAFT AVENUE,LOVELAND,80537,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805460,Mancos School District Re-6,395 WEST GRAND AVENUE,MANCOS,81328,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805490,Manitou Springs School District No. 14 in the county of El Paso,405 EL MONTE PLACE,MANITOU SPRINGS,80829,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805520,Manzanola Joint District No. 3J of the counties of Otero a,P O BOX 148,MANZANOLA,81058,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805550,Mapleton School District No. 1 in the county of Adams & St,7350 N. BROADWAY,DENVER,80221,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805580,McClave School District No. Re-2,P O BOX 1,MC CLAVE,81057,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805610,Meeker School District Re1,P O BOX 1089,MEEKER,81641,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805640,School District No. Re-4 Buffalo,P O BOX 198,MERINO,80741,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805670,Miami-Yoder Joint District No. 60 of the counties of El Pas,420 S RUSH RD,RUSH,80833,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805700,Moffat School District No. 2 in the county of Saguache and,P O BOX 428,MOFFAT,81143,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805730,Moffat County School District RE: No. 1,775 YAMPA AVENUE,CRAIG,81625,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805760,Monte Vista School District No. C-8,345 EAST PROSPECT,MONTE VISTA,81144,No,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0
+CO,COLORADO,0805790,Montrose County School District Re-1J,P O BOX 10000,MONTROSE,81402,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805820,Lewis-Palmer Consolidated School District No. 38 in the co,P O BOX 40,MONUMENT,80132,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805850,West End School District No. Re-2,PO BOX 570,NUCLA,81424,No,Yes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+CO,COLORADO,0805880,Norwood School District No. R-2J,P O BOX 448,NORWOOD,81423,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805910,South Routt School District No. Re 3,P O BOX 158,OAK CREEK,80467,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805940,Otis School District No. R-3,518 DUNGAN STREET,OTIS,80743,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0805970,Ouray School District No. R-1 of  the county of Ouray and,P O BOX N,OURAY,81427,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806000,Revere School District,500 MAIN ST,OVID,80744,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806030,School District No. Re-5 Plateau,P O BOX 39,PEETZ,80747,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806060,Peyton School District No. 23 in the county of El Paso and,13990 BRADSHAW ROAD,PEYTON,80831,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806090,Pritchett School District No. Re-3,P O BOX 7,PRITCHETT,81064,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806120,Pueblo School District No. 60 in the county of Pueblo,315 WEST 11TH STREET,PUEBLO,81003,Yes,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806150,Pueblo County School District 70,24951 Hwy 50 E,PUEBLO,81006,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806180,Rangely School District RE4,402 WEST MAIN ST.,RANGELY,81648,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806210,Ridgway School District No. R-2  of  the county of Ouray a,1115 WEST CLINTON STREET,RIDGWAY,81432,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806240,Garfield School District No. Re-2,839 WHITERIVER AVE,RIFLE,81650,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806270,Rocky Ford School District No. R2,601 SOUTH 8TH STREET,ROCKY FORD,81067,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806300,Mountain Valley School District No. Re 1,P O BOX 127,SAGUACHE,81149,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806330,Salida School District No. R-32,349 EAST 9TH STREET,SALIDA,81201,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806360,Centennial School District No. R-1,P O BOX 350,SAN LUIS,81152,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806390,Sanford School District No. 6 in the county of Conejos and,PO BOX 39,SANFORD,81151,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806420,Sangre de Cristo School District No. Re-22J,8751 LANE 7 N,MOSCA,81146,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806450,Sargent School District No. Re-33J,7090 NORTH COUNTY RD 2 EAST,MONTE VISTA,81144,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806480,School District No. 3 in the county of El Paso and State of,1820 MAIN STREET,COLORADO SPRINGS,80911,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806510,Hi-Plains R-23,350 PATRIOT DRIVE,Seibert,80834,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806540,Sheridan School District No. 2,P.O. BOX 1198,ENGLEWOOD,80150,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806570,Silverton School District No. 1 in the county of San Juan,P O BOX 128,SILVERTON,81433,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806600,Big Sandy School District No. 100J,P O BOX 68,SIMLA,80835,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806630,Springfield School District No. Re-4,389 TIPTON STREET,SPRINGFIELD,81073,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806660,Steamboat Springs School District No. Re 2,325 7TH ST.,STEAMBOAT SPRINGS,80487,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806690,School District No. Re-1 Valley,301 HAGEN STREET,STERLING,80751,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806720,School District No. Re-11 in the county of Weld and State of,P O BOX 68,NEW RAYMER,80742,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806750,Strasburg School District 31J,56729 EAST COLORADO AVENUE,STRASBURG,80136,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806780,School District No. R-4 in the county of Kit Carson and Stat,219 ILLINOIS AVE,STRATTON,80836,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806810,"Summit School District, Re 1",P O BOX 7,FRISCO,80443,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806840,Swink School District No. 33 in the county of Otero and St,P O BOX 487,SWINK,81077,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806870,Telluride School District No. R-1,725 WEST COLORADO AVE.,TELLURIDE,81435,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806900,Adams 12 Five Star Schools,1500 E 128TH AVENUE,THORNTON,80241,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806930,Kiowa County School District No. Re-2,13997 COUNTY RD 71,SHERIDAN LAKE,81071,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806960,Trinidad School District 1 in the county of Las Animas and,612 Park Street,TRINIDAD,81082,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0806990,Vilas School District Re-5,P O BOX 727,VILAS,81087,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807050,North Park School District R-1,P O BOX 798,WALDEN,80480,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807080,Huerfano School District Re-1,201 EAST FIFTH STREET,WALSENBURG,81089,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807110,Walsh School District No. Re-1,P O BOX 68,WALSH,81090,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807140,School District No. Re-20 Weldon Valley,911 NORTH AVENUE,WELDONA,80653,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807200,Custer County School District Consolidate 1,P O BOX 730,WESTCLIFFE,81252,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807230,Westminster Public Schools,6933 RALEIGH STREET,WESTMINSTER,80030,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807260,Primero Reorganized School District No. 2,20200 STATE HIGHWAY 12,WESTON,81091,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807290,School District No. Re-50 Wiggins,320 CHAPMAN STREET,WIGGINS,80654,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807320,Wiley School District No. Re-13 Jt,P O BOX 247,WILEY,81092,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807350,Weld County Reorganized School District No. Re-4,P O BOX 609,WINDSOR,80550,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807380,Woodland Park School District No. Re-2,P O BOX 99,WOODLAND PARK,80866,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0807410,Woodlin School District No. R-104,15400 CO RD L  BOX 185,WOODROW,80757,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0899200,CENTENNIAL BOCES,2020 CLUBHOUSE DR.,GREELEY,80634,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
+CO,COLORADO,0899300,SAN JUAN BOCES,201 EAST 12TH,DURANGO,81301,No,No,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9,-9
